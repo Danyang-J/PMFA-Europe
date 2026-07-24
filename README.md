@@ -60,7 +60,7 @@ The numerical values in `Input/20260618_FeedData.xlsx` are the model inputs used
 │   ├── Chart_*.pdf
 │   ├── Chart_*.tex
 │   └── flow_*.txt
-├── LICENSE
+├── LICENSE.txt
 └── README.md
 ```
 
@@ -73,7 +73,7 @@ The model is run through `Code/00_MasterScript.R`, which executes the following 
 3.  `04_Merging.R` combines transfer coefficients within the anthroposphere with those for environmental release flows and prepares the complete transfer coefficient matrix.
 4.  `05_CalculationScript.R` constructs and solves the material flow system for every country and polymer using Monte Carlo simulation.
 5.  The scripts numbered `06` to `08` aggregate and export emission factors, environmental releases, end-of-life flows, and regional results.
-6.  The scripts numbered `09` generate the emission maps (`09.1`), polymer- and product-specific heatmaps (`09.2`), country-level comparisons (`09.3`), and country heterogeneity figures (`09.4`).
+6.  The scripts numbered `09` generate the emission maps (`09.1`), polymer- and product-specific heatmaps (`09.2`), country-level comparisons (`09.3`), country heterogeneity figures (`09.4`), product-specific emission figures (`09.5`), and uncertainty figures (`09.6`).
 7.  `10_DataForWriting.R` prepares selected aggregated results for reporting.
 8.  The scripts numbered `11` prepare and generate the flow charts in `Charts/`.
 
@@ -170,6 +170,8 @@ Running the complete workflow produces or updates three main categories of outpu
 The large intermediate `.Rdata` files generated in `Results/Emissions/` are not included in the repository. They are recreated when the complete model workflow is run.
 
 The `Charts/` directory contains the complete set of flow charts generated from the model results. The PDF files provide the rendered charts, while the corresponding TeX and text files retain the editable chart definitions and underlying formatted flow data.
+
+The repository also includes the complete country-level sets of product-specific emission figures and uncertainty figures in `Results/Graphs/EmissionsbyProd/` and `Results/Graphs/Uncertainty/`. The European aggregates from these figure sets are presented in the supporting information of the associated study, while the country-level figures are provided here as extended model results.
 
 An aggregated flow chart for the complete modeled region is available here:
 

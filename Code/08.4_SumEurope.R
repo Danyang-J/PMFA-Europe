@@ -126,10 +126,6 @@ save(Input, file = "Input/InputReady.Mod2_EU.Rdata")
 save(FC.Mass, Masses, file = "Results/Emissions/ProcessedMass_EU.Rdata")
 
 # EU EOL ##########################################################################
-# -------------------------------------------------------------------------
-# Build and save EU totals for EOL (same logic as your lifecycle EU totals)
-# Output: Results/Emissions/ProcessedMassEOL_EU.Rdata
-# -------------------------------------------------------------------------
 
 # Initialize EU totals (EOL) ---------------------------------------------------
 Systems <- Systems.all[[1]]

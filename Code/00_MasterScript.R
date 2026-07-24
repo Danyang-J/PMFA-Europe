@@ -4,8 +4,10 @@ output_dirs <- c(
   "Results/Tables/EM",
   "Results/Tables/Flows",
   "Results/Graphs",
+  "Results/Graphs/EmissionsbyProd",
   "Results/Graphs/Maps",
   "Results/Graphs/Maps/Detailed",
+  "Results/Graphs/Uncertainty",
   "Charts"
 )
 
@@ -81,6 +83,9 @@ source("Code/09.3_Country_MP_MaP_Scatter.R")
 source("Code/09.3_GDP.R")
 source("Code/09.4_CountryHeterogeneity_ByPolymer.R")
 source("Code/09.4_CountryHeterogeneity_ByProduct.R")
+source("Code/09.5_EmissionsByProduct_Countries.R")
+source("Code/09.5_EmissionsByProduct_Europe.R")
+source("Code/09.6_Uncertainty_Bubbles.R")
 
 message(paste0("\n\n",format(Sys.time(), "%H:%M:%S"), " Results exported as graphs"))
 
