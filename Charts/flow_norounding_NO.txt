@@ -1,0 +1,137 @@
+Hoi,Text_LDPE,Text_HDPE,Text_PP,Text_PS,Text_EPS,Text_PVC,Text_PET,Text_Plastic,Text_AllPE,Text_AllPS,Width_LDPE,Width_HDPE,Width_PP,Width_PS,Width_EPS,Width_PVC,Width_PET,Width_Plastic,Width_AllPE,Width_AllPS
+Import to Pre-consumer processes,78317.85,104376.84,147090.59,34068.53,33446.82,80402.03,89673.92,567376.58,182694.69,67515.35,10,10,10,10,10,10,10,10,10,10
+Pre-consumer processes to Waste collection and recycling,3863.03,5031.81,7429.66,1510.33,1458.53,3486.42,5678.41,28458.19,8894.83,2968.86,8,8,8,8,8,8,8,10,8,8
+Pre-consumer processes to Storm water and wastewater (MP),0.94,1.09,2.3,0.03,0.02,0.06,3.75,8.2,2.04,0.05,1,2,2,1,1,1,2,2,2,1
+Pre-consumer processes to ExcludedFlow,74450.96,99340,139653.19,32556.75,31986.86,76912.2,83989.32,538889.29,173790.96,64543.61,10,10,10,10,10,10,10,10,10,10
+Pre-consumer processes to Soil (MP),2.92,3.94,5.42,1.42,1.41,3.34,2.44,20.88,6.85,2.83,2,2,2,2,2,2,2,4,2,2
+Pre-consumer processes to Fresh water (MP),0,0.01,0.01,0,0,0.01,0,0.03,0.01,0,1,1,1,1,1,1,1,1,1,1
+Consumer packaging to Waste collection and recycling,12742.22,27334.44,39857.16,9712.75,1594.71,3838.95,32846.23,127926.47,40076.66,11307.47,10,10,10,8,8,8,10,10,10,10
+Consumer packaging to On-the-go consumption,1230.33,2270.27,4458.66,685.23,0,535.39,12038.37,21218.24,3500.6,685.23,8,8,8,6,0,6,10,10,8,6
+Consumer packaging to Dumping,9.7,20.48,30.95,7.17,1.1,3.06,31.15,103.61,30.18,8.28,2,4,4,2,2,2,4,6,4,2
+Consumer packaging to Organic waste collection,64.97,58.99,120.81,14.57,1.73,11.8,56.89,329.76,123.96,16.3,4,4,6,4,2,4,4,6,6,4
+Non-consumer packaging to Waste collection and recycling,20939.4,19388.79,14870.8,4672.83,2086.34,121.79,12426.47,74506.43,40328.19,6759.17,10,10,10,8,8,6,10,10,10,8
+Non-consumer packaging to Litter,242.85,222.74,169.86,53.7,24.06,1.39,142.84,857.44,465.58,77.76,6,6,6,4,4,2,6,6,6,4
+Non-consumer packaging to Dumping,14.66,13.57,10.43,3.29,1.46,0.09,8.73,52.23,28.23,4.75,4,4,4,2,2,1,2,4,4,2
+Construction to Waste collection and recycling,9348.39,25810.96,13904.69,0,28200.61,51964.62,3263.41,132492.69,35159.34,28200.61,8,10,10,0,10,10,8,10,10,10
+Construction to Soil (MP),0.03,0.4,3.21,0,0,0.11,2.05,5.81,0.43,0,1,1,2,0,0,1,2,2,1,0
+Construction to UnintendedCDWaste,59.62,2.04,0,0,320.89,169.95,0,552.51,61.66,320.89,4,2,0,0,6,6,0,6,4,6
+Construction to Soil,0,1.91,28.31,0,0,0,37.48,67.7,1.91,0,0,2,4,0,0,0,4,4,2,0
+Construction to Indoor air (MP),0,0,0,0,0,12.69,0,12.69,0,0,0,0,0,0,0,4,0,4,0,0
+Construction to Air (MP),0,0,0,0,2.85,0,0,2.85,0,2.85,0,0,0,0,2,0,0,2,0,2
+Automotive to Waste collection and recycling,1487.23,3965.7,18010.19,671.69,0,4845.41,3361.68,32341.9,5452.93,671.69,8,8,10,6,0,8,8,10,8,6
+Automotive to Soil,0.86,2.93,13.82,0.02,0,0.97,0,18.59,3.79,0.02,1,2,4,1,0,1,1,4,2,1
+Agriculture to Waste collection and recycling,7795.17,767.71,3489.55,14.24,0,138.24,322.68,12527.6,8562.89,14.24,8,6,8,4,0,6,6,10,8,4
+Agriculture to Dumping,5.55,0.54,2.46,0.01,0,0.1,0.23,8.89,6.09,0.01,2,1,2,1,0,1,1,2,2,1
+Agriculture to Organic waste collection,41.9,2.09,18.72,0.02,0,0.31,1.76,64.79,43.99,0.02,4,2,4,1,0,1,2,4,4,1
+Agriculture to Soil (MP),145.22,3.42,23.58,0.01,0,1.02,4.04,177.29,148.64,0.01,6,2,4,1,0,2,2,6,6,1
+Agriculture to Soil,17.51,7.31,4.18,0.3,0,2.77,0.2,32.27,24.82,0.3,4,2,2,1,0,2,1,4,4,1
+Hygiene products to Waste collection and recycling,0,192.76,263.53,0,0,0,412.64,868.92,192.76,0,0,6,6,0,0,0,6,6,6,0
+Hygiene products to Storm water and wastewater,0,109.67,116.19,0,0,0,107.93,333.79,109.67,0,0,6,6,0,0,0,6,6,6,0
+Hygiene products to Dumping,0,0.21,0.26,0,0,0,0.36,0.83,0.21,0,0,1,1,0,0,0,1,1,1,0
+PCCP to Waste collection and recycling,0,0.17,0,0,0,0,0,0.17,0.17,0,0,1,1,0,0,0,1,1,1,0
+PCCP to Storm water and wastewater (MP),0,3.22,0.01,0,0,0,0.02,3.25,3.22,0,0,2,1,0,0,0,1,2,2,0
+Clothing to Waste collection and recycling,0,128.92,2653.51,0,0,0,13868.31,16650.74,128.92,0,0,6,8,0,0,0,10,10,6,0
+Clothing to Storm water and wastewater (MP),0,1,20.61,0,0,0,107.75,129.37,1,0,0,2,4,0,0,0,6,6,2,0
+Clothing to Dumping,0,0.09,1.84,0,0,0,9.65,11.58,0.09,0,0,1,2,0,0,0,2,4,1,0
+Clothing to Indoor air (MP),0,0.37,7.61,0,0,0,39.63,47.61,0.37,0,0,1,2,0,0,0,4,4,1,0
+Clothing to Air (MP),0,0.15,3.18,0,0,0,16.57,19.91,0.15,0,0,1,2,0,0,0,4,4,1,0
+Household textiles to Waste collection and recycling,0,17.94,2070.25,0,0,0,6307.92,8396.11,17.94,0,0,4,8,0,0,0,8,8,4,0
+Household textiles to Storm water and wastewater (MP),0,0.01,1.29,0,0,0,3.93,5.22,0.01,0,0,1,2,0,0,0,2,2,1,0
+Household textiles to Dumping,0,0.01,1.43,0,0,0,4.36,5.8,0.01,0,0,1,2,0,0,0,2,2,1,0
+Household textiles to Indoor air (MP),0,0.03,3.68,0,0,0,11.21,14.91,0.03,0,0,1,2,0,0,0,4,4,1,0
+Household textiles to Air (MP),0,0,0.18,0,0,0,0.56,0.74,0,0,0,1,1,0,0,0,1,1,1,0
+Other products to Waste collection and recycling,13669.76,13600.94,40382.44,16768.7,1100.48,18480.77,4409.73,108412.84,27270.71,17869.19,10,10,10,10,8,10,8,10,10,10
+Other products to Storm water and wastewater (MP),0,0,0,0,0,10.41,0,10.41,0,0,0,0,0,0,0,4,0,4,0,0
+Other products to Dumping,9.51,9.46,26.81,12.15,0.76,12.99,2.56,74.25,18.97,12.91,2,2,4,4,1,4,2,4,4,4
+Other products to Organic waste collection,1.41,3.35,3.82,2.65,0.58,2.44,0.12,14.37,4.76,3.23,2,2,2,2,1,2,1,4,2,2
+Other products to Soil (MP),0,0,0,0,0,6.97,0,6.97,0,0,0,0,0,0,0,2,0,2,0,0
+Other products to Soil,0.52,0,0,0,0,0,0,0.52,0.52,0,1,0,0,0,0,0,0,1,1,0
+Other products to Indoor air (MP),1.29,3.1,3.53,2.44,0.53,5.72,0.11,16.72,4.39,2.97,2,2,2,2,1,2,1,4,2,2
+Other products to Air (MP),0,0,0,0,0,7.01,0,7.01,0,0,0,0,0,0,0,2,0,2,0,0
+Other products to Export,39,37.22,1377.28,785.98,0,314.48,0.14,2554.1,76.22,785.98,4,4,8,6,0,6,1,8,4,6
+Other products to Fresh water,0.08,0,0,0,0,0,0,0.08,0.08,0,1,0,0,0,0,0,0,1,1,0
+Fishing gear to Waste collection and recycling,10189.53,10155.59,4554.89,0,0,0,0,24900.01,20345.12,0,10,10,8,0,0,0,0,10,10,0
+Fishing gear to Fresh water (MP),0,0,0,0,0,0,0,0.01,0.01,0,1,1,1,0,0,0,0,1,1,0
+Fishing gear to Coastal and ocean water,320.06,319.3,55.12,0,0,0,0,694.48,639.35,0,6,6,4,0,0,0,0,6,6,0
+Fishing gear to Coastal and ocean water (MP),49.93,49.53,21.91,0,0,0,0,121.37,99.46,0,4,4,4,0,0,0,0,6,4,0
+Waste collection and recycling to Storm water and wastewater (MP),22.88,58.95,235.63,10.24,0.05,72.77,1.87,402.39,81.83,10.28,4,4,6,4,1,4,2,6,4,4
+Waste collection and recycling to Litter,106.04,291.43,158.57,0,320.27,589.65,36.75,1502.69,397.47,320.27,6,6,6,0,6,6,4,8,6,6
+Waste collection and recycling to Soil (MP),1.78,4.27,15.66,0.76,0.11,4.92,0.68,28.18,6.05,0.87,2,2,4,1,1,2,1,4,2,1
+Waste collection and recycling to Soil,5.65,6.42,10.27,2.87,0.54,2.24,8.3,36.29,12.06,3.41,2,2,4,2,1,2,2,4,4,2
+Waste collection and recycling to Air (MP),1.43,3.63,14.91,0.64,0,4.63,0,25.24,5.05,0.64,2,2,4,1,0,2,1,4,2,1
+Waste collection and recycling to Landfill,2363.21,2873.1,4252.29,1124.95,189.68,847.02,2800.69,14450.93,5236.3,1314.63,8,8,8,8,6,6,8,10,8,8
+Waste collection and recycling to Reuse,10120.48,12855.73,16479.87,1945.65,1349.59,4899.39,15321.7,62972.42,22976.22,3295.24,10,10,10,8,8,8,10,10,10,8
+Waste collection and recycling to End-of-life,69043.74,93111.2,131153.49,31012.37,33193.25,77669,76910.14,512093.18,162154.93,64205.61,10,10,10,10,10,10,10,10,10,10
+Storm water and wastewater to Waste collection and recycling,0.31,69.75,74.09,0.11,0.02,0.05,69.64,213.97,70.07,0.13,1,4,4,1,1,1,4,6,4,1
+Storm water and wastewater to Compost,0.05,12.4,13.21,0.02,0,0.01,12.27,37.95,12.45,0.02,1,4,4,1,1,1,4,4,4,1
+Storm water and wastewater to Fresh water,0.23,0.39,0.49,0.08,0.02,0.03,0.89,2.13,0.62,0.09,1,1,1,1,1,1,1,2,1,1
+Storm water and wastewater to Coastal and ocean water,1.85,3.05,3.82,0.62,0.13,0.27,7.13,16.86,4.9,0.75,2,2,2,1,1,1,2,4,2,1
+Storm water and wastewater to Landfill,0.02,4.1,4.36,0.01,0,0,4.04,12.54,4.12,0.01,1,2,2,1,1,1,2,4,2,1
+Storm water and wastewater to End-of-life,0,0,0,0,0,0,0,0.01,0,0,1,1,1,1,1,1,1,1,1,1
+Storm water and wastewater to Sludge amended soil,0.1,23.11,24.36,0.03,0.01,0.01,22.78,70.41,23.21,0.04,1,4,4,1,1,1,4,4,4,1
+Storm water and wastewater (MP) to Compost (MP),5.87,15.89,64.86,2.6,0.02,20.4,30.11,139.75,21.76,2.62,2,4,4,2,1,4,4,6,4,2
+Storm water and wastewater (MP) to Soil (MP),2.72,7.43,28.21,1.16,0.03,8.81,13.76,62.12,10.15,1.19,2,2,4,2,1,2,4,4,4,2
+Storm water and wastewater (MP) to Fresh water (MP),0.21,0.57,2.24,0.09,0,1.01,1.04,5.16,0.77,0.09,1,1,2,1,1,2,2,2,1,1
+Storm water and wastewater (MP) to Coastal and ocean water (MP),2.21,6,24.13,0.97,0.02,10.14,11.16,54.62,8.21,0.99,2,2,4,1,1,4,4,4,2,1
+Storm water and wastewater (MP) to Landfill,1.95,5.25,21.34,0.86,0.01,6.69,9.98,46.08,7.2,0.87,2,2,4,1,1,2,2,4,2,1
+Storm water and wastewater (MP) to End-of-life,0,0,0.02,0,0,0.01,0.01,0.04,0.01,0,1,1,1,1,1,1,1,1,1,1
+Storm water and wastewater (MP) to Sludge amended soil (MP),10.98,29.46,120.39,4.81,0.04,37.85,55.86,259.39,40.44,4.85,4,4,6,2,1,4,4,6,4,2
+On-the-go consumption to Waste collection and recycling,1045.29,1930.46,3789.57,582.89,0,455.57,10229.4,18033.19,2975.75,582.89,8,8,8,6,0,6,10,10,8,6
+On-the-go consumption to Litter,185.03,339.81,669.09,102.34,0,79.82,1808.97,3185.06,524.84,102.34,6,6,6,6,0,4,8,8,6,6
+Litter to Waste collection and recycling,525.07,804.96,962.73,162.69,294.31,579.89,1857.53,5187.19,1330.03,457.01,6,6,6,6,6,6,8,8,8,6
+Litter to Storm water and wastewater,2.56,3.15,4.15,0.86,0.18,0.37,8.82,20.08,5.71,1.04,2,2,2,1,1,1,2,4,2,2
+Litter to Soil,45.39,89.82,104.21,15,53.14,106.77,177.94,592.28,135.21,68.13,4,4,6,4,4,6,6,6,6,4
+Litter to Fresh water,0.05,0.06,0.08,0.02,0,0.01,0.18,0.4,0.11,0.02,1,1,1,1,1,1,1,1,1,1
+Litter to Coastal and ocean water,0.27,0.34,0.51,0.1,0.02,0.05,1.14,2.42,0.61,0.11,1,1,1,1,1,1,2,2,1,1
+Dumping to Litter,39.42,44.36,74.18,22.62,3.32,16.23,57.05,257.19,83.78,25.94,4,4,4,4,2,4,4,6,4,4
+Unintended C&D waste to Waste collection and recycling,59.13,2.02,0,0,318.18,168.54,0,547.88,61.15,318.18,4,2,0,0,6,6,0,6,4,6
+Unintended C&D waste to Soil,0.49,0.02,0,0,1.89,1.41,0,3.81,0.51,1.89,1,1,0,0,2,2,0,2,1,2
+Unintended C&D waste to Fresh water,0,0,0,0,0.12,0,0,0.12,0,0.12,0,0,0,0,1,0,0,1,0,1
+Unintended C&D waste to Coastal and ocean water,0,0,0,0,0.7,0,0,0.7,0,0.7,0,0,0,0,1,0,0,1,0,1
+Indoor air to Waste collection and recycling,0.66,1.79,7.61,1.25,0.27,9.36,26.08,47.03,2.45,1.52,1,2,2,2,1,2,4,4,2,2
+Indoor air to Storm water and wastewater (MP),0.12,0.32,1.35,0.22,0.05,1.67,4.61,8.33,0.44,0.27,1,1,2,1,1,2,2,2,1,1
+Indoor air to Air (MP),0.51,1.39,5.85,0.97,0.21,7.38,20.26,36.58,1.9,1.18,1,2,2,1,1,2,4,4,2,2
+Air to Soil (MP),1.27,3.4,15.81,1.05,2.01,12.47,24.33,60.34,4.67,3.06,2,2,4,2,2,4,4,4,2,2
+Air to Fresh water (MP),0.11,0.28,1.3,0.09,0.16,1.03,2.05,5.02,0.38,0.25,1,1,2,1,1,2,2,2,1,1
+Air to Coastal and ocean water (MP),0.57,1.49,7.02,0.48,0.88,5.53,11,26.97,2.06,1.36,1,2,2,1,1,2,4,4,2,2
+Organic waste collection to Compost,0.69,0.41,0.91,0.11,0.01,0.09,0.37,2.6,1.1,0.12,1,1,1,1,1,1,1,2,2,1
+Organic waste collection to Compost (MP),0.58,0.35,0.77,0.09,0.01,0.08,0.31,2.19,0.93,0.11,1,1,1,1,1,1,1,2,1,1
+Organic waste collection to End-of-life,107.01,63.67,141.69,17.03,2.28,14.37,58.08,404.13,170.68,19.32,6,4,6,4,2,4,4,6,6,4
+Compost to Soil,0.75,12.81,14.11,0.13,0.02,0.1,12.64,40.55,13.55,0.15,1,4,4,1,1,1,4,4,4,1
+Compost (MP) to Soil (MP),6.45,16.23,65.63,2.69,0.04,20.48,30.43,141.94,22.69,2.72,2,4,4,2,1,4,4,6,4,2
+Total to Soil (MP),160.38,39.1,157.52,7.09,3.59,58.11,77.74,503.53,199.48,10.68,6,4,6,2,2,4,4,6,6,4
+Total to Fresh water (MP),0.32,0.85,3.56,0.18,0.17,2.05,3.1,10.23,1.18,0.35,1,1,2,1,1,2,2,4,2,1
+Total to Soil,71.17,121.21,174.91,18.32,55.59,114.26,236.56,792.02,192.38,73.9,4,6,6,4,4,6,6,6,6,4
+Total to Fresh water,0.36,0.46,0.57,0.09,0.14,0.04,1.07,2.74,0.82,0.24,1,1,1,1,1,1,2,2,1,1
+Total to Coastal and ocean water,322.17,322.69,59.45,0.72,0.84,0.32,8.26,714.46,644.87,1.56,6,6,4,1,1,1,2,6,6,2
+Total to Coastal and ocean water (MP),52.7,57.03,53.06,1.45,0.9,15.67,22.16,202.96,109.73,2.35,4,4,4,2,1,4,4,6,6,2
+Total to Landfill,2365.17,2882.45,4277.99,1125.82,189.69,853.71,2814.71,14509.55,5247.62,1315.51,8,8,8,8,6,6,8,10,8,8
+Total to Sludge amended soil,0.1,23.11,24.36,0.03,0.01,0.01,22.78,70.41,23.21,0.04,1,4,4,1,1,1,4,4,4,1
+Total to Sludge amended soil (MP),10.98,29.46,120.39,4.81,0.04,37.85,55.86,259.39,40.44,4.85,4,4,6,2,1,4,4,6,4,2
+External to Import,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to Production,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+External to Pre-consumer processes,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to Consumer packaging,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to Non-consumer packaging,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to Construction,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,1
+External to Automotive,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1
+External to Agriculture,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1
+External to Hygiene products,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0
+External to PCCP,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0
+External to Clothing,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0
+External to Household textiles,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0
+External to Other products,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to Fishing gear,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0
+External to Waste collection and recycling,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to Storm water and wastewater,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to Storm water and wastewater (MP),0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to On-the-go consumption,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1
+External to Litter,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to Dumping,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to Unintended C&D waste,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,1,1
+External to Indoor air,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to Air,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to Organic waste collection,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to Compost,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to Compost (MP),0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+External to Total,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1

@@ -1,0 +1,19 @@
+
+\input{code_header}
+
+% For importing data
+\readdef{0_flow.txt}\myflowdef
+
+\input{code_dataimportation}
+
+% For importing data
+\newcommand{\tottext}[1]{\csname#1textPlastic\endcsname}
+\newcommand{\totwidth}[1]{\csname#1widthPlastic\endcsname}
+
+\input{0_code_tikzpicture}
+
+\node[font=\Huge](title) at (0,20.9){\textbf{Overview of Emission Flows}};
+
+\end{tikzpicture}
+\end{document}
+

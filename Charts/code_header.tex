@@ -1,0 +1,130 @@
+\documentclass{standalone}
+%\documentclass[11pt,hyperref={colorlinks=false,runcolor=blue}]{beamer}
+
+%\usepackage{tgheros}
+%\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+%\usepackage[T1]{fontenc}
+
+\usepackage{arev}
+\usepackage[T1]{fontenc}
+
+%\usepackage{PTSansCaption} 
+%\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+%\usepackage[T1]{fontenc}
+
+
+\usepackage{tikz}
+\usetikzlibrary{backgrounds,fit,calc,shadows,chains,ocgx,shapes.geometric,arrows,positioning}
+%\usepackage{microtype}
+\usepackage{url}
+%\usepackage{fancyvrb}
+%\usepackage{listings}
+\usepackage{pgfplots}
+
+
+\definecolor{mygreen}{RGB}{127,196,79}
+\definecolor{myblue}{RGB}{72,175,194}
+\definecolor{mydarkblue}{RGB}{45,108,134}
+\definecolor{mylightblue}{RGB}{181,223,230}
+\definecolor{mybrown}{RGB}{178,140,110}
+\definecolor{mypink}{RGB}{173,110,207}
+\definecolor{myorange}{RGB}{238,120,0}
+\definecolor{myred}{RGB}{186,62,93}
+\definecolor{mylandfill}{RGB}{164,141,87}
+\definecolor{mysludge}{RGB}{210,190,135}
+\definecolor{myocean}{RGB}{70,150,155}
+
+\definecolor{lightblue}{RGB}{212,226,237}
+\definecolor{lightbrown}{RGB}{247,240,220}
+\definecolor{lightgreen}{RGB}{232,247,240}
+\definecolor{lightgray}{RGB}{237,237,237}
+
+\definecolor{fillgreen}{RGB}{164,218,143}
+\definecolor{fillyellow}{RGB}{255,237,171}
+\definecolor{fillblue}{RGB}{167,223,226}
+\definecolor{fillpurple}{RGB}{226,197,236}
+\definecolor{fillorange}{RGB}{251,216,181}
+\definecolor{fillpurple}{RGB}{231,208,239}
+\definecolor{fillstorm}{RGB}{173,203,228}
+\definecolor{filllandfill}{RGB}{234,215,164}
+\definecolor{fillsludge}{RGB}{238,220,179}
+\definecolor{fillocean}{RGB}{103,181,183}
+
+% USE readarray  TO GET THE DATA INTO A \def
+\usepackage{readarray}
+\readarraysepchar{;}
+
+\usepackage{etoolbox}
+
+% for too large figure margins because of bounding boxes around the tikz figure
+\usepackage{adjustbox}
+
+\begin{document}
+
+% defining a new command for plotting the barplots
+% needs to be used inside a tikzpicture environment
+% #1 first variable is the name of the flow to look up in the file
+% #2 is the name of the button that will switch it on
+\newcommand{\barplot}[4]{
+\begin{scope}[xshift=#3 cm, yshift=#4 cm,ocg={name=#2,ref=#2,status=invisible}]
+
+  %\hideocg{s0a s0b s1 s2 s3 s4 s5 s6 s7 s8 s9 s10 s11 s12 s13 s14 s15 s16 s17 s18 s19 s20 s21}{hide}  
+  
+  \draw[draw=black,fill=white,drop shadow={fill=black}] (-2,-1) rectangle ++(11.5,9);
+  
+  \begin{axis}[
+    title=\textbf{#1} ,
+    width=10cm,
+    ylabel={Flow (t)},
+    %enlargelimits=0.1,
+    ymin=0,
+    bar width=7mm,
+    grid=major,
+    symbolic x coords={LDPE,HDPE,PP,PS,EPS,PVC,PET}
+    ]
+    
+  \addplot[ybar,fill=red!70] 
+    coordinates {(LDPE,\LDPEmean{#1})};
+    
+  \addplot[ybar,fill=orange!72] 
+    coordinates {(HDPE,\HDPEmean{#1})};
+    
+  \addplot[ybar,fill=yellow!75] 
+    coordinates {(PP,\PPmean{#1})};
+    
+  \addplot[ybar,fill=lime!75] 
+    coordinates {(PS,\PSmean{#1})};
+    
+  \addplot[ybar,fill=cyan!72] 
+    coordinates {(EPS,\EPSmean{#1})};
+    
+  \addplot[ybar,fill=blue!70] 
+    coordinates {(PVC,\PVCmean{#1})};
+    
+  \addplot[ybar,fill=violet!70] 
+    coordinates {(PET,\PETmean{#1})};
+
+  \addplot[draw=black,ultra thick] coordinates {(LDPE,\LDPElow{#1}) (LDPE,\LDPEhigh{#1})};
+  \addplot[draw=black,ultra thick] coordinates {(HDPE,\HDPElow{#1}) (HDPE,\HDPEhigh{#1})};
+  \addplot[draw=black,ultra thick] coordinates {(PP,\PPlow{#1}) (PP,\PPhigh{#1})};
+  \addplot[draw=black,ultra thick] coordinates {(PS,\PSlow{#1}) (PS,\PShigh{#1})};
+  \addplot[draw=black,ultra thick] coordinates {(EPS,\EPSlow{#1}) (EPS,\EPShigh{#1})};
+  \addplot[draw=black,ultra thick] coordinates {(PVC,\PVClow{#1}) (PVC,\PVChigh{#1})};
+  \addplot[draw=black,ultra thick] coordinates {(PET,\PETlow{#1}) (PET,\PEThigh{#1})};
+
+  \end{axis}  
+  
+  \node at (4.25,6.5) {\textbf{\tottext{#1} t}};
+  
+\end{scope}
+}
+
+% create interactive button function
+\tikzset{%
+  button on/.style={%
+    draw,circle,drop shadow,
+    line width=1pt,
+    fill=orange!50!red!50,
+    switch ocg with mark on={#1}{},
+  },
+}

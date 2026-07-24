@@ -1,0 +1,1646 @@
+dest,pol,prod,mean,sd,mean_percap,sd_percap
+Incineration,LDPE,Pre-consumer processes,0,0,0,0
+Landfill,LDPE,Pre-consumer processes,2.7180176458534035e-6,1.8143504359935487e-6,0.0020453308333904514,0.0013653137590826237
+Sludge amended soil,LDPE,Pre-consumer processes,0,0,0,0
+Sludge amended soil (MP),LDPE,Pre-consumer processes,1.3599803128245538e-5,8.434968323826268e-6,0.010233964709050596,0.006347383659452571
+Release,LDPE,Pre-consumer processes,6.284095257241358e-4,5.677903852600591e-4,0.47288338282891634,0.42726697659477886
+Incineration,HDPE,Pre-consumer processes,0,0,0,0
+Landfill,HDPE,Pre-consumer processes,1.9147165380499538e-4,1.2777755899052453e-4,0.14408400837466137,0.09615367347500395
+Sludge amended soil,HDPE,Pre-consumer processes,0,0,0,0
+Sludge amended soil (MP),HDPE,Pre-consumer processes,9.572065489656345e-4,5.993895918212861e-4,0.7203058712696354,0.4510456417513322
+Release,HDPE,Pre-consumer processes,0.02347017074985995,0.009646659445121735,17.66149825144158,7.25919128318598
+Incineration,PP,Pre-consumer processes,0,0,0,0
+Landfill,PP,Pre-consumer processes,4.177412360212455e-5,3.1399148475036216e-5,0.031435374664192835,0.0236281197865557
+Sludge amended soil,PP,Pre-consumer processes,0,0,0,0
+Sludge amended soil (MP),PP,Pre-consumer processes,2.0908092937239897e-4,1.4725086508161008e-4,0.15733513436592445,0.11080749790359472
+Release,PP,Pre-consumer processes,0.0014368361233132918,0.0010489231074935703,1.0812311060692743,0.7893233426520727
+Incineration,PS,Pre-consumer processes,0,0,0,0
+Landfill,PS,Pre-consumer processes,2.213596783863156e-6,1.524874519407249e-6,0.0016657499489145867,0.0011474807296977016
+Sludge amended soil,PS,Pre-consumer processes,0,0,0,0
+Sludge amended soil (MP),PS,Pre-consumer processes,1.1059064411372907e-5,7.172533212463693e-6,0.0083220377408293,0.005397390762105558
+Release,PS,Pre-consumer processes,4.8531551524137127e-4,2.719473042811672e-4,0.36520395250571813,0.20464260316788474
+Incineration,EPS,Pre-consumer processes,0,0,0,0
+Landfill,EPS,Pre-consumer processes,7.479378862616916e-5,5.5594961614162115e-5,0.056282946601385934,0.04183566995750745
+Sludge amended soil,EPS,Pre-consumer processes,0,0,0,0
+Sludge amended soil (MP),EPS,Pre-consumer processes,3.7477733366921495e-4,2.645904095380606e-4,0.28202305359530777,0.19910647882408583
+Release,EPS,Pre-consumer processes,0.010265402564741434,0.004293658540925572,7.724800615206713,3.231013682049872
+Incineration,PVC,Pre-consumer processes,0,0,0,0
+Landfill,PVC,Pre-consumer processes,8.114682112152371e-7,7.753275943199943e-7,6.106365627341615e-4,5.834404486153429e-4
+Sludge amended soil,PVC,Pre-consumer processes,0,0,0,0
+Sludge amended soil (MP),PVC,Pre-consumer processes,4.0543588795226855e-6,3.6750228541482385e-6,0.003050938701067347,0.0027654851941345277
+Release,PVC,Pre-consumer processes,7.261648085558724e-4,6.617229385217096e-4,0.5464450443610206,0.49795200240329296
+Incineration,PET,Pre-consumer processes,0,0,0,0
+Landfill,PET,Pre-consumer processes,7.636109850731115e-5,6.0877073312752015e-5,0.057462360292929775,0.04581050284316599
+Sludge amended soil,PET,Pre-consumer processes,0,0,0,0
+Sludge amended soil (MP),PET,Pre-consumer processes,3.8067262031877544e-4,2.863073820498944e-4,0.2864593057198723,0.21544868085287364
+Release,PET,Pre-consumer processes,8.831027883509596e-4,5.533166333186949e-4,0.6645421764729481,0.4163753581515799
+Incineration,LDPE,ConsumerFilms,0,0,0,0
+Landfill,LDPE,ConsumerFilms,7.675330163168185e-6,1.2010301819447958e-5,0.005775749639863212,0.009037851784045136
+Sludge amended soil,LDPE,ConsumerFilms,3.870422837904911e-5,5.9683777601946224e-5,0.02912525303396229,0.04491253791847643
+Sludge amended soil (MP),LDPE,ConsumerFilms,0,0,0,0
+Release,LDPE,ConsumerFilms,0.006632127035353635,0.005066307462410801,4.990730629385626,3.812438407128663
+Incineration,HDPE,ConsumerFilms,0,0,0,0
+Landfill,HDPE,ConsumerFilms,9.91919949874781e-6,1.5772417140165336e-5,0.007464279935154712,0.011868874781991074
+Sludge amended soil,HDPE,ConsumerFilms,4.988348748750323e-5,7.702663708324028e-5,0.03753773828175508,0.057963183594145394
+Sludge amended soil (MP),HDPE,ConsumerFilms,0,0,0,0
+Release,HDPE,ConsumerFilms,0.006958060908947382,0.0059099912179331575,5.23599857395718,4.447317434287708
+Incineration,PP,ConsumerFilms,0,0,0,0
+Landfill,PP,ConsumerFilms,2.253564673727241e-5,3.5803479068586914e-5,0.016958261177022618,0.02694241510659424
+Sludge amended soil,PP,ConsumerFilms,1.1224475660054841e-4,1.720190976946032e-4,0.08446511078092182,0.12944579847873164
+Sludge amended soil (MP),PP,ConsumerFilms,0,0,0,0
+Release,PP,ConsumerFilms,0.01670582865617339,0.013760952159578026,12.571274693502158,10.355230692388925
+Incineration,PS,ConsumerFilms,0,0,0,0
+Landfill,PS,ConsumerFilms,1.0613401952930953e-6,1.7268819235390027e-6,7.986673042617519e-4,0.0012994929776219103
+Sludge amended soil,PS,ConsumerFilms,5.3028427117465925e-6,8.3487260226215e-6,0.0039904331450908185,0.006282485612132767
+Sludge amended soil (MP),PS,ConsumerFilms,0,0,0,0
+Release,PS,ConsumerFilms,7.726304040145178e-4,6.393835860461538e-4,0.5814107905284172,0.4811414542871179
+Incineration,EPS,ConsumerFilms,0,0,0,0
+Landfill,EPS,ConsumerFilms,0,0,0,0
+Sludge amended soil,EPS,ConsumerFilms,0,0,0,0
+Sludge amended soil (MP),EPS,ConsumerFilms,0,0,0,0
+Release,EPS,ConsumerFilms,0,0,0,0
+Incineration,PVC,ConsumerFilms,0,0,0,0
+Landfill,PVC,ConsumerFilms,2.3009298370543088e-6,3.704612444751669e-6,0.001731468796155517,0.0027877516066064723
+Sludge amended soil,PVC,ConsumerFilms,1.1516841435323413e-5,1.8204169318833003e-5,0.008666518750116385,0.013698788475811751
+Sludge amended soil (MP),PVC,ConsumerFilms,0,0,0,0
+Release,PVC,ConsumerFilms,0.0016899713490704854,0.0013983846190295495,1.271717464039875,1.052296030014207
+Incineration,PET,ConsumerFilms,0,0,0,0
+Landfill,PET,ConsumerFilms,2.6118379440122876e-6,4.083066400874976e-6,0.001965429726645557,0.0030725413491081463
+Sludge amended soil,PET,ConsumerFilms,1.318830192666616e-5,2.0431164378662694e-5,0.00992430664010776,0.01537462073857387
+Sludge amended soil (MP),PET,ConsumerFilms,0,0,0,0
+Release,PET,ConsumerFilms,0.0019146907582813606,0.0015797246785761554,1.4408206842568194,1.188755929634571
+Incineration,LDPE,ConsumerBags,0,0,0,0
+Landfill,LDPE,ConsumerBags,8.458770760226145e-7,1.3491626210870542e-6,6.365295190362885e-4,0.0010152560681042993
+Sludge amended soil,LDPE,ConsumerBags,4.26491082835429e-6,6.728274189056989e-6,0.003209380789783262,0.005063082160403908
+Sludge amended soil (MP),LDPE,ConsumerBags,0,0,0,0
+Release,LDPE,ConsumerBags,6.784997500354495e-4,5.428086251956298e-4,0.51057669228615,0.40846799484052454
+Incineration,HDPE,ConsumerBags,0,0,0,0
+Landfill,HDPE,ConsumerBags,2.122319531326849e-6,3.455753477268575e-6,0.0015970630589363362,0.002600483168472743
+Sludge amended soil,HDPE,ConsumerBags,1.0687376788859571e-5,1.6920627783735787e-5,0.008042339720518096,0.012732912819457296
+Sludge amended soil (MP),HDPE,ConsumerBags,0,0,0,0
+Release,HDPE,ConsumerBags,0.0015116448769662237,0.0012711640300788504,1.1375253139774832,0.9565614811160679
+Incineration,PP,ConsumerBags,0,0,0,0
+Landfill,PP,ConsumerBags,0,0,0,0
+Sludge amended soil,PP,ConsumerBags,0,0,0,0
+Sludge amended soil (MP),PP,ConsumerBags,0,0,0,0
+Release,PP,ConsumerBags,0,0,0,0
+Incineration,PS,ConsumerBags,0,0,0,0
+Landfill,PS,ConsumerBags,0,0,0,0
+Sludge amended soil,PS,ConsumerBags,0,0,0,0
+Sludge amended soil (MP),PS,ConsumerBags,0,0,0,0
+Release,PS,ConsumerBags,0,0,0,0
+Incineration,EPS,ConsumerBags,0,0,0,0
+Landfill,EPS,ConsumerBags,0,0,0,0
+Sludge amended soil,EPS,ConsumerBags,0,0,0,0
+Sludge amended soil (MP),EPS,ConsumerBags,0,0,0,0
+Release,EPS,ConsumerBags,0,0,0,0
+Incineration,PVC,ConsumerBags,0,0,0,0
+Landfill,PVC,ConsumerBags,0,0,0,0
+Sludge amended soil,PVC,ConsumerBags,0,0,0,0
+Sludge amended soil (MP),PVC,ConsumerBags,0,0,0,0
+Release,PVC,ConsumerBags,0,0,0,0
+Incineration,PET,ConsumerBags,0,0,0,0
+Landfill,PET,ConsumerBags,0,0,0,0
+Sludge amended soil,PET,ConsumerBags,0,0,0,0
+Sludge amended soil (MP),PET,ConsumerBags,0,0,0,0
+Release,PET,ConsumerBags,0,0,0,0
+Incineration,LDPE,ConsumerBottles,0,0,0,0
+Landfill,LDPE,ConsumerBottles,0,0,0,0
+Sludge amended soil,LDPE,ConsumerBottles,0,0,0,0
+Sludge amended soil (MP),LDPE,ConsumerBottles,0,0,0,0
+Release,LDPE,ConsumerBottles,0,0,0,0
+Incineration,HDPE,ConsumerBottles,0,0,0,0
+Landfill,HDPE,ConsumerBottles,6.870529903670417e-7,9.213074222057234e-7,5.170130766129012e-4,6.932914804816079e-4
+Sludge amended soil,HDPE,ConsumerBottles,3.4678954386720915e-6,4.508483806313968e-6,0.0026096200951863484,0.003392671476935973
+Sludge amended soil (MP),HDPE,ConsumerBottles,0,0,0,0
+Release,HDPE,ConsumerBottles,0.003300629015387515,0.002468124814504414,2.4837507236402097,1.8572844041183378
+Incineration,PP,ConsumerBottles,0,0,0,0
+Landfill,PP,ConsumerBottles,9.591091747580553e-8,1.2933177538566907e-7,7.217376129669637e-5,9.732323420968122e-5
+Sludge amended soil,PP,ConsumerBottles,4.810314099923328e-7,6.31569104161473e-7,3.6198012775508925e-4,4.752609918220957e-4
+Sludge amended soil (MP),PP,ConsumerBottles,0,0,0,0
+Release,PP,ConsumerBottles,4.6101660374047793e-4,3.467626361211386e-4,0.3469188199619968,0.2609417612164286
+Incineration,PS,ConsumerBottles,0,0,0,0
+Landfill,PS,ConsumerBottles,0,0,0,0
+Sludge amended soil,PS,ConsumerBottles,0,0,0,0
+Sludge amended soil (MP),PS,ConsumerBottles,0,0,0,0
+Release,PS,ConsumerBottles,0,0,0,0
+Incineration,EPS,ConsumerBottles,0,0,0,0
+Landfill,EPS,ConsumerBottles,0,0,0,0
+Sludge amended soil,EPS,ConsumerBottles,0,0,0,0
+Sludge amended soil (MP),EPS,ConsumerBottles,0,0,0,0
+Release,EPS,ConsumerBottles,0,0,0,0
+Incineration,PVC,ConsumerBottles,0,0,0,0
+Landfill,PVC,ConsumerBottles,0,0,0,0
+Sludge amended soil,PVC,ConsumerBottles,0,0,0,0
+Sludge amended soil (MP),PVC,ConsumerBottles,0,0,0,0
+Release,PVC,ConsumerBottles,0,0,0,0
+Incineration,PET,ConsumerBottles,0,0,0,0
+Landfill,PET,ConsumerBottles,7.378298894443367e-5,1.1796127750429059e-4,0.055522311452975884,0.08876684019830895
+Sludge amended soil,PET,ConsumerBottles,3.7174717928614985e-4,5.815191316457275e-4,0.2797428372769658,0.4375979721750481
+Sludge amended soil (MP),PET,ConsumerBottles,0,0,0,0
+Release,PET,ConsumerBottles,0.05000339332934711,0.043091704353338194,37.62796842275548,32.42686511314203
+Incineration,LDPE,ConsumerOther,0,0,0,0
+Landfill,LDPE,ConsumerOther,8.426154552648349e-8,1.1248296941551165e-7,6.340751223502e-5,8.464436790093954e-5
+Sludge amended soil,LDPE,ConsumerOther,4.235054964729022e-7,5.526249969043441e-7,3.186914004652775e-4,4.158548960103847e-4
+Sludge amended soil (MP),LDPE,ConsumerOther,0,0,0,0
+Release,LDPE,ConsumerOther,4.1205985701122923e-4,3.1854337957089687e-4,0.31007846179118737,0.23970653649093104
+Incineration,HDPE,ConsumerOther,0,0,0,0
+Landfill,HDPE,ConsumerOther,3.874356178283131e-6,6.5247341693081465e-6,0.0029154851746708193,0.0049099166065097585
+Sludge amended soil,HDPE,ConsumerOther,1.943162523608951e-5,3.137395276798239e-5,0.014622459239326617,0.02360915980791653
+Sludge amended soil (MP),HDPE,ConsumerOther,0,0,0,0
+Release,HDPE,ConsumerOther,0.003008198064470597,0.0023441812040470907,2.26369400639978,1.7640158087297666
+Incineration,PP,ConsumerOther,0,0,0,0
+Landfill,PP,ConsumerOther,9.292412746216096e-6,1.4269534762399039e-5,0.006992617702619329,0.010737943321375253
+Sludge amended soil,PP,ConsumerOther,4.6550812060623586e-5,6.898515559521525e-5,0.035029872367536775,0.05191190204389927
+Sludge amended soil (MP),PP,ConsumerOther,0,0,0,0
+Release,PP,ConsumerOther,0.009555361122673868,0.006879183957204096,7.190488537924438,5.176643013226911
+Incineration,PS,ConsumerOther,0,0,0,0
+Landfill,PS,ConsumerOther,3.989857450579153e-6,6.385699698043437e-6,0.0030024008405360814,0.004805292013135361
+Sludge amended soil,PS,ConsumerOther,1.999952468570433e-5,3.103231905173094e-5,0.015049808287753402,0.02335207760146328
+Sludge amended soil (MP),PS,ConsumerOther,0,0,0,0
+Release,PS,ConsumerOther,0.003878967492872368,0.0027951218664838233,2.9189552271652244,2.10335239924766
+Incineration,EPS,ConsumerOther,0,0,0,0
+Landfill,EPS,ConsumerOther,5.744122206230773e-8,7.610550687671439e-8,4.3224996265532885e-5,5.7270025469933446e-5
+Sludge amended soil,EPS,ConsumerOther,2.896640853339647e-7,3.766758910610733e-7,2.1797462792901796e-4,2.8345173378745196e-4
+Sludge amended soil (MP),EPS,ConsumerOther,0,0,0,0
+Release,EPS,ConsumerOther,2.749327746388818e-4,2.082601012920688e-4,0.20688919438634967,0.15671745442401042
+Incineration,PVC,ConsumerOther,0,0,0,0
+Landfill,PVC,ConsumerOther,1.494075557009874e-6,2.300137244347547e-6,0.0011243042549151014,0.0017308723635665185
+Sludge amended soil,PVC,ConsumerOther,7.516117522097236e-6,1.1497895093433752e-5,0.005655940806265411,0.008652261470622266
+Sludge amended soil (MP),PVC,ConsumerOther,0,0,0,0
+Release,PVC,ConsumerOther,0.0013488174268396788,0.0010097132286151227,1.014996306568629,0.759817583421281
+Incineration,PET,ConsumerOther,0,0,0,0
+Landfill,PET,ConsumerOther,7.773781067359697e-6,1.2516375036077978e-5,0.0058498347622410124,0.009418676079099141
+Sludge amended soil,PET,ConsumerOther,3.915356166709224e-5,6.16772742942913e-5,0.02946338006191054,0.046412660722070315
+Sludge amended soil (MP),PET,ConsumerOther,0,0,0,0
+Release,PET,ConsumerOther,0.006704521856551252,0.005018970147156526,5.04520833308971,3.776816684581275
+Incineration,LDPE,AgriculturalPackagingFilms,0,0,0,0
+Landfill,LDPE,AgriculturalPackagingFilms,7.379037909458395e-8,9.738135546163118e-8,5.5527872602289544e-5,7.328027808314403e-5
+Sludge amended soil,LDPE,AgriculturalPackagingFilms,3.7059384905977006e-7,4.790100683334194e-7,2.788749467109518e-4,3.604590513830872e-4
+Sludge amended soil (MP),LDPE,AgriculturalPackagingFilms,0,0,0,0
+Release,LDPE,AgriculturalPackagingFilms,7.316560269892418e-4,4.3110412264549936e-4,0.5505772317998281,0.32440942971572445
+Incineration,HDPE,AgriculturalPackagingFilms,0,0,0,0
+Landfill,HDPE,AgriculturalPackagingFilms,5.401280026466152e-10,7.382116411495306e-10,4.064508041278205e-7,5.555103858558017e-7
+Sludge amended soil,HDPE,AgriculturalPackagingFilms,2.711600220857092e-9,3.5263840809810668e-9,2.0405016678271035e-6,2.653633283879291e-6
+Sludge amended soil (MP),HDPE,AgriculturalPackagingFilms,0,0,0,0
+Release,HDPE,AgriculturalPackagingFilms,5.268040905034083e-6,3.0672936929727426e-6,0.003964244496744335,0.002308163957240027
+Incineration,PP,AgriculturalPackagingFilms,0,0,0,0
+Landfill,PP,AgriculturalPackagingFilms,5.570919267910934e-8,7.281399098365376e-8,4.19216297818022e-5,5.4793132446467505e-5
+Sludge amended soil,PP,AgriculturalPackagingFilms,2.7989629767043613e-7,3.5770486877965853e-7,2.106242866563243e-4,2.691758820937328e-4
+Sludge amended soil (MP),PP,AgriculturalPackagingFilms,0,0,0,0
+Release,PP,AgriculturalPackagingFilms,5.571380995623243e-4,3.260834768213655e-4,0.41925104321152806,0.24538052224178655
+Incineration,PS,AgriculturalPackagingFilms,0,0,0,0
+Landfill,PS,AgriculturalPackagingFilms,0,0,0,0
+Sludge amended soil,PS,AgriculturalPackagingFilms,0,0,0,0
+Sludge amended soil (MP),PS,AgriculturalPackagingFilms,0,0,0,0
+Release,PS,AgriculturalPackagingFilms,0,0,0,0
+Incineration,EPS,AgriculturalPackagingFilms,0,0,0,0
+Landfill,EPS,AgriculturalPackagingFilms,0,0,0,0
+Sludge amended soil,EPS,AgriculturalPackagingFilms,0,0,0,0
+Sludge amended soil (MP),EPS,AgriculturalPackagingFilms,0,0,0,0
+Release,EPS,AgriculturalPackagingFilms,0,0,0,0
+Incineration,PVC,AgriculturalPackagingFilms,0,0,0,0
+Landfill,PVC,AgriculturalPackagingFilms,0,0,0,0
+Sludge amended soil,PVC,AgriculturalPackagingFilms,0,0,0,0
+Sludge amended soil (MP),PVC,AgriculturalPackagingFilms,0,0,0,0
+Release,PVC,AgriculturalPackagingFilms,0,0,0,0
+Incineration,PET,AgriculturalPackagingFilms,0,0,0,0
+Landfill,PET,AgriculturalPackagingFilms,0,0,0,0
+Sludge amended soil,PET,AgriculturalPackagingFilms,0,0,0,0
+Sludge amended soil (MP),PET,AgriculturalPackagingFilms,0,0,0,0
+Release,PET,AgriculturalPackagingFilms,0,0,0,0
+Incineration,LDPE,AgriculturalPackagingBottles,0,0,0,0
+Landfill,LDPE,AgriculturalPackagingBottles,0,0,0,0
+Sludge amended soil,LDPE,AgriculturalPackagingBottles,0,0,0,0
+Sludge amended soil (MP),LDPE,AgriculturalPackagingBottles,0,0,0,0
+Release,LDPE,AgriculturalPackagingBottles,0,0,0,0
+Incineration,HDPE,AgriculturalPackagingBottles,0,0,0,0
+Landfill,HDPE,AgriculturalPackagingBottles,1.526175273544537e-8,2.0848245721584666e-8,1.1484595579800398e-5,1.5688477910182616e-5
+Sludge amended soil,HDPE,AgriculturalPackagingBottles,7.659036316094853e-8,9.97551774097566e-8,5.763488384729539e-5,7.506659879776009e-5
+Sludge amended soil (MP),HDPE,AgriculturalPackagingBottles,0,0,0,0
+Release,HDPE,AgriculturalPackagingBottles,0.0012171930898929018,9.270542223621476e-4,0.9159479007598843,0.6976159952879041
+Incineration,PP,AgriculturalPackagingBottles,0,0,0,0
+Landfill,PP,AgriculturalPackagingBottles,0,0,0,0
+Sludge amended soil,PP,AgriculturalPackagingBottles,0,0,0,0
+Sludge amended soil (MP),PP,AgriculturalPackagingBottles,0,0,0,0
+Release,PP,AgriculturalPackagingBottles,0,0,0,0
+Incineration,PS,AgriculturalPackagingBottles,0,0,0,0
+Landfill,PS,AgriculturalPackagingBottles,0,0,0,0
+Sludge amended soil,PS,AgriculturalPackagingBottles,0,0,0,0
+Sludge amended soil (MP),PS,AgriculturalPackagingBottles,0,0,0,0
+Release,PS,AgriculturalPackagingBottles,0,0,0,0
+Incineration,EPS,AgriculturalPackagingBottles,0,0,0,0
+Landfill,EPS,AgriculturalPackagingBottles,0,0,0,0
+Sludge amended soil,EPS,AgriculturalPackagingBottles,0,0,0,0
+Sludge amended soil (MP),EPS,AgriculturalPackagingBottles,0,0,0,0
+Release,EPS,AgriculturalPackagingBottles,0,0,0,0
+Incineration,PVC,AgriculturalPackagingBottles,0,0,0,0
+Landfill,PVC,AgriculturalPackagingBottles,0,0,0,0
+Sludge amended soil,PVC,AgriculturalPackagingBottles,0,0,0,0
+Sludge amended soil (MP),PVC,AgriculturalPackagingBottles,0,0,0,0
+Release,PVC,AgriculturalPackagingBottles,0,0,0,0
+Incineration,PET,AgriculturalPackagingBottles,0,0,0,0
+Landfill,PET,AgriculturalPackagingBottles,0,0,0,0
+Sludge amended soil,PET,AgriculturalPackagingBottles,0,0,0,0
+Sludge amended soil (MP),PET,AgriculturalPackagingBottles,0,0,0,0
+Release,PET,AgriculturalPackagingBottles,0,0,0,0
+Incineration,LDPE,BuildingPackagingFilms,0,0,0,0
+Landfill,LDPE,BuildingPackagingFilms,0,0,0,0
+Sludge amended soil,LDPE,BuildingPackagingFilms,0,0,0,0
+Sludge amended soil (MP),LDPE,BuildingPackagingFilms,0,0,0,0
+Release,LDPE,BuildingPackagingFilms,1.5130631393899668e-4,1.4392217102647138e-4,0.1138592568220496,0.10830262800465003
+Incineration,HDPE,BuildingPackagingFilms,0,0,0,0
+Landfill,HDPE,BuildingPackagingFilms,0,0,0,0
+Sludge amended soil,HDPE,BuildingPackagingFilms,0,0,0,0
+Sludge amended soil (MP),HDPE,BuildingPackagingFilms,0,0,0,0
+Release,HDPE,BuildingPackagingFilms,5.0992004256924964e-6,4.970225820492309e-6,0.0038371906349533302,0.003740136174272124
+Incineration,PP,BuildingPackagingFilms,0,0,0,0
+Landfill,PP,BuildingPackagingFilms,0,0,0,0
+Sludge amended soil,PP,BuildingPackagingFilms,0,0,0,0
+Sludge amended soil (MP),PP,BuildingPackagingFilms,0,0,0,0
+Release,PP,BuildingPackagingFilms,0,0,0,0
+Incineration,PS,BuildingPackagingFilms,0,0,0,0
+Landfill,PS,BuildingPackagingFilms,0,0,0,0
+Sludge amended soil,PS,BuildingPackagingFilms,0,0,0,0
+Sludge amended soil (MP),PS,BuildingPackagingFilms,0,0,0,0
+Release,PS,BuildingPackagingFilms,0,0,0,0
+Incineration,EPS,BuildingPackagingFilms,0,0,0,0
+Landfill,EPS,BuildingPackagingFilms,0,0,0,0
+Sludge amended soil,EPS,BuildingPackagingFilms,0,0,0,0
+Sludge amended soil (MP),EPS,BuildingPackagingFilms,0,0,0,0
+Release,EPS,BuildingPackagingFilms,0,0,0,0
+Incineration,PVC,BuildingPackagingFilms,0,0,0,0
+Landfill,PVC,BuildingPackagingFilms,0,0,0,0
+Sludge amended soil,PVC,BuildingPackagingFilms,0,0,0,0
+Sludge amended soil (MP),PVC,BuildingPackagingFilms,0,0,0,0
+Release,PVC,BuildingPackagingFilms,0,0,0,0
+Incineration,PET,BuildingPackagingFilms,0,0,0,0
+Landfill,PET,BuildingPackagingFilms,0,0,0,0
+Sludge amended soil,PET,BuildingPackagingFilms,0,0,0,0
+Sludge amended soil (MP),PET,BuildingPackagingFilms,0,0,0,0
+Release,PET,BuildingPackagingFilms,0,0,0,0
+Incineration,LDPE,OtherNonConsumerFilms,0,0,0,0
+Landfill,LDPE,OtherNonConsumerFilms,1.966470784749062e-5,2.793607916137924e-5,0.014797855838591953,0.021022131390491788
+Sludge amended soil,LDPE,OtherNonConsumerFilms,9.858340871637943e-5,1.361816517148125e-4,0.07418483313232288,0.10247782298958942
+Sludge amended soil (MP),LDPE,OtherNonConsumerFilms,0,0,0,0
+Release,LDPE,OtherNonConsumerFilms,0.004397441139547445,0.0030244270885190615,3.3091109487304395,2.2759064816693204
+Incineration,HDPE,OtherNonConsumerFilms,0,0,0,0
+Landfill,HDPE,OtherNonConsumerFilms,1.0517615606175943e-6,1.5261339188972064e-6,7.914593021821945e-4,0.0011484284382647508
+Sludge amended soil,HDPE,OtherNonConsumerFilms,5.276210565118895e-6,7.333041672090622e-6,0.003970392233752327,0.005518174709919807
+Sludge amended soil (MP),HDPE,OtherNonConsumerFilms,0,0,0,0
+Release,HDPE,OtherNonConsumerFilms,2.3050638178258293e-4,1.5817063293256282e-4,0.17345796509910377,0.11902471382678524
+Incineration,PP,OtherNonConsumerFilms,0,0,0,0
+Landfill,PP,OtherNonConsumerFilms,3.512925495081419e-6,5.060692273237179e-6,0.002643505586306621,0.0038082129306790708
+Sludge amended soil,PP,OtherNonConsumerFilms,1.764476984164795e-5,2.4614657297255763e-5,0.013277835727173564,0.018522733875632774
+Sludge amended soil (MP),PP,OtherNonConsumerFilms,0,0,0,0
+Release,PP,OtherNonConsumerFilms,7.809239310952867e-4,5.396144694930514e-4,0.5876517384787493,0.4060643661683191
+Incineration,PS,OtherNonConsumerFilms,0,0,0,0
+Landfill,PS,OtherNonConsumerFilms,0,0,0,0
+Sludge amended soil,PS,OtherNonConsumerFilms,0,0,0,0
+Sludge amended soil (MP),PS,OtherNonConsumerFilms,0,0,0,0
+Release,PS,OtherNonConsumerFilms,0,0,0,0
+Incineration,EPS,OtherNonConsumerFilms,0,0,0,0
+Landfill,EPS,OtherNonConsumerFilms,0,0,0,0
+Sludge amended soil,EPS,OtherNonConsumerFilms,0,0,0,0
+Sludge amended soil (MP),EPS,OtherNonConsumerFilms,0,0,0,0
+Release,EPS,OtherNonConsumerFilms,0,0,0,0
+Incineration,PVC,OtherNonConsumerFilms,0,0,0,0
+Landfill,PVC,OtherNonConsumerFilms,6.784270717855061e-9,9.914230688945035e-9,5.105220012999627e-6,7.460540864545523e-6
+Sludge amended soil,PVC,OtherNonConsumerFilms,3.404111305922679e-8,4.8512261893275935e-8,2.5616220059934867e-5,3.650587964327791e-5
+Sludge amended soil (MP),PVC,OtherNonConsumerFilms,0,0,0,0
+Release,PVC,OtherNonConsumerFilms,1.497947203478935e-6,1.0465793675042653e-6,0.0011272177010110964,7.875596588610977e-4
+Incineration,PET,OtherNonConsumerFilms,0,0,0,0
+Landfill,PET,OtherNonConsumerFilms,2.1858064032416981e-7,3.1675371080542636e-7,1.6448374568844336e-4,2.3835979589373256e-4
+Sludge amended soil,PET,OtherNonConsumerFilms,1.1020135065667606e-6,1.5690408533881168e-6,8.292743085139245e-4,0.001180716262523143
+Sludge amended soil (MP),PET,OtherNonConsumerFilms,0,0,0,0
+Release,PET,OtherNonConsumerFilms,4.88157754664827e-5,3.345580005818656e-5,0.036734276125758206,0.02517576716955785
+Incineration,LDPE,NonConsumerBags,0,0,0,0
+Landfill,LDPE,NonConsumerBags,8.842942991142307e-9,1.2628875821341275e-8,6.6543879820980585e-6,9.503333853573381e-6
+Sludge amended soil,LDPE,NonConsumerBags,4.427224209699572e-8,6.117860770843928e-8,3.331522956168327e-5,4.60374099781391e-5
+Sludge amended soil (MP),LDPE,NonConsumerBags,0,0,0,0
+Release,LDPE,NonConsumerBags,1.9888852580438206e-6,1.381558432636927e-6,0.0014966526610151944,0.001039634185125264
+Incineration,HDPE,NonConsumerBags,0,0,0,0
+Landfill,HDPE,NonConsumerBags,0,0,0,0
+Sludge amended soil,HDPE,NonConsumerBags,0,0,0,0
+Sludge amended soil (MP),HDPE,NonConsumerBags,0,0,0,0
+Release,HDPE,NonConsumerBags,0,0,0,0
+Incineration,PP,NonConsumerBags,0,0,0,0
+Landfill,PP,NonConsumerBags,1.4762460221684478e-6,2.089969078306119e-6,0.0011108873819923619,0.0015727190745849497
+Sludge amended soil,PP,NonConsumerBags,7.402494822418546e-6,1.0137416874475376e-5,0.0055704387818836226,0.007628490321219738
+Sludge amended soil (MP),PP,NonConsumerBags,0,0,0,0
+Release,PP,NonConsumerBags,3.3031911681593006e-4,2.2736872839533099e-4,0.24856787648624534,0.17109685488805385
+Incineration,PS,NonConsumerBags,0,0,0,0
+Landfill,PS,NonConsumerBags,0,0,0,0
+Sludge amended soil,PS,NonConsumerBags,0,0,0,0
+Sludge amended soil (MP),PS,NonConsumerBags,0,0,0,0
+Release,PS,NonConsumerBags,0,0,0,0
+Incineration,EPS,NonConsumerBags,0,0,0,0
+Landfill,EPS,NonConsumerBags,0,0,0,0
+Sludge amended soil,EPS,NonConsumerBags,0,0,0,0
+Sludge amended soil (MP),EPS,NonConsumerBags,0,0,0,0
+Release,EPS,NonConsumerBags,0,0,0,0
+Incineration,PVC,NonConsumerBags,0,0,0,0
+Landfill,PVC,NonConsumerBags,0,0,0,0
+Sludge amended soil,PVC,NonConsumerBags,0,0,0,0
+Sludge amended soil (MP),PVC,NonConsumerBags,0,0,0,0
+Release,PVC,NonConsumerBags,0,0,0,0
+Incineration,PET,NonConsumerBags,0,0,0,0
+Landfill,PET,NonConsumerBags,0,0,0,0
+Sludge amended soil,PET,NonConsumerBags,0,0,0,0
+Sludge amended soil (MP),PET,NonConsumerBags,0,0,0,0
+Release,PET,NonConsumerBags,0,0,0,0
+Incineration,LDPE,NonConsumerOther,0,0,0,0
+Landfill,LDPE,NonConsumerOther,0,0,0,0
+Sludge amended soil,LDPE,NonConsumerOther,0,0,0,0
+Sludge amended soil (MP),LDPE,NonConsumerOther,0,0,0,0
+Release,LDPE,NonConsumerOther,0,0,0,0
+Incineration,HDPE,NonConsumerOther,0,0,0,0
+Landfill,HDPE,NonConsumerOther,1.7181519287230817e-5,2.4455565323078537e-5,0.012929235840789423,0.01840301584487383
+Sludge amended soil,HDPE,NonConsumerOther,8.6810339629592e-5,1.2172007959525218e-4,0.06532550094822968,0.09159536996336953
+Sludge amended soil (MP),HDPE,NonConsumerOther,0,0,0,0
+Release,HDPE,NonConsumerOther,0.003833738360365441,0.00263806532917502,2.8849199296295187,1.9851660516228367
+Incineration,PP,NonConsumerOther,0,0,0,0
+Landfill,PP,NonConsumerOther,9.094386629871174e-6,1.2980201768925424e-5,0.006843601406792572,0.009767709544533385
+Sludge amended soil,PP,NonConsumerOther,4.554031102613998e-5,6.3150562692361e-5,0.034269461953662025,0.047521322467385156
+Sludge amended soil (MP),PP,NonConsumerOther,0,0,0,0
+Release,PP,NonConsumerOther,0.002035064822677175,0.0013940840561061825,1.5314031666129941,1.0490598207270754
+Incineration,PS,NonConsumerOther,0,0,0,0
+Landfill,PS,NonConsumerOther,4.334062069995523e-6,6.127502244217414e-6,0.00326141767295502,0.004610996286535154
+Sludge amended soil,PS,NonConsumerOther,2.1757966597288204e-5,3.0203326139518385e-5,0.01637305041827286,0.02272825355580367
+Sludge amended soil (MP),PS,NonConsumerOther,0,0,0,0
+Release,PS,NonConsumerOther,9.711591499138414e-4,6.693462740529812e-4,0.7308053192658239,0.5036886256511878
+Incineration,EPS,NonConsumerOther,0,0,0,0
+Landfill,EPS,NonConsumerOther,1.984616579029162e-6,2.797292634510979e-6,0.0014934404446339477,0.0021049859202017466
+Sludge amended soil,EPS,NonConsumerOther,9.975256623665694e-6,1.3757707603351194e-5,0.007506463386833432,0.01035278913690398
+Sludge amended soil (MP),EPS,NonConsumerOther,0,0,0,0
+Release,EPS,NonConsumerOther,4.3534038737869134e-4,3.0139262161928045e-4,0.3275972540811846,0.2268004488104578
+Incineration,PVC,NonConsumerOther,0,0,0,0
+Landfill,PVC,NonConsumerOther,1.0921561772840028e-7,1.5506477418392256e-7,8.21856586429719e-5,1.1668752934513159e-4
+Sludge amended soil,PVC,NonConsumerOther,5.485531967752864e-7,7.600007904012337e-7,4.127908326243098e-4,5.719069014802844e-4
+Sludge amended soil (MP),PVC,NonConsumerOther,0,0,0,0
+Release,PVC,NonConsumerOther,2.427761825601391e-5,1.704681960751239e-5,0.018269109200252175,0.01282787321402494
+Incineration,PET,NonConsumerOther,0,0,0,0
+Landfill,PET,NonConsumerOther,1.1640994488302354e-5,1.6759623532196287e-5,0.008759944952740488,0.012611755784114614
+Sludge amended soil,PET,NonConsumerOther,5.878587280455723e-5,8.357150745646631e-5,0.04423685710737107,0.06288825286119933
+Sludge amended soil (MP),PET,NonConsumerOther,0,0,0,0
+Release,PET,NonConsumerOther,0.002550956947277911,0.0017514358347209386,1.9196162713950609,1.3179699995416763
+Incineration,LDPE,PipesDucts,0,0,0,0
+Landfill,LDPE,PipesDucts,0,0,0,0
+Sludge amended soil,LDPE,PipesDucts,0,0,0,0
+Sludge amended soil (MP),LDPE,PipesDucts,0,0,0,0
+Release,LDPE,PipesDucts,6.470064183250049e-6,2.9884203986190546e-6,0.0048687769883339,0.002248811148725781
+Incineration,HDPE,PipesDucts,0,0,0,0
+Landfill,HDPE,PipesDucts,0,0,0,0
+Sludge amended soil,HDPE,PipesDucts,0,0,0,0
+Sludge amended soil (MP),HDPE,PipesDucts,0,0,0,0
+Release,HDPE,PipesDucts,3.94736319246912e-5,1.8074657029617e-5,0.029704235586788058,0.013601329403446787
+Incineration,PP,PipesDucts,0,0,0,0
+Landfill,PP,PipesDucts,0,0,0,0
+Sludge amended soil,PP,PipesDucts,0,0,0,0
+Sludge amended soil (MP),PP,PipesDucts,0,0,0,0
+Release,PP,PipesDucts,1.756981739857714e-5,8.071597054981565e-6,0.013221433391786025,0.0060739437642884885
+Incineration,PS,PipesDucts,0,0,0,0
+Landfill,PS,PipesDucts,0,0,0,0
+Sludge amended soil,PS,PipesDucts,0,0,0,0
+Sludge amended soil (MP),PS,PipesDucts,0,0,0,0
+Release,PS,PipesDucts,0,0,0,0
+Incineration,EPS,PipesDucts,0,0,0,0
+Landfill,EPS,PipesDucts,0,0,0,0
+Sludge amended soil,EPS,PipesDucts,0,0,0,0
+Sludge amended soil (MP),EPS,PipesDucts,0,0,0,0
+Release,EPS,PipesDucts,0,0,0,0
+Incineration,PVC,PipesDucts,0,0,0,0
+Landfill,PVC,PipesDucts,0,0,0,0
+Sludge amended soil,PVC,PipesDucts,0,0,0,0
+Sludge amended soil (MP),PVC,PipesDucts,0,0,0,0
+Release,PVC,PipesDucts,2.4744629305496513e-5,1.144773322417576e-5,0.01862053889037874,0.008614514247748126
+Incineration,PET,PipesDucts,0,0,0,0
+Landfill,PET,PipesDucts,0,0,0,0
+Sludge amended soil,PET,PipesDucts,0,0,0,0
+Sludge amended soil (MP),PET,PipesDucts,0,0,0,0
+Release,PET,PipesDucts,0,0,0,0
+Incineration,LDPE,Insulation,0,0,0,0
+Landfill,LDPE,Insulation,0,0,0,0
+Sludge amended soil,LDPE,Insulation,0,0,0,0
+Sludge amended soil (MP),LDPE,Insulation,0,0,0,0
+Release,LDPE,Insulation,0,0,0,0
+Incineration,HDPE,Insulation,0,0,0,0
+Landfill,HDPE,Insulation,0,0,0,0
+Sludge amended soil,HDPE,Insulation,0,0,0,0
+Sludge amended soil (MP),HDPE,Insulation,0,0,0,0
+Release,HDPE,Insulation,0,0,0,0
+Incineration,PP,Insulation,0,0,0,0
+Landfill,PP,Insulation,0,0,0,0
+Sludge amended soil,PP,Insulation,0,0,0,0
+Sludge amended soil (MP),PP,Insulation,0,0,0,0
+Release,PP,Insulation,0,0,0,0
+Incineration,PS,Insulation,0,0,0,0
+Landfill,PS,Insulation,0,0,0,0
+Sludge amended soil,PS,Insulation,0,0,0,0
+Sludge amended soil (MP),PS,Insulation,0,0,0,0
+Release,PS,Insulation,0,0,0,0
+Incineration,EPS,Insulation,0,0,0,0
+Landfill,EPS,Insulation,0,0,0,0
+Sludge amended soil,EPS,Insulation,0,0,0,0
+Sludge amended soil (MP),EPS,Insulation,0,0,0,0
+Release,EPS,Insulation,0.0014316533545849928,8.530588581233447e-4,1.077331029593136,0.6419338696635646
+Incineration,PVC,Insulation,0,0,0,0
+Landfill,PVC,Insulation,0,0,0,0
+Sludge amended soil,PVC,Insulation,0,0,0,0
+Sludge amended soil (MP),PVC,Insulation,0,0,0,0
+Release,PVC,Insulation,0,0,0,0
+Incineration,PET,Insulation,0,0,0,0
+Landfill,PET,Insulation,0,0,0,0
+Sludge amended soil,PET,Insulation,0,0,0,0
+Sludge amended soil (MP),PET,Insulation,0,0,0,0
+Release,PET,Insulation,0,0,0,0
+Incineration,LDPE,WallFloorCoverings,0,0,0,0
+Landfill,LDPE,WallFloorCoverings,0,0,0,0
+Sludge amended soil,LDPE,WallFloorCoverings,0,0,0,0
+Sludge amended soil (MP),LDPE,WallFloorCoverings,0,0,0,0
+Release,LDPE,WallFloorCoverings,0,0,0,0
+Incineration,HDPE,WallFloorCoverings,0,0,0,0
+Landfill,HDPE,WallFloorCoverings,0,0,0,0
+Sludge amended soil,HDPE,WallFloorCoverings,0,0,0,0
+Sludge amended soil (MP),HDPE,WallFloorCoverings,0,0,0,0
+Release,HDPE,WallFloorCoverings,0,0,0,0
+Incineration,PP,WallFloorCoverings,0,0,0,0
+Landfill,PP,WallFloorCoverings,0,0,0,0
+Sludge amended soil,PP,WallFloorCoverings,0,0,0,0
+Sludge amended soil (MP),PP,WallFloorCoverings,0,0,0,0
+Release,PP,WallFloorCoverings,0,0,0,0
+Incineration,PS,WallFloorCoverings,0,0,0,0
+Landfill,PS,WallFloorCoverings,0,0,0,0
+Sludge amended soil,PS,WallFloorCoverings,0,0,0,0
+Sludge amended soil (MP),PS,WallFloorCoverings,0,0,0,0
+Release,PS,WallFloorCoverings,0,0,0,0
+Incineration,EPS,WallFloorCoverings,0,0,0,0
+Landfill,EPS,WallFloorCoverings,0,0,0,0
+Sludge amended soil,EPS,WallFloorCoverings,0,0,0,0
+Sludge amended soil (MP),EPS,WallFloorCoverings,0,0,0,0
+Release,EPS,WallFloorCoverings,0,0,0,0
+Incineration,PVC,WallFloorCoverings,0,0,0,0
+Landfill,PVC,WallFloorCoverings,2.3388670025115086e-5,2.1527446987220897e-5,0.017600168279754805,0.016199582498779733
+Sludge amended soil,PVC,WallFloorCoverings,0,0,0,0
+Sludge amended soil (MP),PVC,WallFloorCoverings,1.1717481536856615e-4,1.0347416641369662e-4,0.08817502091488917,0.07786516888445658
+Release,PVC,WallFloorCoverings,0.00157116424786269,0.0011933749112936081,1.1823141344857921,0.8980245237138753
+Incineration,PET,WallFloorCoverings,0,0,0,0
+Landfill,PET,WallFloorCoverings,0,0,0,0
+Sludge amended soil,PET,WallFloorCoverings,0,0,0,0
+Sludge amended soil (MP),PET,WallFloorCoverings,0,0,0,0
+Release,PET,WallFloorCoverings,0,0,0,0
+Incineration,LDPE,WindowsProfilesFittedFurniture,0,0,0,0
+Landfill,LDPE,WindowsProfilesFittedFurniture,0,0,0,0
+Sludge amended soil,LDPE,WindowsProfilesFittedFurniture,0,0,0,0
+Sludge amended soil (MP),LDPE,WindowsProfilesFittedFurniture,0,0,0,0
+Release,LDPE,WindowsProfilesFittedFurniture,0,0,0,0
+Incineration,HDPE,WindowsProfilesFittedFurniture,0,0,0,0
+Landfill,HDPE,WindowsProfilesFittedFurniture,0,0,0,0
+Sludge amended soil,HDPE,WindowsProfilesFittedFurniture,0,0,0,0
+Sludge amended soil (MP),HDPE,WindowsProfilesFittedFurniture,0,0,0,0
+Release,HDPE,WindowsProfilesFittedFurniture,0,0,0,0
+Incineration,PP,WindowsProfilesFittedFurniture,0,0,0,0
+Landfill,PP,WindowsProfilesFittedFurniture,0,0,0,0
+Sludge amended soil,PP,WindowsProfilesFittedFurniture,0,0,0,0
+Sludge amended soil (MP),PP,WindowsProfilesFittedFurniture,0,0,0,0
+Release,PP,WindowsProfilesFittedFurniture,0,0,0,0
+Incineration,PS,WindowsProfilesFittedFurniture,0,0,0,0
+Landfill,PS,WindowsProfilesFittedFurniture,0,0,0,0
+Sludge amended soil,PS,WindowsProfilesFittedFurniture,0,0,0,0
+Sludge amended soil (MP),PS,WindowsProfilesFittedFurniture,0,0,0,0
+Release,PS,WindowsProfilesFittedFurniture,0,0,0,0
+Incineration,EPS,WindowsProfilesFittedFurniture,0,0,0,0
+Landfill,EPS,WindowsProfilesFittedFurniture,0,0,0,0
+Sludge amended soil,EPS,WindowsProfilesFittedFurniture,0,0,0,0
+Sludge amended soil (MP),EPS,WindowsProfilesFittedFurniture,0,0,0,0
+Release,EPS,WindowsProfilesFittedFurniture,0,0,0,0
+Incineration,PVC,WindowsProfilesFittedFurniture,0,0,0,0
+Landfill,PVC,WindowsProfilesFittedFurniture,0,0,0,0
+Sludge amended soil,PVC,WindowsProfilesFittedFurniture,0,0,0,0
+Sludge amended soil (MP),PVC,WindowsProfilesFittedFurniture,0,0,0,0
+Release,PVC,WindowsProfilesFittedFurniture,0,0,0,0
+Incineration,PET,WindowsProfilesFittedFurniture,0,0,0,0
+Landfill,PET,WindowsProfilesFittedFurniture,0,0,0,0
+Sludge amended soil,PET,WindowsProfilesFittedFurniture,0,0,0,0
+Sludge amended soil (MP),PET,WindowsProfilesFittedFurniture,0,0,0,0
+Release,PET,WindowsProfilesFittedFurniture,0,0,0,0
+Incineration,LDPE,Lining,0,0,0,0
+Landfill,LDPE,Lining,0,0,0,0
+Sludge amended soil,LDPE,Lining,0,0,0,0
+Sludge amended soil (MP),LDPE,Lining,0,0,0,0
+Release,LDPE,Lining,0,0,0,0
+Incineration,HDPE,Lining,0,0,0,0
+Landfill,HDPE,Lining,0,0,0,0
+Sludge amended soil,HDPE,Lining,0,0,0,0
+Sludge amended soil (MP),HDPE,Lining,0,0,0,0
+Release,HDPE,Lining,0,0,0,0
+Incineration,PP,Lining,0,0,0,0
+Landfill,PP,Lining,0,0,0,0
+Sludge amended soil,PP,Lining,0,0,0,0
+Sludge amended soil (MP),PP,Lining,0,0,0,0
+Release,PP,Lining,0,0,0,0
+Incineration,PS,Lining,0,0,0,0
+Landfill,PS,Lining,0,0,0,0
+Sludge amended soil,PS,Lining,0,0,0,0
+Sludge amended soil (MP),PS,Lining,0,0,0,0
+Release,PS,Lining,0,0,0,0
+Incineration,EPS,Lining,0,0,0,0
+Landfill,EPS,Lining,0,0,0,0
+Sludge amended soil,EPS,Lining,0,0,0,0
+Sludge amended soil (MP),EPS,Lining,0,0,0,0
+Release,EPS,Lining,0,0,0,0
+Incineration,PVC,Lining,0,0,0,0
+Landfill,PVC,Lining,0,0,0,0
+Sludge amended soil,PVC,Lining,0,0,0,0
+Sludge amended soil (MP),PVC,Lining,0,0,0,0
+Release,PVC,Lining,7.165236209090798e-5,6.870066149382504e-5,0.05391899706514839,0.05169781787178992
+Incineration,PET,Lining,0,0,0,0
+Landfill,PET,Lining,0,0,0,0
+Sludge amended soil,PET,Lining,0,0,0,0
+Sludge amended soil (MP),PET,Lining,0,0,0,0
+Release,PET,Lining,0,0,0,0
+Incineration,LDPE,AutomotivePC,0,0,0,0
+Landfill,LDPE,AutomotivePC,0,0,0,0
+Sludge amended soil,LDPE,AutomotivePC,0,0,0,0
+Sludge amended soil (MP),LDPE,AutomotivePC,0,0,0,0
+Release,LDPE,AutomotivePC,1.8773579535241426e-4,9.644289117667443e-5,0.14127274388787495,0.07257407592106974
+Incineration,HDPE,AutomotivePC,0,0,0,0
+Landfill,HDPE,AutomotivePC,0,0,0,0
+Sludge amended soil,HDPE,AutomotivePC,0,0,0,0
+Sludge amended soil (MP),HDPE,AutomotivePC,0,0,0,0
+Release,HDPE,AutomotivePC,6.33521827894278e-4,3.2639641007353346e-4,0.47673043263529014,0.24561600711085232
+Incineration,PP,AutomotivePC,0,0,0,0
+Landfill,PP,AutomotivePC,0,0,0,0
+Sludge amended soil,PP,AutomotivePC,0,0,0,0
+Sludge amended soil (MP),PP,AutomotivePC,0,0,0,0
+Release,PP,AutomotivePC,0.0030041445910560798,0.0015291285427113052,2.260643734018477,1.1506819175351028
+Incineration,PS,AutomotivePC,0,0,0,0
+Landfill,PS,AutomotivePC,0,0,0,0
+Sludge amended soil,PS,AutomotivePC,0,0,0,0
+Sludge amended soil (MP),PS,AutomotivePC,0,0,0,0
+Release,PS,AutomotivePC,3.956601185971097e-6,2.0379735046669527e-6,0.002977375225448549,0.0015335919739473745
+Incineration,EPS,AutomotivePC,0,0,0,0
+Landfill,EPS,AutomotivePC,0,0,0,0
+Sludge amended soil,EPS,AutomotivePC,0,0,0,0
+Sludge amended soil (MP),EPS,AutomotivePC,0,0,0,0
+Release,EPS,AutomotivePC,0,0,0,0
+Incineration,PVC,AutomotivePC,0,0,0,0
+Landfill,PVC,AutomotivePC,0,0,0,0
+Sludge amended soil,PVC,AutomotivePC,0,0,0,0
+Sludge amended soil (MP),PVC,AutomotivePC,0,0,0,0
+Release,PVC,AutomotivePC,2.1219239592683552e-4,1.0822352185516928e-4,0.159676538767975,0.081439098265671
+Incineration,PET,AutomotivePC,0,0,0,0
+Landfill,PET,AutomotivePC,0,0,0,0
+Sludge amended soil,PET,AutomotivePC,0,0,0,0
+Sludge amended soil (MP),PET,AutomotivePC,0,0,0,0
+Release,PET,AutomotivePC,1.405687129108459e-7,7.195327744656226e-8,1.0577912294468981e-4,5.4145438367359696e-5
+Incineration,LDPE,EEEPC,0,0,0,0
+Landfill,LDPE,EEEPC,7.996763334546112e-9,1.0504072466100971e-8,6.017630768669251e-6,7.90440169653069e-6
+Sludge amended soil,LDPE,EEEPC,4.001997501519391e-8,5.135915405750102e-8,3.0115363296102164e-5,3.8648189621180574e-5
+Sludge amended soil (MP),LDPE,EEEPC,0,0,0,0
+Release,LDPE,EEEPC,3.790849506530486e-5,2.8264092721889485e-5,0.028526457112147713,0.021268964316725838
+Incineration,HDPE,EEEPC,0,0,0,0
+Landfill,HDPE,EEEPC,7.490044356935944e-9,1.0094230239318723e-8,5.636320533118977e-6,7.595992019889338e-6
+Sludge amended soil,HDPE,EEEPC,3.751527059646095e-8,4.8290355645426395e-8,2.8230552436253856e-5,3.633889335032978e-5
+Sludge amended soil (MP),HDPE,EEEPC,0,0,0,0
+Release,HDPE,EEEPC,3.601990445607178e-5,2.7422502428960076e-5,0.027105277006636206,0.020635660637540135
+Incineration,PP,EEEPC,0,0,0,0
+Landfill,PP,EEEPC,2.7691434448935533e-7,3.740872177728943e-7,2.0838034214246286e-4,2.8150373565654795e-4
+Sludge amended soil,PP,EEEPC,1.3879167538943827e-6,1.802776839025156e-6,0.0010444188746346632,0.001356604531322899
+Sludge amended soil (MP),PP,EEEPC,0,0,0,0
+Release,PP,EEEPC,0.0013141523014905863,0.0010066187525254416,0.9889105120823382,0.7574889644849507
+Incineration,PS,EEEPC,0,0,0,0
+Landfill,PS,EEEPC,1.6203203305969075e-7,2.1706852551260962e-7,1.2193044946544877e-4,1.6334586674478425e-4
+Sludge amended soil,PS,EEEPC,8.114034932312991e-7,1.0390125704380253e-6,6.105878619141998e-4,7.818655812773115e-4
+Sludge amended soil (MP),PS,EEEPC,0,0,0,0
+Release,PS,EEEPC,7.603730096399391e-4,5.724892782746986e-4,0.5721869995461917,0.43080293258104974
+Incineration,EPS,EEEPC,0,0,0,0
+Landfill,EPS,EEEPC,0,0,0,0
+Sludge amended soil,EPS,EEEPC,0,0,0,0
+Sludge amended soil (MP),EPS,EEEPC,0,0,0,0
+Release,EPS,EEEPC,0,0,0,0
+Incineration,PVC,EEEPC,0,0,0,0
+Landfill,PVC,EEEPC,6.36454918638406e-8,8.455294287649086e-8,4.7893760775987004e-5,6.362679115899889e-5
+Sludge amended soil,PVC,EEEPC,3.1948944544545273e-7,4.1587545830941656e-7,2.4041845891225886e-4,3.1294973343102135e-4
+Sludge amended soil (MP),PVC,EEEPC,0,0,0,0
+Release,PVC,EEEPC,3.049256384198146e-4,2.3100596325898026e-4,0.229459073270841,0.17383390430576237
+Incineration,PET,EEEPC,0,0,0,0
+Landfill,PET,EEEPC,2.872234947527555e-11,3.8522430268355014e-11,2.1613806326394116e-8,2.8988448447052398e-8
+Sludge amended soil,PET,EEEPC,1.4514406014538267e-10,1.8970377665013013e-10,1.0922210970621525e-7,1.4275366614527633e-7
+Sludge amended soil (MP),PET,EEEPC,0,0,0,0
+Release,PET,EEEPC,1.3768120193390974e-7,1.0363089347651339e-7,1.0360624697315559e-4,7.798310729979207e-5
+Incineration,LDPE,AgriculturalFilms,0,0,0,0
+Landfill,LDPE,AgriculturalFilms,2.062268438410358e-7,2.765157234280667e-7,1.5518741131955778e-4,2.080803764859719e-4
+Sludge amended soil,LDPE,AgriculturalFilms,1.033342600049527e-6,1.3534838601757525e-6,7.775988815089349e-4,0.0010185078363774195
+Sludge amended soil (MP),LDPE,AgriculturalFilms,0,0,0,0
+Release,LDPE,AgriculturalFilms,0.03460536052276109,0.016795936810659395,26.040820958530844,12.639081827496048
+Incineration,HDPE,AgriculturalFilms,0,0,0,0
+Landfill,HDPE,AgriculturalFilms,0,0,0,0
+Sludge amended soil,HDPE,AgriculturalFilms,0,0,0,0
+Sludge amended soil (MP),HDPE,AgriculturalFilms,0,0,0,0
+Release,HDPE,AgriculturalFilms,0,0,0,0
+Incineration,PP,AgriculturalFilms,0,0,0,0
+Landfill,PP,AgriculturalFilms,0,0,0,0
+Sludge amended soil,PP,AgriculturalFilms,0,0,0,0
+Sludge amended soil (MP),PP,AgriculturalFilms,0,0,0,0
+Release,PP,AgriculturalFilms,0,0,0,0
+Incineration,PS,AgriculturalFilms,0,0,0,0
+Landfill,PS,AgriculturalFilms,0,0,0,0
+Sludge amended soil,PS,AgriculturalFilms,0,0,0,0
+Sludge amended soil (MP),PS,AgriculturalFilms,0,0,0,0
+Release,PS,AgriculturalFilms,0,0,0,0
+Incineration,EPS,AgriculturalFilms,0,0,0,0
+Landfill,EPS,AgriculturalFilms,0,0,0,0
+Sludge amended soil,EPS,AgriculturalFilms,0,0,0,0
+Sludge amended soil (MP),EPS,AgriculturalFilms,0,0,0,0
+Release,EPS,AgriculturalFilms,0,0,0,0
+Incineration,PVC,AgriculturalFilms,0,0,0,0
+Landfill,PVC,AgriculturalFilms,1.2871640322544045e-9,1.7317706902524622e-9,9.686016155257546e-7,1.3031718151421694e-6
+Sludge amended soil,PVC,AgriculturalFilms,6.417649664884236e-9,8.331411842431392e-9,4.829334628313001e-6,6.269456547861704e-6
+Sludge amended soil (MP),PVC,AgriculturalFilms,0,0,0,0
+Release,PVC,AgriculturalFilms,2.1885993199553713e-4,1.0833926313152604e-4,0.16469391498878921,0.0815261945365836
+Incineration,PET,AgriculturalFilms,0,0,0,0
+Landfill,PET,AgriculturalFilms,0,0,0,0
+Sludge amended soil,PET,AgriculturalFilms,0,0,0,0
+Sludge amended soil (MP),PET,AgriculturalFilms,0,0,0,0
+Release,PET,AgriculturalFilms,0,0,0,0
+Incineration,LDPE,AgriculturalPipes,0,0,0,0
+Landfill,LDPE,AgriculturalPipes,2.0718391958995254e-9,2.8097954790856603e-9,1.5590761876270519e-6,2.114394414496365e-6
+Sludge amended soil,LDPE,AgriculturalPipes,1.0358492322162212e-8,1.3528254789039269e-8,7.79485143015121e-6,1.018012399006935e-5
+Sludge amended soil (MP),LDPE,AgriculturalPipes,0,0,0,0
+Release,LDPE,AgriculturalPipes,3.9030714200910966e-4,3.031229517035078e-4,0.2937093632418582,0.2281025365576115
+Incineration,HDPE,AgriculturalPipes,0,0,0,0
+Landfill,HDPE,AgriculturalPipes,2.0090126396043215e-9,2.7401388145454343e-9,1.511798682662225e-6,2.0619771963989726e-6
+Sludge amended soil,HDPE,AgriculturalPipes,1.0101128519024059e-8,1.3194400127431151e-8,7.601183032611496e-6,9.928895586788026e-6
+Sludge amended soil (MP),HDPE,AgriculturalPipes,0,0,0,0
+Release,HDPE,AgriculturalPipes,3.7610294522145e-4,2.831257297079696e-4,0.28302058728866747,0.21305446106331652
+Incineration,PP,AgriculturalPipes,0,0,0,0
+Landfill,PP,AgriculturalPipes,1.984981640020238e-9,2.6608426651334402e-9,1.4937151560591124e-6,2.0023061859443792e-6
+Sludge amended soil,PP,AgriculturalPipes,1.0001628982250335e-8,1.2925936098486176e-8,7.52630880551373e-6,9.726874177215836e-6
+Sludge amended soil (MP),PP,AgriculturalPipes,0,0,0,0
+Release,PP,AgriculturalPipes,3.794920742028629e-4,2.878353892067882e-4,0.2855709349711397,0.21659851891827547
+Incineration,PS,AgriculturalPipes,0,0,0,0
+Landfill,PS,AgriculturalPipes,0,0,0,0
+Sludge amended soil,PS,AgriculturalPipes,0,0,0,0
+Sludge amended soil (MP),PS,AgriculturalPipes,0,0,0,0
+Release,PS,AgriculturalPipes,0,0,0,0
+Incineration,EPS,AgriculturalPipes,0,0,0,0
+Landfill,EPS,AgriculturalPipes,0,0,0,0
+Sludge amended soil,EPS,AgriculturalPipes,0,0,0,0
+Sludge amended soil (MP),EPS,AgriculturalPipes,0,0,0,0
+Release,EPS,AgriculturalPipes,0,0,0,0
+Incineration,PVC,AgriculturalPipes,0,0,0,0
+Landfill,PVC,AgriculturalPipes,1.9754080566452015e-9,2.606433067342672e-9,1.4865109551250717e-6,1.9613625121004627e-6
+Sludge amended soil,PVC,AgriculturalPipes,9.901128718115567e-9,1.2783007488071224e-8,7.450681522772456e-6,9.619319211816204e-6
+Sludge amended soil (MP),PVC,AgriculturalPipes,0,0,0,0
+Release,PVC,AgriculturalPipes,3.7514239958485703e-4,2.847130707245987e-4,0.2822977687262495,0.21424894835053848
+Incineration,PET,AgriculturalPipes,0,0,0,0
+Landfill,PET,AgriculturalPipes,0,0,0,0
+Sludge amended soil,PET,AgriculturalPipes,0,0,0,0
+Sludge amended soil (MP),PET,AgriculturalPipes,0,0,0,0
+Release,PET,AgriculturalPipes,0,0,0,0
+Incineration,LDPE,AgriculturalOther,0,0,0,0
+Landfill,LDPE,AgriculturalOther,6.469116010083763e-9,8.620653629122851e-9,4.8680634801580594e-6,6.487113392557882e-6
+Sludge amended soil,LDPE,AgriculturalOther,3.2313821232215015e-8,4.1839757159434624e-8,2.4316418626548203e-5,3.1484764460714646e-5
+Sludge amended soil (MP),LDPE,AgriculturalOther,0,0,0,0
+Release,LDPE,AgriculturalOther,8.758505976677505e-4,5.802046397418109e-4,0.6590848428030863,0.4366088061093221
+Incineration,HDPE,AgriculturalOther,0,0,0,0
+Landfill,HDPE,AgriculturalOther,4.09873018936402e-10,5.638756543029045e-10,3.084328479928737e-7,4.2432110906396584e-7
+Sludge amended soil,HDPE,AgriculturalOther,2.0624384427638274e-9,2.7350186632537407e-9,1.552002042882308e-6,2.058124240063497e-6
+Sludge amended soil (MP),HDPE,AgriculturalOther,0,0,0,0
+Release,HDPE,AgriculturalOther,5.4890948905510975e-5,3.593541748722549e-5,0.04130589455214918,0.0270416998614824
+Incineration,PP,AgriculturalOther,0,0,0,0
+Landfill,PP,AgriculturalOther,2.5494450948991787e-10,3.486149138062553e-10,1.9184785899342825e-7,2.6233561554520756e-7
+Sludge amended soil,PP,AgriculturalOther,1.2787818220157114e-9,1.6825345586129327e-9,9.622939327631664e-7,1.2661212175079579e-6
+Sludge amended soil (MP),PP,AgriculturalOther,0,0,0,0
+Release,PP,AgriculturalOther,3.499713543133057e-5,2.3088466428104815e-5,0.026335634828289323,0.017374262581829492
+Incineration,PS,AgriculturalOther,0,0,0,0
+Landfill,PS,AgriculturalOther,5.347103158835517e-10,7.136547429163779e-10,4.0237394988110495e-7,5.370311161552078e-7
+Sludge amended soil,PS,AgriculturalOther,2.6878730895968856e-9,3.5112418966822135e-9,2.0226468046592947e-6,2.642238664540239e-6
+Sludge amended soil (MP),PS,AgriculturalOther,0,0,0,0
+Release,PS,AgriculturalOther,7.086004165540377e-5,4.61757801637052e-5,0.053322769362530484,0.03474765775298404
+Incineration,EPS,AgriculturalOther,0,0,0,0
+Landfill,EPS,AgriculturalOther,0,0,0,0
+Sludge amended soil,EPS,AgriculturalOther,0,0,0,0
+Sludge amended soil (MP),EPS,AgriculturalOther,0,0,0,0
+Release,EPS,AgriculturalOther,0,0,0,0
+Incineration,PVC,AgriculturalOther,0,0,0,0
+Landfill,PVC,AgriculturalOther,1.8273671151200561e-09,2.4053615475970483e-9,1.375108918141437e-6,1.8100545249430529e-6
+Sludge amended soil,PVC,AgriculturalOther,9.158652228017019e-9,1.1797049123187241e-8,6.891961802691586e-6,8.877377360477242e-6
+Sludge amended soil (MP),PVC,AgriculturalOther,0,0,0,0
+Release,PVC,AgriculturalOther,2.4884370016310144e-4,1.628708637703171e-4,0.1872569493487428,0.1225616765360516
+Incineration,PET,AgriculturalOther,0,0,0,0
+Landfill,PET,AgriculturalOther,0,0,0,0
+Sludge amended soil,PET,AgriculturalOther,0,0,0,0
+Sludge amended soil (MP),PET,AgriculturalOther,0,0,0,0
+Release,PET,AgriculturalOther,0,0,0,0
+Incineration,LDPE,Household,0,0,0,0
+Landfill,LDPE,Household,2.4385628517898348e-6,2.20706342075266e-6,0.0018350387818620176,0.0016608335389582275
+Sludge amended soil,LDPE,Household,2.3460982422940784e-7,3.107516968315198e-7,1.765458395918755e-4,2.3384323057194377e-4
+Sludge amended soil (MP),LDPE,Household,1.1949380215762119e-5,1.0442038547511021e-5,0.008992007771726696,0.0078577206580166
+Release,LDPE,Household,3.445650801991452e-4,2.1982670608506062e-4,0.25928808214918264,0.16542142051372286
+Incineration,HDPE,Household,0,0,0,0
+Landfill,HDPE,Household,5.7482723819278595e-6,5.2822904919228235e-6,0.004325622668204688,0.0039749674291252495
+Sludge amended soil,HDPE,Household,5.60637068192304e-7,7.199454007080457e-7,4.218840461410276e-4,5.417648883451106e-4
+Sludge amended soil (MP),HDPE,Household,2.8218720006776924e-5,2.546835052886704e-5,0.021234820972087905,0.019165145116610223
+Release,HDPE,Household,8.338667218802797e-4,5.384899785687386e-4,0.6274916278788368,0.40521817741642724
+Incineration,PP,Household,0,0,0,0
+Landfill,PP,Household,6.6027078978965e-6,5.998304954402672e-6,0.004968592484320737,0.004513774253833595
+Sludge amended soil,PP,Household,6.395839237993811e-7,8.381411391147433e-7,4.812922101088813e-4,6.307081623181044e-4
+Sludge amended soil (MP),PP,Household,3.240871657947385e-5,2.874445816295974e-5,0.02438782816282914,0.02163044329734067
+Release,PP,Household,9.444829650536008e-4,6.116471078208413e-4,0.7107312687919012,0.46026952425736184
+Incineration,PS,Household,0,0,0,0
+Landfill,PS,Household,4.590058101392446e-6,4.084285139407988e-6,0.003454056810909298,0.0030734584599676784
+Sludge amended soil,PS,Household,4.4343182742711446e-7,5.705279813080421e-7,3.336861298627007e-4,4.29327040338239e-4
+Sludge amended soil (MP),PS,Household,2.2488268231553666e-5,1.9635315131650556e-5,0.01692260845830891,0.014775737576013163
+Release,PS,Household,6.577551732381479e-4,4.285710752805876e-4,0.4949662261017646,0.3225032905536787
+Incineration,EPS,Household,0,0,0,0
+Landfill,EPS,Household,1.0089471629784092e-6,9.285896004104411e-7,7.592411126726229e-4,6.9877138001025e-4
+Sludge amended soil,EPS,Household,9.755667928772474e-8,1.2695296892655621e-7,7.341221071716654e-5,9.553316260918422e-5
+Sludge amended soil (MP),EPS,Household,4.960588784380667e-6,4.412410227032198e-6,0.0037328842246272392,0.0033203753112804736
+Release,EPS,Household,1.428670882060952e-4,9.233289557435672e-5,0.10750866942693875,0.06948127012440973
+Incineration,PVC,Household,0,0,0,0
+Landfill,PVC,Household,4.134177349732025e-6,3.736422982506139e-6,0.00311100276225631,0.002811689300239628
+Sludge amended soil,PVC,Household,3.9431071999263685e-7,5.042077969297357e-7,2.9672208889729455e-4,3.794205512497551e-4
+Sludge amended soil (MP),PVC,Household,2.038009223499216e-5,1.8053084413272682e-5,0.01533618852665058,0.013585095830631966
+Release,PVC,Household,6.001643180713838e-4,3.8638592257649187e-4,0.45162862968343015,0.29075861307941586
+Incineration,PET,Household,0,0,0,0
+Landfill,PET,Household,2.0622721148722644e-7,1.8650012868206798e-7,1.5518768797636705e-4,1.4034289446452486e-4
+Sludge amended soil,PET,Household,1.974660553310151e-8,2.5892514716599478e-8,1.4859484526624504e-5,1.948433218771431e-5
+Sludge amended soil (MP),PET,Household,1.015195689293155e-6,9.058360193586316e-7,7.63943180576523e-4,6.816491214530571e-4
+Release,PET,Household,2.9446860009851106e-5,1.8796278752321617e-5,0.02215900651585731,0.014144355738004918
+Incineration,LDPE,TamponApplicators,0,0,0,0
+Landfill,LDPE,TamponApplicators,0,0,0,0
+Sludge amended soil,LDPE,TamponApplicators,0,0,0,0
+Sludge amended soil (MP),LDPE,TamponApplicators,0,0,0,0
+Release,LDPE,TamponApplicators,0,0,0,0
+Incineration,HDPE,TamponApplicators,0,0,0,0
+Landfill,HDPE,TamponApplicators,4.8710418972132543e-4,7.539922573004746e-4,0.36654994489481474,0.5673854304614416
+Sludge amended soil,HDPE,TamponApplicators,0.0024508224640613914,0.0037049349270324257,1.8442642418301238,2.7879942771987922
+Sludge amended soil (MP),HDPE,TamponApplicators,0,0,0,0
+Release,HDPE,TamponApplicators,0.001422658184033246,0.0021681000439451033,1.0705620891084553,1.6315132745813257
+Incineration,PP,TamponApplicators,0,0,0,0
+Landfill,PP,TamponApplicators,0,0,0,0
+Sludge amended soil,PP,TamponApplicators,0,0,0,0
+Sludge amended soil (MP),PP,TamponApplicators,0,0,0,0
+Release,PP,TamponApplicators,0,0,0,0
+Incineration,PS,TamponApplicators,0,0,0,0
+Landfill,PS,TamponApplicators,0,0,0,0
+Sludge amended soil,PS,TamponApplicators,0,0,0,0
+Sludge amended soil (MP),PS,TamponApplicators,0,0,0,0
+Release,PS,TamponApplicators,0,0,0,0
+Incineration,EPS,TamponApplicators,0,0,0,0
+Landfill,EPS,TamponApplicators,0,0,0,0
+Sludge amended soil,EPS,TamponApplicators,0,0,0,0
+Sludge amended soil (MP),EPS,TamponApplicators,0,0,0,0
+Release,EPS,TamponApplicators,0,0,0,0
+Incineration,PVC,TamponApplicators,0,0,0,0
+Landfill,PVC,TamponApplicators,0,0,0,0
+Sludge amended soil,PVC,TamponApplicators,0,0,0,0
+Sludge amended soil (MP),PVC,TamponApplicators,0,0,0,0
+Release,PVC,TamponApplicators,0,0,0,0
+Incineration,PET,TamponApplicators,0,0,0,0
+Landfill,PET,TamponApplicators,0,0,0,0
+Sludge amended soil,PET,TamponApplicators,0,0,0,0
+Sludge amended soil (MP),PET,TamponApplicators,0,0,0,0
+Release,PET,TamponApplicators,0,0,0,0
+Incineration,LDPE,Furniture,0,0,0,0
+Landfill,LDPE,Furniture,4.181027900037969e-8,5.610675708629778e-8,3.146258190140764e-5,4.222080029731436e-5
+Sludge amended soil,LDPE,Furniture,2.0990356729936274e-7,2.79778974908386e-7,1.5795417623244885e-4,2.105360003043038e-4
+Sludge amended soil (MP),LDPE,Furniture,0,0,0,0
+Release,LDPE,Furniture,1.9699803035915214e-4,1.5040250680720596e-4,0.14824265259111344,0.11317913445532769
+Incineration,HDPE,Furniture,0,0,0,0
+Landfill,HDPE,Furniture,3.091968488723656e-8,4.1473921303125116e-8,2.3267319458010835e-5,3.120946994303145e-5
+Sludge amended soil,HDPE,Furniture,1.557516166397016e-7,2.0008994448325492e-7,1.1720438399271996e-4,1.5056934362708618e-4
+Sludge amended soil (MP),HDPE,Furniture,0,0,0,0
+Release,HDPE,Furniture,1.48331394341353e-4,1.1436379101397293e-4,0.1116206051380913,0.0860597017613758
+Incineration,PP,Furniture,0,0,0,0
+Landfill,PP,Furniture,1.0994581077088904e-7,1.4842117570323283e-7,8.273513496679485e-5,1.1168816635793722e-4
+Sludge amended soil,PP,Furniture,5.521403638479153e-7,7.250595435629946e-7,4.1549020561379863e-4,5.456133232820759e-4
+Sludge amended soil (MP),PP,Furniture,0,0,0,0
+Release,PP,Furniture,5.214876653209192e-4,3.977709828652254e-4,0.39242379560739776,0.2993259654231658
+Incineration,PS,Furniture,0,0,0,0
+Landfill,PS,Furniture,4.0710613333539504e-8,5.544958316545209e-8,3.0635074361771e-5,4.172627146846132e-5
+Sludge amended soil,PS,Furniture,2.0356314655172701e-7,2.6644407900054805e-7,1.5318295700523295e-4,2.005013804768856e-4
+Sludge amended soil (MP),PS,Furniture,0,0,0,0
+Release,PS,Furniture,1.9082422395103038e-4,1.461825781695354e-4,0.1435968120369951,0.11000360313730899
+Incineration,EPS,Furniture,0,0,0,0
+Landfill,EPS,Furniture,2.022365963336727e-10,2.6851158189122165e-10,1.5218471695805497e-7,2.0205719355884627e-7
+Sludge amended soil,EPS,Furniture,1.0144907551202187e-9,1.2974607900079066e-9,7.634127117616436e-7,9.763500111806979e-7
+Sludge amended soil (MP),EPS,Furniture,0,0,0,0
+Release,EPS,Furniture,9.443225595026483e-7,7.162898912514113e-7,7.106105622837184e-4,5.39014087144533e-4
+Incineration,PVC,Furniture,0,0,0,0
+Landfill,PVC,Furniture,6.730779130310545e-8,8.966243037064704e-8,5.064967149483926e-5,6.747172289833617e-5
+Sludge amended soil,PVC,Furniture,3.365716666018408e-7,4.3872582020456734e-7,2.5327297208558485e-4,3.301448203759436e-4
+Sludge amended soil (MP),PVC,Furniture,0,0,0,0
+Release,PVC,Furniture,3.2550975690545165e-4,2.4956985096718517e-4,0.24494879324416985,0.18780338385462228
+Incineration,PET,Furniture,0,0,0,0
+Landfill,PET,Furniture,4.3416605603568806e-9,5.82647683345404e-9,3.2671356000063815e-6,4.384472166940986e-6
+Sludge amended soil,PET,Furniture,2.1828803452982146e-8,2.835079142731825e-8,1.642635574000699e-5,2.1334205812011574e-5
+Sludge amended soil (MP),PET,Furniture,0,0,0,0
+Release,PET,Furniture,2.072520791079589e-5,1.583237656003525e-5,0.015595890936561208,0.011913994743003553
+Incineration,LDPE,FabricCoatings,0,0,0,0
+Landfill,LDPE,FabricCoatings,0,0,0,0
+Sludge amended soil,LDPE,FabricCoatings,0,0,0,0
+Sludge amended soil (MP),LDPE,FabricCoatings,0,0,0,0
+Release,LDPE,FabricCoatings,0,0,0,0
+Incineration,HDPE,FabricCoatings,0,0,0,0
+Landfill,HDPE,FabricCoatings,0,0,0,0
+Sludge amended soil,HDPE,FabricCoatings,0,0,0,0
+Sludge amended soil (MP),HDPE,FabricCoatings,0,0,0,0
+Release,HDPE,FabricCoatings,0,0,0,0
+Incineration,PP,FabricCoatings,0,0,0,0
+Landfill,PP,FabricCoatings,0,0,0,0
+Sludge amended soil,PP,FabricCoatings,0,0,0,0
+Sludge amended soil (MP),PP,FabricCoatings,0,0,0,0
+Release,PP,FabricCoatings,0,0,0,0
+Incineration,PS,FabricCoatings,0,0,0,0
+Landfill,PS,FabricCoatings,0,0,0,0
+Sludge amended soil,PS,FabricCoatings,0,0,0,0
+Sludge amended soil (MP),PS,FabricCoatings,0,0,0,0
+Release,PS,FabricCoatings,0,0,0,0
+Incineration,EPS,FabricCoatings,0,0,0,0
+Landfill,EPS,FabricCoatings,0,0,0,0
+Sludge amended soil,EPS,FabricCoatings,0,0,0,0
+Sludge amended soil (MP),EPS,FabricCoatings,0,0,0,0
+Release,EPS,FabricCoatings,0,0,0,0
+Incineration,PVC,FabricCoatings,0,0,0,0
+Landfill,PVC,FabricCoatings,2.23135875188232e-4,1.405734783013113e-4,0.16791159772428849,0.10578270894055959
+Sludge amended soil,PVC,FabricCoatings,4.934992267836339e-7,6.618215877515462e-7,3.713622633520436e-4,4.980262367673644e-4
+Sludge amended soil (MP),PVC,FabricCoatings,0.001121215187587297,6.662337193120518e-4,0.8437237328229047,0.5013464023797712
+Release,PVC,FabricCoatings,0.004800727253807774,0.002467462431523028,3.612587096294554,1.856785955428202
+Incineration,PET,FabricCoatings,0,0,0,0
+Landfill,PET,FabricCoatings,0,0,0,0
+Sludge amended soil,PET,FabricCoatings,0,0,0,0
+Sludge amended soil (MP),PET,FabricCoatings,0,0,0,0
+Release,PET,FabricCoatings,0,0,0,0
+Incineration,LDPE,Cosmetics,0,0,0,0
+Landfill,LDPE,Cosmetics,0,0,0,0
+Sludge amended soil,LDPE,Cosmetics,0,0,0,0
+Sludge amended soil (MP),LDPE,Cosmetics,0,0,0,0
+Release,LDPE,Cosmetics,0,0,0,0
+Incineration,HDPE,Cosmetics,0,0,0,0
+Landfill,HDPE,Cosmetics,6.487666889270817e-5,4.549007257600888e-5,0.04882023170686804,0.03423165710304538
+Sludge amended soil,HDPE,Cosmetics,0,0,0,0
+Sludge amended soil (MP),HDPE,Cosmetics,3.257458730407988e-4,2.1766314102708315e-4,0.24512647259537762,0.16379331985371476
+Release,HDPE,Cosmetics,3.034157931225863e-4,2.038886306449003e-4,0.2283229021555497,0.1534278864863057
+Incineration,PP,Cosmetics,0,0,0,0
+Landfill,PP,Cosmetics,1.5614964829380598e-7,1.0963356892753683e-7,1.1750390611541368e-4,8.250017038860043e-5
+Sludge amended soil,PP,Cosmetics,0,0,0,0
+Sludge amended soil (MP),PP,Cosmetics,7.839687638023028e-7,5.211886949344889e-7,5.899430003576693e-4,3.9219881791066743e-4
+Release,PP,Cosmetics,7.296351345220641e-7,4.891856423543745e-7,5.490564934483347e-4,3.681162552736718e-4
+Incineration,PS,Cosmetics,0,0,0,0
+Landfill,PS,Cosmetics,0,0,0,0
+Sludge amended soil,PS,Cosmetics,0,0,0,0
+Sludge amended soil (MP),PS,Cosmetics,0,0,0,0
+Release,PS,Cosmetics,0,0,0,0
+Incineration,EPS,Cosmetics,0,0,0,0
+Landfill,EPS,Cosmetics,0,0,0,0
+Sludge amended soil,EPS,Cosmetics,0,0,0,0
+Sludge amended soil (MP),EPS,Cosmetics,0,0,0,0
+Release,EPS,Cosmetics,0,0,0,0
+Incineration,PVC,Cosmetics,0,0,0,0
+Landfill,PVC,Cosmetics,0,0,0,0
+Sludge amended soil,PVC,Cosmetics,0,0,0,0
+Sludge amended soil (MP),PVC,Cosmetics,0,0,0,0
+Release,PVC,Cosmetics,0,0,0,0
+Incineration,PET,Cosmetics,0,0,0,0
+Landfill,PET,Cosmetics,3.453025055481396e-7,2.4002419529973296e-7,2.598430008436669e-4,1.806201987522908e-4
+Sludge amended soil,PET,Cosmetics,0,0,0,0
+Sludge amended soil (MP),PET,Cosmetics,1.7304935386736701e-6,1.1479008951981759e-6,0.0013022107479809602,8.638049492457052e-4
+Release,PET,Cosmetics,1.5967863335938804e-6,1.061135942493668e-6,0.0012015949666178895,7.985136023352349e-4
+Incineration,LDPE,ShotgunCartridges,0,0,0,0
+Landfill,LDPE,ShotgunCartridges,3.054817422469659e-11,4.181872594718959e-11,2.298775460154805e-8,3.146893829897726e-8
+Sludge amended soil,LDPE,ShotgunCartridges,1.5313317046039185e-10,2.0834857863587155e-10,1.1523398151417601e-7,1.5678403435943224e-7
+Sludge amended soil (MP),LDPE,ShotgunCartridges,0,0,0,0
+Release,LDPE,ShotgunCartridges,1.310032324978648e-4,7.752805092442576e-5,0.09858101955683643,0.05834050167051255
+Incineration,HDPE,ShotgunCartridges,0,0,0,0
+Landfill,HDPE,ShotgunCartridges,0,0,0,0
+Sludge amended soil,HDPE,ShotgunCartridges,0,0,0,0
+Sludge amended soil (MP),HDPE,ShotgunCartridges,0,0,0,0
+Release,HDPE,ShotgunCartridges,0,0,0,0
+Incineration,PP,ShotgunCartridges,0,0,0,0
+Landfill,PP,ShotgunCartridges,0,0,0,0
+Sludge amended soil,PP,ShotgunCartridges,0,0,0,0
+Sludge amended soil (MP),PP,ShotgunCartridges,0,0,0,0
+Release,PP,ShotgunCartridges,0,0,0,0
+Incineration,PS,ShotgunCartridges,0,0,0,0
+Landfill,PS,ShotgunCartridges,0,0,0,0
+Sludge amended soil,PS,ShotgunCartridges,0,0,0,0
+Sludge amended soil (MP),PS,ShotgunCartridges,0,0,0,0
+Release,PS,ShotgunCartridges,0,0,0,0
+Incineration,EPS,ShotgunCartridges,0,0,0,0
+Landfill,EPS,ShotgunCartridges,0,0,0,0
+Sludge amended soil,EPS,ShotgunCartridges,0,0,0,0
+Sludge amended soil (MP),EPS,ShotgunCartridges,0,0,0,0
+Release,EPS,ShotgunCartridges,0,0,0,0
+Incineration,PVC,ShotgunCartridges,0,0,0,0
+Landfill,PVC,ShotgunCartridges,0,0,0,0
+Sludge amended soil,PVC,ShotgunCartridges,0,0,0,0
+Sludge amended soil (MP),PVC,ShotgunCartridges,0,0,0,0
+Release,PVC,ShotgunCartridges,0,0,0,0
+Incineration,PET,ShotgunCartridges,0,0,0,0
+Landfill,PET,ShotgunCartridges,0,0,0,0
+Sludge amended soil,PET,ShotgunCartridges,0,0,0,0
+Sludge amended soil (MP),PET,ShotgunCartridges,0,0,0,0
+Release,PET,ShotgunCartridges,0,0,0,0
+Incineration,LDPE,OtherOther,0,0,0,0
+Landfill,LDPE,OtherOther,4.044587014256788e-7,5.411304691118853e-7,3.0435852913650335e-4,4.0720516846168894e-4
+Sludge amended soil,LDPE,OtherOther,2.027262548162536e-6,2.63689701598565e-6,0.0015255318902952287,0.00198428688625284
+Sludge amended soil (MP),LDPE,OtherOther,0,0,0,0
+Release,LDPE,OtherOther,0.001919050303138268,0.0014513603333091323,1.444101277938389,1.092160694617182
+Incineration,HDPE,OtherOther,0,0,0,0
+Landfill,HDPE,OtherOther,3.389974534502791e-7,4.537403243094178e-7,2.5509839681890596e-4,3.4144335930948167e-4
+Sludge amended soil,HDPE,OtherOther,1.7114840594530274e-6,2.226481567286366e-6,0.0012879059571213453,0.0016754458553621605
+Sludge amended soil (MP),HDPE,OtherOther,0,0,0,0
+Release,HDPE,OtherOther,0.0016221974722079712,0.0012461638677330699,1.2207170592938696,0.9377486514923893
+Incineration,PP,OtherOther,0,0,0,0
+Landfill,PP,OtherOther,8.796144826171604e-7,1.1907284161620222e-6,6.619171974613083e-4,8.960330141659855e-4
+Sludge amended soil,PP,OtherOther,4.415962158166532e-6,5.767891158801195e-6,0.003323048168933998,0.004340385960604079
+Sludge amended soil (MP),PP,OtherOther,0,0,0,0
+Release,PP,OtherOther,0.00416588616077024,0.003166082091655133,3.1348639056913252,2.3825030470228388
+Incineration,PS,OtherOther,0,0,0,0
+Landfill,PS,OtherOther,3.5093819493828344e-7,4.797265705446708e-7,2.640839038763083e-4,3.6099822524279367e-4
+Sludge amended soil,PS,OtherOther,1.7483257229717714e-6,2.273083891837942e-6,0.0013156296146418335,0.0017105144913066043
+Sludge amended soil (MP),PS,OtherOther,0,0,0,0
+Release,PS,OtherOther,0.0016331988570649348,0.001256276662365762,1.2289956926913648,0.945358613372345
+Incineration,EPS,OtherOther,0,0,0,0
+Landfill,EPS,OtherOther,2.0853337626323713e-8,2.7642549535734284e-8,1.5692309610752826e-5,2.0801247911401392e-5
+Sludge amended soil,EPS,OtherOther,1.0463524928506364e-7,1.3350132243588546e-7,7.873889338015716e-5,1.0046085296505988e-4
+Sludge amended soil (MP),EPS,OtherOther,0,0,0,0
+Release,EPS,OtherOther,9.709455594637282e-5,7.432349876266021e-5,0.07306445906796792,0.05592904957649601
+Incineration,PVC,OtherOther,0,0,0,0
+Landfill,PVC,OtherOther,3.567102606149623e-7,4.7218633376302965e-7,2.684274311962566e-4,3.553241344935729e-4
+Sludge amended soil,PVC,OtherOther,1.7910656698969384e-6,2.3450525683097245e-6,0.001347791779371293,0.0017646715175682276
+Sludge amended soil (MP),PVC,OtherOther,0,0,0,0
+Release,PVC,OtherOther,0.001737624925663665,0.0013189859059701884,1.3075771758692147,0.9925478395638675
+Incineration,PET,OtherOther,0,0,0,0
+Landfill,PET,OtherOther,4.984090609313979e-8,6.743535597779918e-8,3.750569542914404e-5,5.074566497111435e-5
+Sludge amended soil,PET,OtherOther,2.5071029767770176e-7,3.278407384891906e-7,1.8866157946803816e-4,2.4670287622908355e-4
+Sludge amended soil (MP),PET,OtherOther,0,0,0,0
+Release,PET,OtherOther,2.384996640506175e-4,1.8079892890300936e-4,0.17947297633633622,0.13605269432060116
+Incineration,LDPE,FishingGearOcean,0,0,0,0
+Landfill,LDPE,FishingGearOcean,0,0,0,0
+Sludge amended soil,LDPE,FishingGearOcean,0,0,0,0
+Sludge amended soil (MP),LDPE,FishingGearOcean,0,0,0,0
+Release,LDPE,FishingGearOcean,0.009815223165909959,0.004717086864301504,7.386036881868959,3.549647009119275
+Incineration,HDPE,FishingGearOcean,0,0,0,0
+Landfill,HDPE,FishingGearOcean,0,0,0,0
+Sludge amended soil,HDPE,FishingGearOcean,0,0,0,0
+Sludge amended soil (MP),HDPE,FishingGearOcean,0,0,0,0
+Release,HDPE,FishingGearOcean,0.009817332258580532,0.00477800398011595,7.387623991605418,3.595487644277249
+Incineration,PP,FishingGearOcean,0,0,0,0
+Landfill,PP,FishingGearOcean,0,0,0,0
+Sludge amended soil,PP,FishingGearOcean,0,0,0,0
+Sludge amended soil (MP),PP,FishingGearOcean,0,0,0,0
+Release,PP,FishingGearOcean,0.0020422030903388894,4.63723571456822e-4,1.5367747722638154,0.348955835631736
+Incineration,PS,FishingGearOcean,0,0,0,0
+Landfill,PS,FishingGearOcean,0,0,0,0
+Sludge amended soil,PS,FishingGearOcean,0,0,0,0
+Sludge amended soil (MP),PS,FishingGearOcean,0,0,0,0
+Release,PS,FishingGearOcean,0,0,0,0
+Incineration,EPS,FishingGearOcean,0,0,0,0
+Landfill,EPS,FishingGearOcean,0,0,0,0
+Sludge amended soil,EPS,FishingGearOcean,0,0,0,0
+Sludge amended soil (MP),EPS,FishingGearOcean,0,0,0,0
+Release,EPS,FishingGearOcean,0,0,0,0
+Incineration,PVC,FishingGearOcean,0,0,0,0
+Landfill,PVC,FishingGearOcean,0,0,0,0
+Sludge amended soil,PVC,FishingGearOcean,0,0,0,0
+Sludge amended soil (MP),PVC,FishingGearOcean,0,0,0,0
+Release,PVC,FishingGearOcean,0,0,0,0
+Incineration,PET,FishingGearOcean,0,0,0,0
+Landfill,PET,FishingGearOcean,0,0,0,0
+Sludge amended soil,PET,FishingGearOcean,0,0,0,0
+Sludge amended soil (MP),PET,FishingGearOcean,0,0,0,0
+Release,PET,FishingGearOcean,0,0,0,0
+Incineration,LDPE,FishingGearInland,0,0,0,0
+Landfill,LDPE,FishingGearInland,0,0,0,0
+Sludge amended soil,LDPE,FishingGearInland,0,0,0,0
+Sludge amended soil (MP),LDPE,FishingGearInland,0,0,0,0
+Release,LDPE,FishingGearInland,4.1080924906309086e-5,1.4808394648270038e-5,0.030913736893231177,0.011143439857106228
+Incineration,HDPE,FishingGearInland,0,0,0,0
+Landfill,HDPE,FishingGearInland,0,0,0,0
+Sludge amended soil,HDPE,FishingGearInland,0,0,0,0
+Sludge amended soil (MP),HDPE,FishingGearInland,0,0,0,0
+Release,HDPE,FishingGearInland,4.124809547921499e-5,1.5071480681296728e-5,0.03103953413657197,0.011341414280121762
+Incineration,PP,FishingGearInland,0,0,0,0
+Landfill,PP,FishingGearInland,0,0,0,0
+Sludge amended soil,PP,FishingGearInland,0,0,0,0
+Sludge amended soil (MP),PP,FishingGearInland,0,0,0,0
+Release,PP,FishingGearInland,1.805756263109443e-5,6.455188555939112e-6,0.01358846572670436,0.004857582955340222
+Incineration,PS,FishingGearInland,0,0,0,0
+Landfill,PS,FishingGearInland,0,0,0,0
+Sludge amended soil,PS,FishingGearInland,0,0,0,0
+Sludge amended soil (MP),PS,FishingGearInland,0,0,0,0
+Release,PS,FishingGearInland,0,0,0,0
+Incineration,EPS,FishingGearInland,0,0,0,0
+Landfill,EPS,FishingGearInland,0,0,0,0
+Sludge amended soil,EPS,FishingGearInland,0,0,0,0
+Sludge amended soil (MP),EPS,FishingGearInland,0,0,0,0
+Release,EPS,FishingGearInland,0,0,0,0
+Incineration,PVC,FishingGearInland,0,0,0,0
+Landfill,PVC,FishingGearInland,0,0,0,0
+Sludge amended soil,PVC,FishingGearInland,0,0,0,0
+Sludge amended soil (MP),PVC,FishingGearInland,0,0,0,0
+Release,PVC,FishingGearInland,0,0,0,0
+Incineration,PET,FishingGearInland,0,0,0,0
+Landfill,PET,FishingGearInland,0,0,0,0
+Sludge amended soil,PET,FishingGearInland,0,0,0,0
+Sludge amended soil (MP),PET,FishingGearInland,0,0,0,0
+Release,PET,FishingGearInland,0,0,0,0
+Incineration,LDPE,FishingGearAqua,0,0,0,0
+Landfill,LDPE,FishingGearAqua,0,0,0,0
+Sludge amended soil,LDPE,FishingGearAqua,0,0,0,0
+Sludge amended soil (MP),LDPE,FishingGearAqua,0,0,0,0
+Release,LDPE,FishingGearAqua,0,0,0,0
+Incineration,HDPE,FishingGearAqua,0,0,0,0
+Landfill,HDPE,FishingGearAqua,0,0,0,0
+Sludge amended soil,HDPE,FishingGearAqua,0,0,0,0
+Sludge amended soil (MP),HDPE,FishingGearAqua,0,0,0,0
+Release,HDPE,FishingGearAqua,0,0,0,0
+Incineration,PP,FishingGearAqua,0,0,0,0
+Landfill,PP,FishingGearAqua,0,0,0,0
+Sludge amended soil,PP,FishingGearAqua,0,0,0,0
+Sludge amended soil (MP),PP,FishingGearAqua,0,0,0,0
+Release,PP,FishingGearAqua,0,0,0,0
+Incineration,PS,FishingGearAqua,0,0,0,0
+Landfill,PS,FishingGearAqua,0,0,0,0
+Sludge amended soil,PS,FishingGearAqua,0,0,0,0
+Sludge amended soil (MP),PS,FishingGearAqua,0,0,0,0
+Release,PS,FishingGearAqua,0,0,0,0
+Incineration,EPS,FishingGearAqua,0,0,0,0
+Landfill,EPS,FishingGearAqua,0,0,0,0
+Sludge amended soil,EPS,FishingGearAqua,0,0,0,0
+Sludge amended soil (MP),EPS,FishingGearAqua,0,0,0,0
+Release,EPS,FishingGearAqua,0,0,0,0
+Incineration,PVC,FishingGearAqua,0,0,0,0
+Landfill,PVC,FishingGearAqua,0,0,0,0
+Sludge amended soil,PVC,FishingGearAqua,0,0,0,0
+Sludge amended soil (MP),PVC,FishingGearAqua,0,0,0,0
+Release,PVC,FishingGearAqua,0,0,0,0
+Incineration,PET,FishingGearAqua,0,0,0,0
+Landfill,PET,FishingGearAqua,0,0,0,0
+Sludge amended soil,PET,FishingGearAqua,0,0,0,0
+Sludge amended soil (MP),PET,FishingGearAqua,0,0,0,0
+Release,PET,FishingGearAqua,0,0,0,0
+Incineration,LDPE,ApparelPC,0,0,0,0
+Landfill,LDPE,ApparelPC,0,0,0,0
+Sludge amended soil,LDPE,ApparelPC,0,0,0,0
+Sludge amended soil (MP),LDPE,ApparelPC,0,0,0,0
+Release,LDPE,ApparelPC,0,0,0,0
+Incineration,HDPE,ApparelPC,0,0,0,0
+Landfill,HDPE,ApparelPC,1.8706485603461273e-7,9.380586190722162e-8,1.4076785648358344e-4,7.058968951298537e-5
+Sludge amended soil,HDPE,ApparelPC,2.103091442682377e-10,2.770530498249146e-10,1.5825937626712066e-7,2.0848471905848767e-7
+Sludge amended soil (MP),HDPE,ApparelPC,9.378650844650561e-7,4.2803482490264355e-7,7.057512587319603e-4,3.2209975769431723e-4
+Release,HDPE,ApparelPC,1.6504892884593329e-6,8.497793474426045e-7,0.0012420068857965812,6.394660106619924e-4
+Incineration,PP,ApparelPC,0,0,0,0
+Landfill,PP,ApparelPC,1.250257649340486e-4,6.300783973897547e-5,0.09408292561233376,0.04741392226060677
+Sludge amended soil,PP,ApparelPC,1.4007731046745184e-7,1.861276224176899e-7,1.0540933852823814e-4,1.4006258040941713e-4
+Sludge amended soil (MP),PP,ApparelPC,6.285613860145356e-4,2.892114529145884e-4,0.4729976589576222,0.21763401827736434
+Release,PP,ApparelPC,0.0011067539274784534,5.793115953883893e-4,0.8328415145873383,0.43593678282263554
+Incineration,PS,ApparelPC,0,0,0,0
+Landfill,PS,ApparelPC,0,0,0,0
+Sludge amended soil,PS,ApparelPC,0,0,0,0
+Sludge amended soil (MP),PS,ApparelPC,0,0,0,0
+Release,PS,ApparelPC,0,0,0,0
+Incineration,EPS,ApparelPC,0,0,0,0
+Landfill,EPS,ApparelPC,0,0,0,0
+Sludge amended soil,EPS,ApparelPC,0,0,0,0
+Sludge amended soil (MP),EPS,ApparelPC,0,0,0,0
+Release,EPS,ApparelPC,0,0,0,0
+Incineration,PVC,ApparelPC,0,0,0,0
+Landfill,PVC,ApparelPC,0,0,0,0
+Sludge amended soil,PVC,ApparelPC,0,0,0,0
+Sludge amended soil (MP),PVC,ApparelPC,0,0,0,0
+Release,PVC,ApparelPC,0,0,0,0
+Incineration,PET,ApparelPC,0,0,0,0
+Landfill,PET,ApparelPC,0.0015955849682388,8.064776578920455e-4,1.200690929218919,0.6068811299454248
+Sludge amended soil,PET,ApparelPC,1.76581281335223e-6,2.292200974000869e-6,0.001328788795265993,0.0017249002542732079
+Sludge amended soil (MP),PET,ApparelPC,0.007964859444127642,0.0036656604967356117,5.993622826381769,2.7584399424900137
+Release,PET,ApparelPC,0.013998163252112715,0.0072425544084709845,10.533734007966592,5.450082293156903
+Incineration,LDPE,HouseholdTextilesPC,0,0,0,0
+Landfill,LDPE,HouseholdTextilesPC,0,0,0,0
+Sludge amended soil,LDPE,HouseholdTextilesPC,0,0,0,0
+Sludge amended soil (MP),LDPE,HouseholdTextilesPC,0,0,0,0
+Release,LDPE,HouseholdTextilesPC,0,0,0,0
+Incineration,HDPE,HouseholdTextilesPC,0,0,0,0
+Landfill,HDPE,HouseholdTextilesPC,1.8396938268898305e-8,1.0173179237643162e-8,1.3843848710387628e-5,7.655401796269787e-6
+Sludge amended soil,HDPE,HouseholdTextilesPC,2.126438118883652e-10,2.7801678540771105e-10,1.600162330250045e-7,2.0920993808189476e-7
+Sludge amended soil (MP),HDPE,HouseholdTextilesPC,9.206811134643509e-8,4.6625338751189016e-8,6.928201779564365e-5,3.508595432063101e-5
+Release,HDPE,HouseholdTextilesPC,4.840480283169421e-7,3.270877314914996e-7,3.6425015807711714e-4,2.461362322146542e-4
+Incineration,PP,HouseholdTextilesPC,0,0,0,0
+Landfill,PP,HouseholdTextilesPC,2.4355139533653745e-5,1.350471437425664e-5,0.018327444604969826,0.010162409632600344
+Sludge amended soil,PP,HouseholdTextilesPC,2.757593986780596e-7,3.572992111698467e-7,2.07511235835393e-4,2.6887062137608686e-4
+Sludge amended soil (MP),PP,HouseholdTextilesPC,1.2210832396679697e-4,6.178623759908425e-5,0.09188752707471955,0.0464946565131356
+Release,PP,HouseholdTextilesPC,6.433591828079798e-4,0.00043404676834772464,0.48413312384102797,0.32662379502556244
+Incineration,PS,HouseholdTextilesPC,0,0,0,0
+Landfill,PS,HouseholdTextilesPC,0,0,0,0
+Sludge amended soil,PS,HouseholdTextilesPC,0,0,0,0
+Sludge amended soil (MP),PS,HouseholdTextilesPC,0,0,0,0
+Release,PS,HouseholdTextilesPC,0,0,0,0
+Incineration,EPS,HouseholdTextilesPC,0,0,0,0
+Landfill,EPS,HouseholdTextilesPC,0,0,0,0
+Sludge amended soil,EPS,HouseholdTextilesPC,0,0,0,0
+Sludge amended soil (MP),EPS,HouseholdTextilesPC,0,0,0,0
+Release,EPS,HouseholdTextilesPC,0,0,0,0
+Incineration,PVC,HouseholdTextilesPC,0,0,0,0
+Landfill,PVC,HouseholdTextilesPC,0,0,0,0
+Sludge amended soil,PVC,HouseholdTextilesPC,0,0,0,0
+Sludge amended soil (MP),PVC,HouseholdTextilesPC,0,0,0,0
+Release,PVC,HouseholdTextilesPC,0,0,0,0
+Incineration,PET,HouseholdTextilesPC,0,0,0,0
+Landfill,PET,HouseholdTextilesPC,6.325893594620037e-5,3.4753346600243546e-5,0.04760287424021146,0.02615218170986707
+Sludge amended soil,PET,HouseholdTextilesPC,7.19534395472713e-7,9.407662784154927e-7,5.41455603494884e-4,7.079344312545989e-4
+Sludge amended soil (MP),PET,HouseholdTextilesPC,3.1586772212043593e-4,1.6055608045708423e-4,0.23769308205609044,0.12081978288411165
+Release,PET,HouseholdTextilesPC,0.0016557949886669358,0.0011010056749765876,1.2459994692310161,0.8285159068790453
+Incineration,LDPE,HygieneMedicalTextiles,0,0,0,0
+Landfill,LDPE,HygieneMedicalTextiles,0,0,0,0
+Sludge amended soil,LDPE,HygieneMedicalTextiles,0,0,0,0
+Sludge amended soil (MP),LDPE,HygieneMedicalTextiles,0,0,0,0
+Release,LDPE,HygieneMedicalTextiles,0,0,0,0
+Incineration,HDPE,HygieneMedicalTextiles,0,0,0,0
+Landfill,HDPE,HygieneMedicalTextiles,0,0,0,0
+Sludge amended soil,HDPE,HygieneMedicalTextiles,0,0,0,0
+Sludge amended soil (MP),HDPE,HygieneMedicalTextiles,0,0,0,0
+Release,HDPE,HygieneMedicalTextiles,0,0,0,0
+Incineration,PP,HygieneMedicalTextiles,0,0,0,0
+Landfill,PP,HygieneMedicalTextiles,0,0,0,0
+Sludge amended soil,PP,HygieneMedicalTextiles,0,0,0,0
+Sludge amended soil (MP),PP,HygieneMedicalTextiles,0,0,0,0
+Release,PP,HygieneMedicalTextiles,0,0,0,0
+Incineration,PS,HygieneMedicalTextiles,0,0,0,0
+Landfill,PS,HygieneMedicalTextiles,0,0,0,0
+Sludge amended soil,PS,HygieneMedicalTextiles,0,0,0,0
+Sludge amended soil (MP),PS,HygieneMedicalTextiles,0,0,0,0
+Release,PS,HygieneMedicalTextiles,0,0,0,0
+Incineration,EPS,HygieneMedicalTextiles,0,0,0,0
+Landfill,EPS,HygieneMedicalTextiles,0,0,0,0
+Sludge amended soil,EPS,HygieneMedicalTextiles,0,0,0,0
+Sludge amended soil (MP),EPS,HygieneMedicalTextiles,0,0,0,0
+Release,EPS,HygieneMedicalTextiles,0,0,0,0
+Incineration,PVC,HygieneMedicalTextiles,0,0,0,0
+Landfill,PVC,HygieneMedicalTextiles,0,0,0,0
+Sludge amended soil,PVC,HygieneMedicalTextiles,0,0,0,0
+Sludge amended soil (MP),PVC,HygieneMedicalTextiles,0,0,0,0
+Release,PVC,HygieneMedicalTextiles,0,0,0,0
+Incineration,PET,HygieneMedicalTextiles,0,0,0,0
+Landfill,PET,HygieneMedicalTextiles,0,0,0,0
+Sludge amended soil,PET,HygieneMedicalTextiles,0,0,0,0
+Sludge amended soil (MP),PET,HygieneMedicalTextiles,0,0,0,0
+Release,PET,HygieneMedicalTextiles,0,0,0,0
+Incineration,LDPE,DisposableCleaningCloths,0,0,0,0
+Landfill,LDPE,DisposableCleaningCloths,0,0,0,0
+Sludge amended soil,LDPE,DisposableCleaningCloths,0,0,0,0
+Sludge amended soil (MP),LDPE,DisposableCleaningCloths,0,0,0,0
+Release,LDPE,DisposableCleaningCloths,0,0,0,0
+Incineration,HDPE,DisposableCleaningCloths,0,0,0,0
+Landfill,HDPE,DisposableCleaningCloths,0,0,0,0
+Sludge amended soil,HDPE,DisposableCleaningCloths,0,0,0,0
+Sludge amended soil (MP),HDPE,DisposableCleaningCloths,0,0,0,0
+Release,HDPE,DisposableCleaningCloths,0,0,0,0
+Incineration,PP,DisposableCleaningCloths,0,0,0,0
+Landfill,PP,DisposableCleaningCloths,0,0,0,0
+Sludge amended soil,PP,DisposableCleaningCloths,0,0,0,0
+Sludge amended soil (MP),PP,DisposableCleaningCloths,0,0,0,0
+Release,PP,DisposableCleaningCloths,0,0,0,0
+Incineration,PS,DisposableCleaningCloths,0,0,0,0
+Landfill,PS,DisposableCleaningCloths,0,0,0,0
+Sludge amended soil,PS,DisposableCleaningCloths,0,0,0,0
+Sludge amended soil (MP),PS,DisposableCleaningCloths,0,0,0,0
+Release,PS,DisposableCleaningCloths,0,0,0,0
+Incineration,EPS,DisposableCleaningCloths,0,0,0,0
+Landfill,EPS,DisposableCleaningCloths,0,0,0,0
+Sludge amended soil,EPS,DisposableCleaningCloths,0,0,0,0
+Sludge amended soil (MP),EPS,DisposableCleaningCloths,0,0,0,0
+Release,EPS,DisposableCleaningCloths,0,0,0,0
+Incineration,PVC,DisposableCleaningCloths,0,0,0,0
+Landfill,PVC,DisposableCleaningCloths,0,0,0,0
+Sludge amended soil,PVC,DisposableCleaningCloths,0,0,0,0
+Sludge amended soil (MP),PVC,DisposableCleaningCloths,0,0,0,0
+Release,PVC,DisposableCleaningCloths,0,0,0,0
+Incineration,PET,DisposableCleaningCloths,0,0,0,0
+Landfill,PET,DisposableCleaningCloths,1.7094781704818537e-5,2.2184893926629368e-5,0.012863965090250982,0.01669431677636685
+Sludge amended soil,PET,DisposableCleaningCloths,8.587047364957108e-5,1.068745447525027e-4,0.06461824399898793,0.0804239818017176
+Sludge amended soil (MP),PET,DisposableCleaningCloths,0,0,0,0
+Release,PET,DisposableCleaningCloths,7.99460267767279e-5,8.489159856328986e-5,0.06016004856442328,0.06388163237357662
+Incineration,LDPE,WetWipes,0,0,0,0
+Landfill,LDPE,WetWipes,0,0,0,0
+Sludge amended soil,LDPE,WetWipes,0,0,0,0
+Sludge amended soil (MP),LDPE,WetWipes,0,0,0,0
+Release,LDPE,WetWipes,0,0,0,0
+Incineration,HDPE,WetWipes,0,0,0,0
+Landfill,HDPE,WetWipes,2.890793555622002e-4,3.581718834792429e-4,0.2175346139235107,0.26952731453059126
+Sludge amended soil,HDPE,WetWipes,0.0014515662688586442,0.001740152848836649,1.0923156628271016,1.3094794590343128
+Sludge amended soil (MP),HDPE,WetWipes,0,0,0,0
+Release,HDPE,WetWipes,8.557918639766382e-4,0.0010351931759693515,0.6439904792474301,0.7789914552452097
+Incineration,PP,WetWipes,0,0,0,0
+Landfill,PP,WetWipes,6.071533872932823e-4,7.344269624277055e-4,0.45688796227019884,0.5526623837112847
+Sludge amended soil,PP,WetWipes,0.003045758566068055,0.003599656244837927,2.2919585955396236,2.7087711952148954
+Sludge amended soil (MP),PP,WetWipes,0,0,0,0
+Release,PP,WetWipes,0.0017984079415634111,0.002078745556405512,1.3533168997285785,1.5642732812187563
+Incineration,PS,WetWipes,0,0,0,0
+Landfill,PS,WetWipes,0,0,0,0
+Sludge amended soil,PS,WetWipes,0,0,0,0
+Sludge amended soil (MP),PS,WetWipes,0,0,0,0
+Release,PS,WetWipes,0,0,0,0
+Incineration,EPS,WetWipes,0,0,0,0
+Landfill,EPS,WetWipes,0,0,0,0
+Sludge amended soil,EPS,WetWipes,0,0,0,0
+Sludge amended soil (MP),EPS,WetWipes,0,0,0,0
+Release,EPS,WetWipes,0,0,0,0
+Incineration,PVC,WetWipes,0,0,0,0
+Landfill,PVC,WetWipes,0,0,0,0
+Sludge amended soil,PVC,WetWipes,0,0,0,0
+Sludge amended soil (MP),PVC,WetWipes,0,0,0,0
+Release,PVC,WetWipes,0,0,0,0
+Incineration,PET,WetWipes,0,0,0,0
+Landfill,PET,WetWipes,9.076024781137438e-4,0.0011265595969723286,0.6829783963248577,0.8477454452345746
+Sludge amended soil,PET,WetWipes,0.004551169802295828,0.005431393021248164,3.4247930431328935,4.08716831973789
+Sludge amended soil (MP),PET,WetWipes,0,0,0,0
+Release,PET,WetWipes,0.0026816093597506665,0.003150276840478941,2.017933295971798,2.370609464356271
+Incineration,LDPE,Tampons,0,0,0,0
+Landfill,LDPE,Tampons,0,0,0,0
+Sludge amended soil,LDPE,Tampons,0,0,0,0
+Sludge amended soil (MP),LDPE,Tampons,0,0,0,0
+Release,LDPE,Tampons,0,0,0,0
+Incineration,HDPE,Tampons,0,0,0,0
+Landfill,HDPE,Tampons,1.3431929103967236e-4,1.707654140301393e-4,0.10107638112714633,0.12850239111779788
+Sludge amended soil,HDPE,Tampons,6.758295261578134e-4,8.420634624807272e-4,0.5085673266599493,0.6336597431995653
+Sludge amended soil (MP),HDPE,Tampons,0,0,0,0
+Release,HDPE,Tampons,3.9117365424803534e-4,4.8341681177061223e-4,0.2943614208922155,0.36377516238798896
+Incineration,PP,Tampons,0,0,0,0
+Landfill,PP,Tampons,1.26588295994279e-4,1.7453519419605244e-4,0.09525874320148559,0.13133918197535868
+Sludge amended soil,PP,Tampons,6.341720489252958e-4,8.475856262382582e-4,0.4772197293568506,0.6378152172515975
+Sludge amended soil (MP),PP,Tampons,0,0,0,0
+Release,PP,Tampons,3.7145206486259694e-4,4.976054157155161e-4,0.2795207612242986,0.374452204597612
+Incineration,PS,Tampons,0,0,0,0
+Landfill,PS,Tampons,0,0,0,0
+Sludge amended soil,PS,Tampons,0,0,0,0
+Sludge amended soil (MP),PS,Tampons,0,0,0,0
+Release,PS,Tampons,0,0,0,0
+Incineration,EPS,Tampons,0,0,0,0
+Landfill,EPS,Tampons,0,0,0,0
+Sludge amended soil,EPS,Tampons,0,0,0,0
+Sludge amended soil (MP),EPS,Tampons,0,0,0,0
+Release,EPS,Tampons,0,0,0,0
+Incineration,PVC,Tampons,0,0,0,0
+Landfill,PVC,Tampons,0,0,0,0
+Sludge amended soil,PVC,Tampons,0,0,0,0
+Sludge amended soil (MP),PVC,Tampons,0,0,0,0
+Release,PVC,Tampons,0,0,0,0
+Incineration,PET,Tampons,0,0,0,0
+Landfill,PET,Tampons,1.6955746505487092e-4,2.090519823193563e-4,0.12759339949000323,0.15731335146829895
+Sludge amended soil,PET,Tampons,8.524732814810714e-4,0.001028340395424366,0.6414932183809718,0.7738346810187803
+Sludge amended soil (MP),PET,Tampons,0,0,0,0
+Release,PET,Tampons,4.988198273999015e-4,6.09582966212422e-4,0.3753660594676467,0.45871624056819044
+Incineration,LDPE,PantyLiners,0,0,0,0
+Landfill,LDPE,PantyLiners,0,0,0,0
+Sludge amended soil,LDPE,PantyLiners,0,0,0,0
+Sludge amended soil (MP),LDPE,PantyLiners,0,0,0,0
+Release,LDPE,PantyLiners,0,0,0,0
+Incineration,HDPE,PantyLiners,0,0,0,0
+Landfill,HDPE,PantyLiners,0,0,0,0
+Sludge amended soil,HDPE,PantyLiners,0,0,0,0
+Sludge amended soil (MP),HDPE,PantyLiners,0,0,0,0
+Release,HDPE,PantyLiners,0,0,0,0
+Incineration,PP,PantyLiners,0,0,0,0
+Landfill,PP,PantyLiners,2.514068173791374e-4,3.540682710022846e-4,0.18918571632328762,0.2664393120887332
+Sludge amended soil,PP,PantyLiners,0.001266417925360592,0.0017511759098935548,0.9529899979310477,1.3177744039521395
+Sludge amended soil (MP),PP,PantyLiners,0,0,0,0
+Release,PP,PantyLiners,7.382526665694762e-4,9.935935649772179e-4,0.5555412578247515,0.7476874027681905
+Incineration,PS,PantyLiners,0,0,0,0
+Landfill,PS,PantyLiners,0,0,0,0
+Sludge amended soil,PS,PantyLiners,0,0,0,0
+Sludge amended soil (MP),PS,PantyLiners,0,0,0,0
+Release,PS,PantyLiners,0,0,0,0
+Incineration,EPS,PantyLiners,0,0,0,0
+Landfill,EPS,PantyLiners,0,0,0,0
+Sludge amended soil,EPS,PantyLiners,0,0,0,0
+Sludge amended soil (MP),EPS,PantyLiners,0,0,0,0
+Release,EPS,PantyLiners,0,0,0,0
+Incineration,PVC,PantyLiners,0,0,0,0
+Landfill,PVC,PantyLiners,0,0,0,0
+Sludge amended soil,PVC,PantyLiners,0,0,0,0
+Sludge amended soil (MP),PVC,PantyLiners,0,0,0,0
+Release,PVC,PantyLiners,0,0,0,0
+Incineration,PET,PantyLiners,0,0,0,0
+Landfill,PET,PantyLiners,0,0,0,0
+Sludge amended soil,PET,PantyLiners,0,0,0,0
+Sludge amended soil (MP),PET,PantyLiners,0,0,0,0
+Release,PET,PantyLiners,0,0,0,0
+Incineration,LDPE,SanitaryNapkins,0,0,0,0
+Landfill,LDPE,SanitaryNapkins,0,0,0,0
+Sludge amended soil,LDPE,SanitaryNapkins,0,0,0,0
+Sludge amended soil (MP),LDPE,SanitaryNapkins,0,0,0,0
+Release,LDPE,SanitaryNapkins,0,0,0,0
+Incineration,HDPE,SanitaryNapkins,0,0,0,0
+Landfill,HDPE,SanitaryNapkins,3.905689664300336e-4,5.47674918304678e-4,0.29390638829129717,0.4121299207869717
+Sludge amended soil,HDPE,SanitaryNapkins,0.001978592902450272,0.002767679089051632,1.4889075780221463,2.0827014815019402
+Sludge amended soil (MP),HDPE,SanitaryNapkins,0,0,0,0
+Release,HDPE,SanitaryNapkins,0.0011606997329194364,0.001578030531492807,0.8734361808393601,1.1874810698958356
+Incineration,PP,SanitaryNapkins,0,0,0,0
+Landfill,PP,SanitaryNapkins,4.0120505764730297e-4,5.685641963542518e-4,0.3019101351936113,0.4278492758644641
+Sludge amended soil,PP,SanitaryNapkins,0.002013600312456873,0.002811154211104407,1.5152509445535878,2.115416871615618
+Sludge amended soil (MP),PP,SanitaryNapkins,0,0,0,0
+Release,PP,SanitaryNapkins,0.0011992585336917949,0.0016744903064984911,0.9024519983924879,1.2600678510383418
+Incineration,PS,SanitaryNapkins,0,0,0,0
+Landfill,PS,SanitaryNapkins,0,0,0,0
+Sludge amended soil,PS,SanitaryNapkins,0,0,0,0
+Sludge amended soil (MP),PS,SanitaryNapkins,0,0,0,0
+Release,PS,SanitaryNapkins,0,0,0,0
+Incineration,EPS,SanitaryNapkins,0,0,0,0
+Landfill,EPS,SanitaryNapkins,0,0,0,0
+Sludge amended soil,EPS,SanitaryNapkins,0,0,0,0
+Sludge amended soil (MP),EPS,SanitaryNapkins,0,0,0,0
+Release,EPS,SanitaryNapkins,0,0,0,0
+Incineration,PVC,SanitaryNapkins,0,0,0,0
+Landfill,PVC,SanitaryNapkins,0,0,0,0
+Sludge amended soil,PVC,SanitaryNapkins,0,0,0,0
+Sludge amended soil (MP),PVC,SanitaryNapkins,0,0,0,0
+Release,PVC,SanitaryNapkins,0,0,0,0
+Incineration,PET,SanitaryNapkins,0,0,0,0
+Landfill,PET,SanitaryNapkins,2.2099194791335512e-4,3.558759304731261e-4,0.16629827465902353,0.2677995908410154
+Sludge amended soil,PET,SanitaryNapkins,0.0011044584991811931,0.0017066117486559688,0.8311141857455311,1.2842395028147338
+Sludge amended soil (MP),PET,SanitaryNapkins,0,0,0,0
+Release,PET,SanitaryNapkins,6.562674448219265e-4,0.001022894642488775,0.49384669812296317,0.7697367067443367
+Incineration,LDPE,Agrotextiles,0,0,0,0
+Landfill,LDPE,Agrotextiles,0,0,0,0
+Sludge amended soil,LDPE,Agrotextiles,0,0,0,0
+Sludge amended soil (MP),LDPE,Agrotextiles,0,0,0,0
+Release,LDPE,Agrotextiles,0,0,0,0
+Incineration,HDPE,Agrotextiles,0,0,0,0
+Landfill,HDPE,Agrotextiles,9.78469675421462e-9,1.3557345913193208e-8,7.363065503751344e-6,1.0202015302401637e-5
+Sludge amended soil,HDPE,Agrotextiles,4.9226281301635355e-8,6.563531870098037e-8,3.70431851732051e-5,4.93911219830854e-5
+Sludge amended soil (MP),HDPE,Agrotextiles,0,0,0,0
+Release,HDPE,Agrotextiles,7.949820261854995e-4,6.157701327484734e-4,0.5982305716922177,0.46337213472944194
+Incineration,PP,Agrotextiles,0,0,0,0
+Landfill,PP,Agrotextiles,6.998537105936454e-8,9.357901889248536e-8,5.2664572480744846e-5,7.041898826198829e-5
+Sludge amended soil,PP,Agrotextiles,3.5093290467065473e-07,4.527304170487702e-7,2.640799229060176e-4,3.406833957153458e-4
+Sludge amended soil (MP),PP,Agrotextiles,0,0,0,0
+Release,PP,Agrotextiles,0.005768236970592501,0.004354970531299587,4.340646186846682,3.277151463590704
+Incineration,PS,Agrotextiles,0,0,0,0
+Landfill,PS,Agrotextiles,0,0,0,0
+Sludge amended soil,PS,Agrotextiles,0,0,0,0
+Sludge amended soil (MP),PS,Agrotextiles,0,0,0,0
+Release,PS,Agrotextiles,0,0,0,0
+Incineration,EPS,Agrotextiles,0,0,0,0
+Landfill,EPS,Agrotextiles,0,0,0,0
+Sludge amended soil,EPS,Agrotextiles,0,0,0,0
+Sludge amended soil (MP),EPS,Agrotextiles,0,0,0,0
+Release,EPS,Agrotextiles,0,0,0,0
+Incineration,PVC,Agrotextiles,0,0,0,0
+Landfill,PVC,Agrotextiles,0,0,0,0
+Sludge amended soil,PVC,Agrotextiles,0,0,0,0
+Sludge amended soil (MP),PVC,Agrotextiles,0,0,0,0
+Release,PVC,Agrotextiles,0,0,0,0
+Incineration,PET,Agrotextiles,0,0,0,0
+Landfill,PET,Agrotextiles,1.2062436862169711e-8,1.607921852776909e-8,9.077083836324713e-6,1.2099745372088333e-5
+Sludge amended soil,PET,Agrotextiles,6.062319804694068e-8,7.807885995302778e-8,4.5619459598913585e-5,5.8754990035306015e-5
+Sludge amended soil (MP),PET,Agrotextiles,0,0,0,0
+Release,PET,Agrotextiles,9.684340343279481e-4,7.217970423263251e-4,0.7287546471736527,0.5431582640283162
+Incineration,LDPE,MobilityTextiles,0,0,0,0
+Landfill,LDPE,MobilityTextiles,0,0,0,0
+Sludge amended soil,LDPE,MobilityTextiles,0,0,0,0
+Sludge amended soil (MP),LDPE,MobilityTextiles,0,0,0,0
+Release,LDPE,MobilityTextiles,0,0,0,0
+Incineration,HDPE,MobilityTextiles,0,0,0,0
+Landfill,HDPE,MobilityTextiles,0,0,0,0
+Sludge amended soil,HDPE,MobilityTextiles,0,0,0,0
+Sludge amended soil (MP),HDPE,MobilityTextiles,0,0,0,0
+Release,HDPE,MobilityTextiles,0,0,0,0
+Incineration,PP,MobilityTextiles,0,0,0,0
+Landfill,PP,MobilityTextiles,0,0,0,0
+Sludge amended soil,PP,MobilityTextiles,0,0,0,0
+Sludge amended soil (MP),PP,MobilityTextiles,0,0,0,0
+Release,PP,MobilityTextiles,0,0,0,0
+Incineration,PS,MobilityTextiles,0,0,0,0
+Landfill,PS,MobilityTextiles,0,0,0,0
+Sludge amended soil,PS,MobilityTextiles,0,0,0,0
+Sludge amended soil (MP),PS,MobilityTextiles,0,0,0,0
+Release,PS,MobilityTextiles,0,0,0,0
+Incineration,EPS,MobilityTextiles,0,0,0,0
+Landfill,EPS,MobilityTextiles,0,0,0,0
+Sludge amended soil,EPS,MobilityTextiles,0,0,0,0
+Sludge amended soil (MP),EPS,MobilityTextiles,0,0,0,0
+Release,EPS,MobilityTextiles,0,0,0,0
+Incineration,PVC,MobilityTextiles,0,0,0,0
+Landfill,PVC,MobilityTextiles,0,0,0,0
+Sludge amended soil,PVC,MobilityTextiles,0,0,0,0
+Sludge amended soil (MP),PVC,MobilityTextiles,0,0,0,0
+Release,PVC,MobilityTextiles,0,0,0,0
+Incineration,PET,MobilityTextiles,0,0,0,0
+Landfill,PET,MobilityTextiles,0,0,0,0
+Sludge amended soil,PET,MobilityTextiles,0,0,0,0
+Sludge amended soil (MP),PET,MobilityTextiles,0,0,0,0
+Release,PET,MobilityTextiles,0,0,0,0
+Incineration,LDPE,Geotextiles,0,0,0,0
+Landfill,LDPE,Geotextiles,0,0,0,0
+Sludge amended soil,LDPE,Geotextiles,0,0,0,0
+Sludge amended soil (MP),LDPE,Geotextiles,0,0,0,0
+Release,LDPE,Geotextiles,0,0,0,0
+Incineration,HDPE,Geotextiles,0,0,0,0
+Landfill,HDPE,Geotextiles,0,0,0,0
+Sludge amended soil,HDPE,Geotextiles,0,0,0,0
+Sludge amended soil (MP),HDPE,Geotextiles,0,0,0,0
+Release,HDPE,Geotextiles,9.652486771814138e-5,8.29386456474766e-5,0.07263576394878833,0.06241201909826675
+Incineration,PP,Geotextiles,0,0,0,0
+Landfill,PP,Geotextiles,0,0,0,0
+Sludge amended soil,PP,Geotextiles,0,0,0,0
+Sludge amended soil (MP),PP,Geotextiles,0,0,0,0
+Release,PP,Geotextiles,0.001461300550602619,0.001201534896766486,1.0996407906172894,0.904164980496103
+Incineration,PS,Geotextiles,0,0,0,0
+Landfill,PS,Geotextiles,0,0,0,0
+Sludge amended soil,PS,Geotextiles,0,0,0,0
+Sludge amended soil (MP),PS,Geotextiles,0,0,0,0
+Release,PS,Geotextiles,0,0,0,0
+Incineration,EPS,Geotextiles,0,0,0,0
+Landfill,EPS,Geotextiles,0,0,0,0
+Sludge amended soil,EPS,Geotextiles,0,0,0,0
+Sludge amended soil (MP),EPS,Geotextiles,0,0,0,0
+Release,EPS,Geotextiles,0,0,0,0
+Incineration,PVC,Geotextiles,0,0,0,0
+Landfill,PVC,Geotextiles,0,0,0,0
+Sludge amended soil,PVC,Geotextiles,0,0,0,0
+Sludge amended soil (MP),PVC,Geotextiles,0,0,0,0
+Release,PVC,Geotextiles,0,0,0,0
+Incineration,PET,Geotextiles,0,0,0,0
+Landfill,PET,Geotextiles,0,0,0,0
+Sludge amended soil,PET,Geotextiles,0,0,0,0
+Sludge amended soil (MP),PET,Geotextiles,0,0,0,0
+Release,PET,Geotextiles,9.374364128031292e-4,7.799751507104366e-4,0.7054286797491206,0.5869377733658993
+Incineration,LDPE,BuildingTextiles,0,0,0,0
+Landfill,LDPE,BuildingTextiles,0,0,0,0
+Sludge amended soil,LDPE,BuildingTextiles,0,0,0,0
+Sludge amended soil (MP),LDPE,BuildingTextiles,0,0,0,0
+Release,LDPE,BuildingTextiles,0,0,0,0
+Incineration,HDPE,BuildingTextiles,0,0,0,0
+Landfill,HDPE,BuildingTextiles,0,0,0,0
+Sludge amended soil,HDPE,BuildingTextiles,0,0,0,0
+Sludge amended soil (MP),HDPE,BuildingTextiles,0,0,0,0
+Release,HDPE,BuildingTextiles,4.2829033650717516e-4,3.452115035999769e-4,0.32229203229703546,0.25977452112251426
+Incineration,PP,BuildingTextiles,0,0,0,0
+Landfill,PP,BuildingTextiles,0,0,0,0
+Sludge amended soil,PP,BuildingTextiles,0,0,0,0
+Sludge amended soil (MP),PP,BuildingTextiles,0,0,0,0
+Release,PP,BuildingTextiles,0.006641751441901284,0.005136046143093525,4.997973075178803,3.864917343053878
+Incineration,PS,BuildingTextiles,0,0,0,0
+Landfill,PS,BuildingTextiles,0,0,0,0
+Sludge amended soil,PS,BuildingTextiles,0,0,0,0
+Sludge amended soil (MP),PS,BuildingTextiles,0,0,0,0
+Release,PS,BuildingTextiles,0,0,0,0
+Incineration,EPS,BuildingTextiles,0,0,0,0
+Landfill,EPS,BuildingTextiles,0,0,0,0
+Sludge amended soil,EPS,BuildingTextiles,0,0,0,0
+Sludge amended soil (MP),EPS,BuildingTextiles,0,0,0,0
+Release,EPS,BuildingTextiles,0,0,0,0
+Incineration,PVC,BuildingTextiles,0,0,0,0
+Landfill,PVC,BuildingTextiles,0,0,0,0
+Sludge amended soil,PVC,BuildingTextiles,0,0,0,0
+Sludge amended soil (MP),PVC,BuildingTextiles,0,0,0,0
+Release,PVC,BuildingTextiles,0,0,0,0
+Incineration,PET,BuildingTextiles,0,0,0,0
+Landfill,PET,BuildingTextiles,0,0,0,0
+Sludge amended soil,PET,BuildingTextiles,0,0,0,0
+Sludge amended soil (MP),PET,BuildingTextiles,0,0,0,0
+Release,PET,BuildingTextiles,0.00926972701700297,0.007090001625844869,6.975546503133799,5.335285058304244
+Incineration,LDPE,TechnicalHouseholdTextiles,0,0,0,0
+Landfill,LDPE,TechnicalHouseholdTextiles,0,0,0,0
+Sludge amended soil,LDPE,TechnicalHouseholdTextiles,0,0,0,0
+Sludge amended soil (MP),LDPE,TechnicalHouseholdTextiles,0,0,0,0
+Release,LDPE,TechnicalHouseholdTextiles,0,0,0,0
+Incineration,HDPE,TechnicalHouseholdTextiles,0,0,0,0
+Landfill,HDPE,TechnicalHouseholdTextiles,2.6220291484137523e-7,1.5769851570395103e-7,1.9730986925271804e-4,1.1866944169449143e-4
+Sludge amended soil,HDPE,TechnicalHouseholdTextiles,2.9821366299562325e-9,4.028056921129171e-9,2.2440825606625027e-6,3.031146259115074e-6
+Sludge amended soil (MP),HDPE,TechnicalHouseholdTextiles,1.3097228620699961e-6,7.331436478691446e-7,9.855773221615922e-4,5.516966788566574e-4
+Release,HDPE,TechnicalHouseholdTextiles,6.9181979643288266e-06,5.024974567874608e-6,0.005206001377337631,0.0037813350609980276
+Incineration,PP,TechnicalHouseholdTextiles,0,0,0,0
+Landfill,PP,TechnicalHouseholdTextiles,8.543543358710533e-6,4.823501951628799e-6,0.006429087274189592,0.0036297252453958147
+Sludge amended soil,PP,TechnicalHouseholdTextiles,9.566443695688229e-8,1.2373831399318696e-7,7.198828266084097e-5,9.311410809570021e-5
+Sludge amended soil (MP),PP,TechnicalHouseholdTextiles,4.273074157263872e-5,2.2072189963932972e-5,0.03215523762529355,0.01660950610918818
+Release,PP,TechnicalHouseholdTextiles,2.2507334232778784e-4,1.5322009944156365e-4,0.16936955782445925,0.11529939629386929
+Incineration,PS,TechnicalHouseholdTextiles,0,0,0,0
+Landfill,PS,TechnicalHouseholdTextiles,0,0,0,0
+Sludge amended soil,PS,TechnicalHouseholdTextiles,0,0,0,0
+Sludge amended soil (MP),PS,TechnicalHouseholdTextiles,0,0,0,0
+Release,PS,TechnicalHouseholdTextiles,0,0,0,0
+Incineration,EPS,TechnicalHouseholdTextiles,0,0,0,0
+Landfill,EPS,TechnicalHouseholdTextiles,0,0,0,0
+Sludge amended soil,EPS,TechnicalHouseholdTextiles,0,0,0,0
+Sludge amended soil (MP),EPS,TechnicalHouseholdTextiles,0,0,0,0
+Release,EPS,TechnicalHouseholdTextiles,0,0,0,0
+Incineration,PVC,TechnicalHouseholdTextiles,0,0,0,0
+Landfill,PVC,TechnicalHouseholdTextiles,0,0,0,0
+Sludge amended soil,PVC,TechnicalHouseholdTextiles,0,0,0,0
+Sludge amended soil (MP),PVC,TechnicalHouseholdTextiles,0,0,0,0
+Release,PVC,TechnicalHouseholdTextiles,0,0,0,0
+Incineration,PET,TechnicalHouseholdTextiles,0,0,0,0
+Landfill,PET,TechnicalHouseholdTextiles,3.873301670496633e-5,2.2015801767586725e-5,0.02914691648810874,0.01656707352351229
+Sludge amended soil,PET,TechnicalHouseholdTextiles,4.3858942191667957e-7,5.718394881314046e-7,3.300421795324362e-4,4.3031396010607704e-4
+Sludge amended soil (MP),PET,TechnicalHouseholdTextiles,1.9309149315341293e-4,1.0043379191500923e-4,0.14530295092623458,0.07557726184429943
+Release,PET,TechnicalHouseholdTextiles,0.0010139802046444856,6.880275709501609e-4,0.7630285182919608,0.5177464565890462
+Incineration,LDPE,TechnicalClothing,0,0,0,0
+Landfill,LDPE,TechnicalClothing,0,0,0,0
+Sludge amended soil,LDPE,TechnicalClothing,0,0,0,0
+Sludge amended soil (MP),LDPE,TechnicalClothing,0,0,0,0
+Release,LDPE,TechnicalClothing,0,0,0,0
+Incineration,HDPE,TechnicalClothing,0,0,0,0
+Landfill,HDPE,TechnicalClothing,2.048804632816693e-5,1.4428531051595347e-5,0.015417424877598453,0.010857589348392038
+Sludge amended soil,HDPE,TechnicalClothing,2.2787775190044226e-8,3.3407534696062024e-8,1.7147989929967233e-5,2.5139447084039394e-5
+Sludge amended soil (MP),HDPE,TechnicalClothing,1.0303030653181166e-4,6.933416891286569e-5,0.07753116064006224,0.05217453746164329
+Release,HDPE,TechnicalClothing,1.8086309611655603e-4,1.2865583126183701e-4,0.13610098068127288,0.09681458064732044
+Incineration,PP,TechnicalClothing,0,0,0,0
+Landfill,PP,TechnicalClothing,3.068023602443771e-4,2.1024374717683363e-4,0.23087132201739732,0.15821016441315536
+Sludge amended soil,PP,TechnicalClothing,3.418035299188938e-7,5.055307597355622e-7,2.5720999264716146e-4,3.8041609173946223e-4
+Sludge amended soil (MP),PP,TechnicalClothing,0.0015414611494317942,9.93147446738604e-4,1.1599623064317592,0.7473516950916171
+Release,PP,TechnicalClothing,0.002722974131317077,0.001912105289192218,2.0490606298321956,1.4388750973122797
+Incineration,PS,TechnicalClothing,0,0,0,0
+Landfill,PS,TechnicalClothing,0,0,0,0
+Sludge amended soil,PS,TechnicalClothing,0,0,0,0
+Sludge amended soil (MP),PS,TechnicalClothing,0,0,0,0
+Release,PS,TechnicalClothing,0,0,0,0
+Incineration,EPS,TechnicalClothing,0,0,0,0
+Landfill,EPS,TechnicalClothing,0,0,0,0
+Sludge amended soil,EPS,TechnicalClothing,0,0,0,0
+Sludge amended soil (MP),EPS,TechnicalClothing,0,0,0,0
+Release,EPS,TechnicalClothing,0,0,0,0
+Incineration,PVC,TechnicalClothing,0,0,0,0
+Landfill,PVC,TechnicalClothing,0,0,0,0
+Sludge amended soil,PVC,TechnicalClothing,0,0,0,0
+Sludge amended soil (MP),PVC,TechnicalClothing,0,0,0,0
+Release,PVC,TechnicalClothing,0,0,0,0
+Incineration,PET,TechnicalClothing,0,0,0,0
+Landfill,PET,TechnicalClothing,6.929060105801619e-4,4.896376410268839e-4,0.5214175228933056,0.36845638802554914
+Sludge amended soil,PET,TechnicalClothing,7.642913678532356e-7,1.1426842733952032e-6,5.751355966173515e-4,8.598793980499524e-4
+Sludge amended soil (MP),PET,TechnicalClothing,0.003458428934929,0.00230050395667442,2.602496472563924,1.7311483176355738
+Release,PET,TechnicalClothing,0.006082661775117866,0.004366212135380597,4.57725346143874,3.285610863947701
+Incineration,LDPE,OtherTechnicalTextiles,0,0,0,0
+Landfill,LDPE,OtherTechnicalTextiles,0,0,0,0
+Sludge amended soil,LDPE,OtherTechnicalTextiles,0,0,0,0
+Sludge amended soil (MP),LDPE,OtherTechnicalTextiles,0,0,0,0
+Release,LDPE,OtherTechnicalTextiles,0,0,0,0
+Incineration,HDPE,OtherTechnicalTextiles,0,0,0,0
+Landfill,HDPE,OtherTechnicalTextiles,2.442184570881329e-12,7.628905868032298e-11,1.8377641555324252e-9,5.740814972531414e-8
+Sludge amended soil,HDPE,OtherTechnicalTextiles,1.2441730649013054e-11,3.711129522960819e-10,9.362505558412369e-9,2.792655762039432e-7
+Sludge amended soil (MP),HDPE,OtherTechnicalTextiles,0,0,0,0
+Release,HDPE,OtherTechnicalTextiles,1.844015510866233e-8,4.856717759085297e-7,1.3876369740935721e-5,3.654720416141075e-4
+Incineration,PP,OtherTechnicalTextiles,0,0,0,0
+Landfill,PP,OtherTechnicalTextiles,3.8707214856084165e-9,1.9426876465240237e-8,2.9127500382713806e-6,1.4618885749855887e-5
+Sludge amended soil,PP,OtherTechnicalTextiles,1.94138185957057e-8,9.429750657157873e-8,1.460905959467322e-5,7.095965620272177e-5
+Sludge amended soil (MP),PP,OtherTechnicalTextiles,0,0,0,0
+Release,PP,OtherTechnicalTextiles,1.9224225478243462e-5,7.557521151186395e-5,0.014466389200485113,0.05687097380734128
+Incineration,PS,OtherTechnicalTextiles,0,0,0,0
+Landfill,PS,OtherTechnicalTextiles,0,0,0,0
+Sludge amended soil,PS,OtherTechnicalTextiles,0,0,0,0
+Sludge amended soil (MP),PS,OtherTechnicalTextiles,0,0,0,0
+Release,PS,OtherTechnicalTextiles,0,0,0,0
+Incineration,EPS,OtherTechnicalTextiles,0,0,0,0
+Landfill,EPS,OtherTechnicalTextiles,0,0,0,0
+Sludge amended soil,EPS,OtherTechnicalTextiles,0,0,0,0
+Sludge amended soil (MP),EPS,OtherTechnicalTextiles,0,0,0,0
+Release,EPS,OtherTechnicalTextiles,0,0,0,0
+Incineration,PVC,OtherTechnicalTextiles,0,0,0,0
+Landfill,PVC,OtherTechnicalTextiles,0,0,0,0
+Sludge amended soil,PVC,OtherTechnicalTextiles,0,0,0,0
+Sludge amended soil (MP),PVC,OtherTechnicalTextiles,0,0,0,0
+Release,PVC,OtherTechnicalTextiles,0,0,0,0
+Incineration,PET,OtherTechnicalTextiles,0,0,0,0
+Landfill,PET,OtherTechnicalTextiles,7.592647863760704e-8,1.450985462187771e-7,5.713530523437777e-5,1.0918786009875701e-4
+Sludge amended soil,PET,OtherTechnicalTextiles,3.793055826855851e-7,6.978349715845145e-7,2.854305985568284e-4,5.251266069510053e-4
+Sludge amended soil (MP),PET,OtherTechnicalTextiles,0,0,0,0
+Release,PET,OtherTechnicalTextiles,3.669432402219504e-4,4.7795764888763253e-4,0.27612783326669904,0.35966709701685584
+Incineration,LDPE,Post-consumer processes,10.203355644925704,2.792795972085544,7678.109793162336,2101.6021444120192
+Landfill,LDPE,Post-consumer processes,3.985438200422863,1.3641464825913006,2999.075318121275,1026.5315482266017
+Sludge amended soil,LDPE,Post-consumer processes,0,0,0,0
+Sludge amended soil (MP),LDPE,Post-consumer processes,0.0014124403388539163,8.063630731710245e-4,1.0628730758204157,0.6067949039919998
+Release,LDPE,Post-consumer processes,0.008199353592603249,0.004224531503825396,6.170081619008998,3.178995012996116
+Incineration,HDPE,Post-consumer processes,15.769181621306286,4.066266790055751,11866.44002720038,3059.8995025587174
+Landfill,HDPE,Post-consumer processes,5.574799834658031,1.6276999069607987,4195.08313685946,1224.8576871061455
+Sludge amended soil,HDPE,Post-consumer processes,0,0,0,0
+Sludge amended soil (MP),HDPE,Post-consumer processes,0.0036153819134428235,0.002062484165950998,2.720604891336164,1.5520364499600778
+Release,HDPE,Post-consumer processes,0.02092537472504812,0.013997156849531692,15.746518125327336,10.532976681672954
+Incineration,PP,Post-consumer processes,20.254296031845353,4.630725645495313,15241.525839889828,3484.6594753175873
+Landfill,PP,Post-consumer processes,8.003720243999133,2.2546331028841284,6022.865900763069,1696.6301195089495
+Sludge amended soil,PP,Post-consumer processes,0,0,0,0
+Sludge amended soil (MP),PP,Post-consumer processes,0.01451894945019705,0.008415751654474984,10.925629943657484,6.332922956300326
+Release,PP,Post-consumer processes,0.027673649541144586,0.011947880615603009,20.82465092354936,8.990879310162857
+Incineration,PS,Post-consumer processes,4.686654956739836,1.3126175840708925,3526.7467461464694,987.7556244884956
+Landfill,PS,Post-consumer processes,1.9998775174994126,0.6698065781649744,1504.924427472432,504.0350083151974
+Sludge amended soil,PS,Post-consumer processes,0,0,0,0
+Sludge amended soil (MP),PS,Post-consumer processes,6.276757773100531e-4,3.6192495404985535e-4,0.4723312310584654,0.27235153127902734
+Release,PS,Post-consumer processes,0.0014070969340756062,0.00053318359868113755,1.05885211938364,0.4012250825171535
+Incineration,EPS,Post-consumer processes,7.552767986320333,2.6749236206208,5683.520584729299,2012.9022217964025
+Landfill,EPS,Post-consumer processes,0.47503272207508324,0.14814692155076303,357.4660653185354,111.4817878323645
+Sludge amended soil,EPS,Post-consumer processes,0,0,0,0
+Sludge amended soil (MP),EPS,Post-consumer processes,2.624769843858548e-6,1.3712826264085352e-6,0.001975161088592462,0.0010319015556668279
+Release,EPS,Post-consumer processes,0.01613591466953407,0.015266592985733204,12.142409689247234,11.48823790830777
+Incineration,PVC,Post-consumer processes,15.294340494377833,4.817479316373158,11509.118138819595,3625.1931623883997
+Landfill,PVC,Post-consumer processes,1.6343126559263057,0.5623912359069347,1229.8338355771668,423.2040719028713
+Sludge amended soil,PVC,Post-consumer processes,0,0,0,0
+Sludge amended soil (MP),PVC,Post-consumer processes,0.0045329684165499,0.0026424283735253826,3.4110963493187914,1.9884492787022712
+Release,PVC,Post-consumer processes,0.0350261826653397,0.027933500426918213,26.35749311292343,21.02019087141079
+Incineration,PET,Post-consumer processes,12.591055404701937,3.56640289431859,9474.873676207671,2683.7477730033056
+Landfill,PET,Post-consumer processes,5.36182273094957,1.7683340321481313,4034.816098974083,1330.6860333317013
+Sludge amended soil,PET,Post-consumer processes,0,0,0,0
+Sludge amended soil (MP),PET,Post-consumer processes,1.121851277349233e-4,5.521549415437103e-5,0.08442023956472158,0.041550117545085426
+Release,PET,Post-consumer processes,0.00395358143926058,0.0020391766442062437,2.975102840990165,1.534497346434686

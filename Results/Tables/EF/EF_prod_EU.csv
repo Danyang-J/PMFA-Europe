@@ -1,0 +1,330 @@
+"prod","dest","mean","sd"
+"Pre-consumer processes","Soil",0,0
+"Pre-consumer processes","Soil (MP)",0.000125647737487912,8.60860785915802e-06
+"Pre-consumer processes","Fresh water",0,0
+"Pre-consumer processes","Fresh water (MP)",2.82400687324893e-06,2.50216225859837e-07
+"Pre-consumer processes","Subsurface soil (MP)",1.68218619536831e-06,3.34329639116114e-07
+"Pre-consumer processes","Coastal and ocean water",0,0
+"Pre-consumer processes","Coastal and ocean water (MP)",5.83782529678605e-07,1.23367404239685e-07
+"ConsumerFilms","Soil",0.00578583129605661,0.000849378836292925
+"ConsumerFilms","Soil (MP)",0.000192334638786039,2.90393427814302e-05
+"ConsumerFilms","Fresh water",0.000101307935586606,1.98104149814627e-05
+"ConsumerFilms","Fresh water (MP)",0,0
+"ConsumerFilms","Subsurface soil (MP)",0,0
+"ConsumerFilms","Coastal and ocean water",5.29836363957739e-05,1.58527458947148e-05
+"ConsumerFilms","Coastal and ocean water (MP)",0,0
+"ConsumerBags","Soil",0.00635885912786979,0.00126893120751347
+"ConsumerBags","Soil (MP)",0.000192453202416413,3.68190026336157e-05
+"ConsumerBags","Fresh water",0.00011289814423951,2.96338586560989e-05
+"ConsumerBags","Fresh water (MP)",0,0
+"ConsumerBags","Subsurface soil (MP)",0,0
+"ConsumerBags","Coastal and ocean water",5.92012846496977e-05,2.43485729232028e-05
+"ConsumerBags","Coastal and ocean water (MP)",0,0
+"ConsumerBottles","Soil",0.00640282123674517,0.00172321372716296
+"ConsumerBottles","Soil (MP)",3.89738359467528e-05,7.26719002721172e-06
+"ConsumerBottles","Fresh water",0.000116542770102501,4.09720963756878e-05
+"ConsumerBottles","Fresh water (MP)",0,0
+"ConsumerBottles","Subsurface soil (MP)",0,0
+"ConsumerBottles","Coastal and ocean water",6.09670087476449e-05,3.25310328050362e-05
+"ConsumerBottles","Coastal and ocean water (MP)",0,0
+"ConsumerOther","Soil",0.00234681951101864,0.000292105976459226
+"ConsumerOther","Soil (MP)",3.89438104605917e-05,5.41660245996573e-06
+"ConsumerOther","Fresh water",3.64446833215997e-05,6.112047292901e-06
+"ConsumerOther","Fresh water (MP)",0,0
+"ConsumerOther","Subsurface soil (MP)",0,0
+"ConsumerOther","Coastal and ocean water",1.9220999447762e-05,4.94744678789414e-06
+"ConsumerOther","Coastal and ocean water (MP)",0,0
+"AgriculturalPackagingFilms","Soil",0.00162641189122478,0.000184170087689498
+"AgriculturalPackagingFilms","Soil (MP)",0.000192419489183453,3.59586112477017e-05
+"AgriculturalPackagingFilms","Fresh water",2.80728201525396e-06,6.4766106187703e-07
+"AgriculturalPackagingFilms","Fresh water (MP)",0,0
+"AgriculturalPackagingFilms","Subsurface soil (MP)",0,0
+"AgriculturalPackagingFilms","Coastal and ocean water",1.70935429313899e-06,6.71069359847344e-07
+"AgriculturalPackagingFilms","Coastal and ocean water (MP)",0,0
+"AgriculturalPackagingBottles","Soil",0.0131515435757038,0.00259520933128452
+"AgriculturalPackagingBottles","Soil (MP)",3.87904602050064e-05,1.03940200769036e-05
+"AgriculturalPackagingBottles","Fresh water",2.81712704746447e-06,9.18454644628072e-07
+"AgriculturalPackagingBottles","Fresh water (MP)",0,0
+"AgriculturalPackagingBottles","Subsurface soil (MP)",0,0
+"AgriculturalPackagingBottles","Coastal and ocean water",1.71472874412665e-06,9.43033240072299e-07
+"AgriculturalPackagingBottles","Coastal and ocean water (MP)",0,0
+"BuildingPackagingFilms","Soil",0.000492659424100369,0.000138203061233809
+"BuildingPackagingFilms","Soil (MP)",0,0
+"BuildingPackagingFilms","Fresh water",0,0
+"BuildingPackagingFilms","Fresh water (MP)",0,0
+"BuildingPackagingFilms","Subsurface soil (MP)",0,0
+"BuildingPackagingFilms","Coastal and ocean water",0,0
+"BuildingPackagingFilms","Coastal and ocean water (MP)",0,0
+"OtherNonConsumerFilms","Soil",0.00111187454313629,0.000230182611505102
+"OtherNonConsumerFilms","Soil (MP)",0,0
+"OtherNonConsumerFilms","Fresh water",0.000149848719353152,3.35997183601495e-05
+"OtherNonConsumerFilms","Fresh water (MP)",0,0
+"OtherNonConsumerFilms","Subsurface soil (MP)",0,0
+"OtherNonConsumerFilms","Coastal and ocean water",9.22397093148597e-05,3.69547961479313e-05
+"OtherNonConsumerFilms","Coastal and ocean water (MP)",0,0
+"NonConsumerBags","Soil",0.00111029566333661,0.000277864114646692
+"NonConsumerBags","Soil (MP)",0,0
+"NonConsumerBags","Fresh water",0.000149149701382615,4.03303215497694e-05
+"NonConsumerBags","Fresh water (MP)",0,0
+"NonConsumerBags","Subsurface soil (MP)",0,0
+"NonConsumerBags","Coastal and ocean water",9.18183017175623e-05,4.4109563445288e-05
+"NonConsumerBags","Coastal and ocean water (MP)",0,0
+"NonConsumerOther","Soil",0.00111035049851295,0.000145109181645302
+"NonConsumerOther","Soil (MP)",0,0
+"NonConsumerOther","Fresh water",0.000149685955161363,2.13841915198946e-05
+"NonConsumerOther","Fresh water (MP)",0,0
+"NonConsumerOther","Subsurface soil (MP)",0,0
+"NonConsumerOther","Coastal and ocean water",9.2132929331146e-05,2.34864562612792e-05
+"NonConsumerOther","Coastal and ocean water (MP)",0,0
+"PipesDucts","Soil",0,0
+"PipesDucts","Soil (MP)",8.99766595151445e-07,3.4615731113513e-08
+"PipesDucts","Fresh water",0,0
+"PipesDucts","Fresh water (MP)",0,0
+"PipesDucts","Subsurface soil (MP)",6.29989208149694e-06,2.44448266155671e-07
+"PipesDucts","Coastal and ocean water",0,0
+"PipesDucts","Coastal and ocean water (MP)",0,0
+"Insulation","Soil",0.000437352569601403,0.000115148866360907
+"Insulation","Soil (MP)",8.83397693023181e-05,6.37278095585195e-06
+"Insulation","Fresh water",1.12498679943114e-05,3.08611869176879e-06
+"Insulation","Fresh water (MP)",3.27306340980114e-06,6.57972645086956e-07
+"Insulation","Subsurface soil (MP)",0,0
+"Insulation","Coastal and ocean water",4.02156220320186e-05,1.65876673329138e-05
+"Insulation","Coastal and ocean water (MP)",8.35230103294817e-06,2.16190884332304e-06
+"WallFloorCoverings","Soil",0.000492483387933001,0.000143592011771738
+"WallFloorCoverings","Soil (MP)",0.000362000506762619,9.53643508174876e-05
+"WallFloorCoverings","Fresh water",0,0
+"WallFloorCoverings","Fresh water (MP)",1.53516671807063e-05,4.50469581224899e-06
+"WallFloorCoverings","Subsurface soil (MP)",1.0991148806264e-05,3.46342890242839e-06
+"WallFloorCoverings","Coastal and ocean water",0,0
+"WallFloorCoverings","Coastal and ocean water (MP)",3.51900397019297e-05,1.46807200255864e-05
+"WindowsProfilesFittedFurniture","Soil",0,0
+"WindowsProfilesFittedFurniture","Soil (MP)",0,0
+"WindowsProfilesFittedFurniture","Fresh water",0,0
+"WindowsProfilesFittedFurniture","Fresh water (MP)",0,0
+"WindowsProfilesFittedFurniture","Subsurface soil (MP)",0,0
+"WindowsProfilesFittedFurniture","Coastal and ocean water",0,0
+"WindowsProfilesFittedFurniture","Coastal and ocean water (MP)",0,0
+"Lining","Soil",0.000490740676459144,0.00014555055247873
+"Lining","Soil (MP)",0,0
+"Lining","Fresh water",0,0
+"Lining","Fresh water (MP)",0,0
+"Lining","Subsurface soil (MP)",0,0
+"Lining","Coastal and ocean water",0,0
+"Lining","Coastal and ocean water (MP)",0,0
+"AutomotivePC","Soil",0.000702885861237214,5.3261355774057e-05
+"AutomotivePC","Soil (MP)",0,0
+"AutomotivePC","Fresh water",0,0
+"AutomotivePC","Fresh water (MP)",0,0
+"AutomotivePC","Subsurface soil (MP)",0,0
+"AutomotivePC","Coastal and ocean water",0,0
+"AutomotivePC","Coastal and ocean water (MP)",0,0
+"EEEPC","Soil",0.000606521734858785,0.000136558430056372
+"EEEPC","Soil (MP)",0,0
+"EEEPC","Fresh water",2.80166636483614e-06,5.82367215047405e-07
+"EEEPC","Fresh water (MP)",0,0
+"EEEPC","Subsurface soil (MP)",0,0
+"EEEPC","Coastal and ocean water",1.70554331588207e-06,5.84043032574014e-07
+"EEEPC","Coastal and ocean water (MP)",0,0
+"AgriculturalFilms","Soil",0.0026685624317227,0.000368234725894175
+"AgriculturalFilms","Soil (MP)",0.025486718947746,0.00218425898775689
+"AgriculturalFilms","Fresh water",2.79668519286479e-06,9.1050935265718e-07
+"AgriculturalFilms","Fresh water (MP)",0,0
+"AgriculturalFilms","Subsurface soil (MP)",0,0
+"AgriculturalFilms","Coastal and ocean water",1.70344483526767e-06,9.26608812031414e-07
+"AgriculturalFilms","Coastal and ocean water (MP)",0,0
+"AgriculturalPipes","Soil",0.0305416863071517,0.00313614703839787
+"AgriculturalPipes","Soil (MP)",0.00103949802916029,7.08872333678218e-05
+"AgriculturalPipes","Fresh water",2.80887829464277e-06,4.64411311645144e-07
+"AgriculturalPipes","Fresh water (MP)",0,0
+"AgriculturalPipes","Subsurface soil (MP)",0,0
+"AgriculturalPipes","Coastal and ocean water",1.71310542473055e-06,4.75585392194872e-07
+"AgriculturalPipes","Coastal and ocean water (MP)",0,0
+"AgriculturalOther","Soil",0.0213227674852531,0.00247583396144295
+"AgriculturalOther","Soil (MP)",0.00103819186231188,9.88926301351987e-05
+"AgriculturalOther","Fresh water",2.80092904298564e-06,6.42994719647101e-07
+"AgriculturalOther","Fresh water (MP)",0,0
+"AgriculturalOther","Subsurface soil (MP)",0,0
+"AgriculturalOther","Coastal and ocean water",1.71356264878048e-06,6.81560520856087e-07
+"AgriculturalOther","Coastal and ocean water (MP)",0,0
+"Household","Soil",0.000654899355042261,9.72568831254455e-05
+"Household","Soil (MP)",0.000402747235458049,4.3907455154748e-05
+"Household","Fresh water",2.80448031875373e-06,4.08565928644789e-07
+"Household","Fresh water (MP)",1.52759936322607e-05,1.96074449045228e-06
+"Household","Subsurface soil (MP)",1.09732699431456e-05,1.57618067286807e-06
+"Household","Coastal and ocean water",1.71779525646434e-06,4.22219914204874e-07
+"Household","Coastal and ocean water (MP)",3.48953909854414e-05,6.57028383520376e-06
+"TamponApplicators","Soil",0.0385839180849444,0.0208756778657913
+"TamponApplicators","Soil (MP)",0,0
+"TamponApplicators","Fresh water",0.00358015491745378,0.00132182045740664
+"TamponApplicators","Fresh water (MP)",0,0
+"TamponApplicators","Subsurface soil (MP)",0,0
+"TamponApplicators","Coastal and ocean water",0.0017597566241984,0.00107329504028832
+"TamponApplicators","Coastal and ocean water (MP)",0,0
+"Furniture","Soil",0.000608402135615865,0.000106690577507151
+"Furniture","Soil (MP)",0,0
+"Furniture","Fresh water",2.80693356440592e-06,4.52364219605951e-07
+"Furniture","Fresh water (MP)",0,0
+"Furniture","Subsurface soil (MP)",0,0
+"Furniture","Coastal and ocean water",1.7166978163455e-06,4.6322163939446e-07
+"Furniture","Coastal and ocean water (MP)",0,0
+"FabricCoatings","Soil",0.000607574807306171,0.000222492201160996
+"FabricCoatings","Soil (MP)",0.00549514072795095,0.000443374323869926
+"FabricCoatings","Fresh water",2.79545663889166e-06,9.41877479794435e-07
+"FabricCoatings","Fresh water (MP)",0.000657391744318821,0.000105986069762727
+"FabricCoatings","Subsurface soil (MP)",0.000317181096688057,7.65336713543093e-05
+"FabricCoatings","Coastal and ocean water",1.70911291006953e-06,9.69066677920968e-07
+"FabricCoatings","Coastal and ocean water (MP)",0.000457002862569625,0.000100537757399382
+"Cosmetics","Soil",0,0
+"Cosmetics","Soil (MP)",0.104622939454808,0.0254595710443962
+"Cosmetics","Fresh water",0,0
+"Cosmetics","Fresh water (MP)",0.0233070250895835,0.0074670549436469
+"Cosmetics","Subsurface soil (MP)",0.115136106528898,0.0227518476963876
+"Cosmetics","Coastal and ocean water",0,0
+"Cosmetics","Coastal and ocean water (MP)",0.0146240542329841,0.00714114717426102
+"ShotgunCartridges","Soil",0.615876437743387,0.0758928799137838
+"ShotgunCartridges","Soil (MP)",0,0
+"ShotgunCartridges","Fresh water",0.0992407800859277,0.0138366081358728
+"ShotgunCartridges","Fresh water (MP)",0,0
+"ShotgunCartridges","Subsurface soil (MP)",0,0
+"ShotgunCartridges","Coastal and ocean water",1.67986237419521e-06,9.51751620274011e-07
+"ShotgunCartridges","Coastal and ocean water (MP)",0,0
+"OtherOther","Soil",0.00060765864156292,0.000102749989086547
+"OtherOther","Soil (MP)",0,0
+"OtherOther","Fresh water",2.80626050041984e-06,4.39951120613649e-07
+"OtherOther","Fresh water (MP)",0,0
+"OtherOther","Subsurface soil (MP)",0,0
+"OtherOther","Coastal and ocean water",1.71011740408459e-06,4.45674238877771e-07
+"OtherOther","Coastal and ocean water (MP)",0,0
+"FishingGearOcean","Soil",0,0
+"FishingGearOcean","Soil (MP)",0,0
+"FishingGearOcean","Fresh water",0,0
+"FishingGearOcean","Fresh water (MP)",0,0
+"FishingGearOcean","Subsurface soil (MP)",0,0
+"FishingGearOcean","Coastal and ocean water",0.0422372275233402,0.00592019427249074
+"FishingGearOcean","Coastal and ocean water (MP)",0.00740187477156603,0.000384276243951538
+"FishingGearInland","Soil",0,0
+"FishingGearInland","Soil (MP)",0,0
+"FishingGearInland","Fresh water",0,0
+"FishingGearInland","Fresh water (MP)",0.00369908982022935,0.000179874967880469
+"FishingGearInland","Subsurface soil (MP)",0,0
+"FishingGearInland","Coastal and ocean water",0,0
+"FishingGearInland","Coastal and ocean water (MP)",0,0
+"FishingGearAqua","Soil",0,0
+"FishingGearAqua","Soil (MP)",0,0
+"FishingGearAqua","Fresh water",0,0
+"FishingGearAqua","Fresh water (MP)",0,0
+"FishingGearAqua","Subsurface soil (MP)",0,0
+"FishingGearAqua","Coastal and ocean water",0,0
+"FishingGearAqua","Coastal and ocean water (MP)",0,0
+"ApparelPC","Soil",0.000604703819418988,0.000200985320030891
+"ApparelPC","Soil (MP)",0.00292359250462165,0.00130500593496798
+"ApparelPC","Fresh water",2.78203563154901e-06,8.35999753305312e-07
+"ApparelPC","Fresh water (MP)",0.00026931268040881,7.83532036177448e-05
+"ApparelPC","Subsurface soil (MP)",0.000965554568577271,0.00019102479948885
+"ApparelPC","Coastal and ocean water",1.69756648452067e-06,8.63167609900227e-07
+"ApparelPC","Coastal and ocean water (MP)",0.00031746951880812,0.000143055333453721
+"HouseholdTextilesPC","Soil",0.000605300819562134,0.000163677778417905
+"HouseholdTextilesPC","Soil (MP)",0.000787473545900281,0.000525459028016996
+"HouseholdTextilesPC","Fresh water",2.80061917420441e-06,7.11595852787708e-07
+"HouseholdTextilesPC","Fresh water (MP)",4.50393626496333e-05,2.2861989911205e-05
+"HouseholdTextilesPC","Subsurface soil (MP)",9.49019597751713e-05,2.24046493439647e-05
+"HouseholdTextilesPC","Coastal and ocean water",1.69370380553016e-06,6.97115440307274e-07
+"HouseholdTextilesPC","Coastal and ocean water (MP)",7.86374032021047e-05,5.35655311183281e-05
+"HygieneMedicalTextiles","Soil",0,0
+"HygieneMedicalTextiles","Soil (MP)",0,0
+"HygieneMedicalTextiles","Fresh water",0,0
+"HygieneMedicalTextiles","Fresh water (MP)",0,0
+"HygieneMedicalTextiles","Subsurface soil (MP)",0,0
+"HygieneMedicalTextiles","Coastal and ocean water",0,0
+"HygieneMedicalTextiles","Coastal and ocean water (MP)",0,0
+"DisposableCleaningCloths","Soil",0.00110738771197354,0.000372342335107251
+"DisposableCleaningCloths","Soil (MP)",0,0
+"DisposableCleaningCloths","Fresh water",4.86485586097626e-05,1.65258374352004e-05
+"DisposableCleaningCloths","Fresh water (MP)",0,0
+"DisposableCleaningCloths","Subsurface soil (MP)",0,0
+"DisposableCleaningCloths","Coastal and ocean water",2.51600492210274e-05,1.36621726731184e-05
+"DisposableCleaningCloths","Coastal and ocean water (MP)",0,0
+"WetWipes","Soil",0.0153892449515535,0.0048857816593766
+"WetWipes","Soil (MP)",0,0
+"WetWipes","Fresh water",0.00141012967228187,0.000331033754443839
+"WetWipes","Fresh water (MP)",0,0
+"WetWipes","Subsurface soil (MP)",0,0
+"WetWipes","Coastal and ocean water",0.000717672406143185,0.000267218963247384
+"WetWipes","Coastal and ocean water (MP)",0,0
+"Tampons","Soil",0.040474600615434,0.0135990020328279
+"Tampons","Soil (MP)",0,0
+"Tampons","Fresh water",0.00380961882423547,0.000799903326274682
+"Tampons","Fresh water (MP)",0,0
+"Tampons","Subsurface soil (MP)",0,0
+"Tampons","Coastal and ocean water",0.00189094432762719,0.000682338447122463
+"Tampons","Coastal and ocean water (MP)",0,0
+"PantyLiners","Soil",0.0280553938362724,0.0145331621112583
+"PantyLiners","Soil (MP)",0,0
+"PantyLiners","Fresh water",0.00258271495157077,0.000917610201774659
+"PantyLiners","Fresh water (MP)",0,0
+"PantyLiners","Subsurface soil (MP)",0,0
+"PantyLiners","Coastal and ocean water",0.00127391275475786,0.00075476275551582
+"PantyLiners","Coastal and ocean water (MP)",0,0
+"SanitaryNapkins","Soil",0.0130555565641884,0.00472776647845679
+"SanitaryNapkins","Soil (MP)",0,0
+"SanitaryNapkins","Fresh water",0.00117837953207297,0.000295341511237191
+"SanitaryNapkins","Fresh water (MP)",0,0
+"SanitaryNapkins","Subsurface soil (MP)",0,0
+"SanitaryNapkins","Coastal and ocean water",0.000586289551211007,0.000240139332368651
+"SanitaryNapkins","Coastal and ocean water (MP)",0,0
+"Agrotextiles","Soil",0.00144293102043068,0.000194027420706342
+"Agrotextiles","Soil (MP)",0.0123393823883255,0.00204636397513838
+"Agrotextiles","Fresh water",2.79495941072655e-06,7.26143609397208e-07
+"Agrotextiles","Fresh water (MP)",0,0
+"Agrotextiles","Subsurface soil (MP)",0,0
+"Agrotextiles","Coastal and ocean water",1.69839423824509e-06,7.45221578424995e-07
+"Agrotextiles","Coastal and ocean water (MP)",0,0
+"MobilityTextiles","Soil",0,0
+"MobilityTextiles","Soil (MP)",0,0
+"MobilityTextiles","Fresh water",0,0
+"MobilityTextiles","Fresh water (MP)",0,0
+"MobilityTextiles","Subsurface soil (MP)",0,0
+"MobilityTextiles","Coastal and ocean water",0,0
+"MobilityTextiles","Coastal and ocean water (MP)",0,0
+"Geotextiles","Soil",0.0242631856691207,0.00381086409234531
+"Geotextiles","Soil (MP)",0,0
+"Geotextiles","Fresh water",0,0
+"Geotextiles","Fresh water (MP)",0,0
+"Geotextiles","Subsurface soil (MP)",0.0121364295643321,0.0019696383908169
+"Geotextiles","Coastal and ocean water",0,0
+"Geotextiles","Coastal and ocean water (MP)",0,0
+"BuildingTextiles","Soil",0.0242441366950005,0.00346347089918332
+"BuildingTextiles","Soil (MP)",0,0
+"BuildingTextiles","Fresh water",0,0
+"BuildingTextiles","Fresh water (MP)",0,0
+"BuildingTextiles","Subsurface soil (MP)",0,0
+"BuildingTextiles","Coastal and ocean water",0,0
+"BuildingTextiles","Coastal and ocean water (MP)",0,0
+"TechnicalHouseholdTextiles","Soil",0.00060207964610098,0.00017764121130949
+"TechnicalHouseholdTextiles","Soil (MP)",0.000787168121219172,0.000526788400004517
+"TechnicalHouseholdTextiles","Fresh water",2.79006179521864e-06,7.72450236585979e-07
+"TechnicalHouseholdTextiles","Fresh water (MP)",4.50119129970871e-05,2.293746755348e-05
+"TechnicalHouseholdTextiles","Subsurface soil (MP)",9.48300678725926e-05,2.30655246659705e-05
+"TechnicalHouseholdTextiles","Coastal and ocean water",1.69209314631452e-06,7.79496687189873e-07
+"TechnicalHouseholdTextiles","Coastal and ocean water (MP)",7.84557717679644e-05,5.39047044559064e-05
+"TechnicalClothing","Soil",0.000601313350274799,0.000188301772334137
+"TechnicalClothing","Soil (MP)",0.00292386477091893,0.00129879696475752
+"TechnicalClothing","Fresh water",2.77033875371836e-06,7.84335960945804e-07
+"TechnicalClothing","Fresh water (MP)",0.000270380749847768,7.49407095511103e-05
+"TechnicalClothing","Subsurface soil (MP)",0.000964506562320601,0.000171625095442732
+"TechnicalClothing","Coastal and ocean water",1.67903433876222e-06,8.00793448114546e-07
+"TechnicalClothing","Coastal and ocean water (MP)",0.000317120495231166,0.000138705512598312
+"OtherTechnicalTextiles","Soil",0.000605349521877364,0.000324674229706486
+"OtherTechnicalTextiles","Soil (MP)",0,0
+"OtherTechnicalTextiles","Fresh water",2.80161209688343e-06,1.31242619068568e-06
+"OtherTechnicalTextiles","Fresh water (MP)",0,0
+"OtherTechnicalTextiles","Subsurface soil (MP)",0,0
+"OtherTechnicalTextiles","Coastal and ocean water",1.69229519291399e-06,1.41481144372785e-06
+"OtherTechnicalTextiles","Coastal and ocean water (MP)",0,0
+"Post-consumer processes","Soil",0.002215524273342,0.000330342133793401
+"Post-consumer processes","Soil (MP)",0.000132952911235256,1.44205642214381e-05
+"Post-consumer processes","Fresh water",0,0
+"Post-consumer processes","Fresh water (MP)",1.52810025117523e-05,3.42702676025098e-06
+"Post-consumer processes","Subsurface soil (MP)",6.68104974326488e-05,1.13910664132724e-05
+"Post-consumer processes","Coastal and ocean water",0,0
+"Post-consumer processes","Coastal and ocean water (MP)",1.32249217823755e-05,3.30360071077655e-06

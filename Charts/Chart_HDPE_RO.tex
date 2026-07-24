@@ -1,0 +1,19 @@
+
+\input{code_header}
+
+% For importing data
+\readdef{flow_RO_full.txt}\myflowdef
+
+\input{code_dataimportation}
+
+% For importing data
+\newcommand{\tottext}[1]{\csname#1textHDPE\endcsname}
+\newcommand{\totwidth}[1]{\csname#1widthHDPE\endcsname}
+
+\input{code_tikzpicture}
+
+\node[font=\Huge](title) at (0,20.9){\textbf{HDPE in Romania}};
+
+\end{tikzpicture}
+\end{document}
+

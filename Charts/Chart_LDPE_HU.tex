@@ -1,0 +1,19 @@
+
+\input{code_header}
+
+% For importing data
+\readdef{flow_HU_full.txt}\myflowdef
+
+\input{code_dataimportation}
+
+% For importing data
+\newcommand{\tottext}[1]{\csname#1textLDPE\endcsname}
+\newcommand{\totwidth}[1]{\csname#1widthLDPE\endcsname}
+
+\input{code_tikzpicture}
+
+\node[font=\Huge](title) at (0,20.9){\textbf{LDPE in Hungary}};
+
+\end{tikzpicture}
+\end{document}
+

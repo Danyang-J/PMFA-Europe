@@ -1,0 +1,46 @@
+\input{code_header}
+
+% Scaling-method colors used for every flow in the original chart layout.
+\definecolor{methodDirect}{RGB}{60,139,99}
+\definecolor{methodProxy}{RGB}{214,139,60}
+\definecolor{methodUniform}{RGB}{154,163,173}
+
+% Unified gray group backgrounds and white compartment fills.
+\definecolor{fillgreen}{RGB}{255,255,255}
+\definecolor{fillyellow}{RGB}{255,255,255}
+\definecolor{fillblue}{RGB}{255,255,255}
+\definecolor{fillpurple}{RGB}{255,255,255}
+\definecolor{fillorange}{RGB}{255,255,255}
+\definecolor{fillstorm}{RGB}{255,255,255}
+\definecolor{filllandfill}{RGB}{255,255,255}
+\definecolor{fillsludge}{RGB}{255,255,255}
+\definecolor{fillocean}{RGB}{255,255,255}
+\definecolor{mylandfill}{RGB}{255,255,255}
+\definecolor{lightblue}{RGB}{232,232,232}
+\definecolor{lightbrown}{RGB}{232,232,232}
+\definecolor{lightgreen}{RGB}{232,232,232}
+\definecolor{lightgray}{RGB}{232,232,232}
+\definecolor{groupLabelGray}{RGB}{200,200,200}
+\colorlet{mydarkblue}{black!45}
+\colorlet{mybrown}{black!45}
+\colorlet{mygreen}{white}
+\colorlet{myred}{white}
+
+% Reuse the original chart data only to preserve each flow's original width.
+\readdef{0_flow.txt}\myflowdef
+\input{code_dataimportation}
+\newcommand{\totwidth}[1]{\csname#1widthPlastic\endcsname}
+
+\input{0_code_tikzpicture_scaling}
+
+% Place the scaling-method legend below the unchanged original plot frame.
+\node[font=\Large\bfseries,anchor=west] at (-18.2,-24.2) {Scaling method};
+\draw[scalingdirect,line width=6pt] (-12.7,-24.2) -- ++(1.8,0);
+\node[font=\Large,anchor=west] at (-10.6,-24.2) {Country-specific, direct data};
+\draw[scalingproxy,line width=6pt] (0.0,-24.2) -- ++(1.8,0);
+\node[font=\Large,anchor=west] at (2.1,-24.2) {Country-specific, proxies};
+\draw[scalinguniform,line width=6pt] (11.6,-24.2) -- ++(1.8,0);
+\node[font=\Large,anchor=west] at (13.7,-24.2) {Uniform parameters};
+
+\end{tikzpicture}
+\end{document}

@@ -1,0 +1,19 @@
+
+\input{code_header}
+
+% For importing data
+\readdef{flow_NL_full.txt}\myflowdef
+
+\input{code_dataimportation}
+
+% For importing data
+\newcommand{\tottext}[1]{\csname#1textPS\endcsname}
+\newcommand{\totwidth}[1]{\csname#1widthPS\endcsname}
+
+\input{code_tikzpicture}
+
+\node[font=\Huge](title) at (0,20.9){\textbf{PS in Netherlands}};
+
+\end{tikzpicture}
+\end{document}
+
